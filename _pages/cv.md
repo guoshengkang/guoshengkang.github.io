@@ -12,15 +12,15 @@ Education
 ======
 * **Ph.D., in Computing Science, [Fudan University](http://www.fudan.edu.cn)**
   * **Year**: 2019
-  * **Doctoral Thesis**: Research On Methodology of Business Process Modeling and Business Process Model Verification (业务流程建模与业务流程模型验证方法研究 [PDF](http://guoshengkang.github.io/files/DoctoralThesis.pdf))
+  * **Doctoral Thesis**: Research On Methodology of Business Process Modeling and Business Process Model Verification ([业务流程建模与业务流程模型验证方法研究](http://guoshengkang.github.io/files/DoctoralThesis.pdf))
   * **Supervisor**: [Prof. Liang Zhang](http://homepage.fudan.edu.cn/lzhang/)
 * **M.S., in Computer Science, [Hunan University Of Science and Technology](http://www.hnust.edu.cn/)**
   * **Year**: 2011
-  * **Master Thesis**: Research on Global Optimal Web Service Selection Model and Algorithm (全局优化Web服务选择模型及算法研究 [PDF](http://guoshengkang.github.io/files/MasterThesis.pdf))
+  * **Master Thesis**: Research on Global Optimal Web Service Selection Model and Algorithm ([全局优化Web服务选择模型及算法研究](http://guoshengkang.github.io/files/MasterThesis.pdf))
   * **Supervisor**: [Prof. Jianxun Liu](https://baike.baidu.com/item/%E5%88%98%E5%BB%BA%E5%8B%8B/12002129?fr=aladdin)
 * **B.A., in Information and Computing Science, [Hunan University Of Science and Technology](http://www.hnust.edu.cn/)**
   * **Year**: 2008
-  * **Senior Thesis**: To Solve the Discrete Format of a Type of Elliptic Differential Equations (一类椭圆型偏微分方程离散格式的求解 [PDF](http://guoshengkang.github.io/files/SeniorThesis.pdf))
+  * **Senior Thesis**: To Solve the Discrete Format of a Type of Elliptic Differential Equations ([一类椭圆型偏微分方程离散格式的求解](http://guoshengkang.github.io/files/SeniorThesis.pdf))
   * **Supervisor**: [Min Tang](http://math.hnust.edu.cn/pub/sxxy/szdw/jsjs/105553.htm)
 
 Work Experience
