@@ -13,6 +13,7 @@ redirect_from:
 How to do research?
 ======
 * Application of NSFC project, and writing experience [PDF](http://guoshengkang.github.io/resources/国家自然科学基金项目申报与申请书填写心得.pdf)(in Chinese)
+* Writing specifications and submission guidelines for scientific and technical papers, By Xin Yang, from Fudan library training,  [PDF](http://guoshengkang.github.io/resources/科技论文的写作规范与投稿指南.pdf)(in Chinese)
 
 Book recommendation
 ======
