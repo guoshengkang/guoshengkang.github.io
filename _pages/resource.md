@@ -12,8 +12,9 @@ redirect_from:
 
 How to do research?
 ======
-* Application of NSFC project, and writing experience [PDF](http://guoshengkang.github.io/resources/国家自然科学基金项目申报与申请书填写心得.pdf)(in Chinese)
-* Writing specifications and submission guidelines for scientific and technical papers, By Xin Yang, from Fudan library training,  [PDF](http://guoshengkang.github.io/resources/科技论文的写作规范与投稿指南.pdf)(in Chinese)
+* [Application of NSFC project, and writing experience](http://guoshengkang.github.io/resources/国家自然科学基金项目申报与申请书填写心得.pdf)(in Chinese)
+* [Writing specifications and submission guidelines for scientific and technical papers](http://guoshengkang.github.io/resources/科技论文的写作规范与投稿指南.pdf) (in Chinese), By Xin Yang, from Fudan library training
+* [Use Abstract databases (e.g., Web of Science) to do literature review](http://guoshengkang.github.io/resources/如何利用Web of Science等文摘索引类数据库进行文献调研.pdf) (in Chinese), By Xin Yang, from Fudan library training
 
 Book recommendation
 ======
