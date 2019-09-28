@@ -33,5 +33,5 @@ Contact
 ------
 > "Excellence is not about what they do, but about who they are." —— Unknown  
 > "Do what is right, not what is easy." —— Unknown  
-> "If Winter comes, can Spring be far behind? While we must do well what should be done in Winter." —— Unknown
+> "If Winter comes, can Spring be far behind? While we must do well what should be done in Winter." —— Unknown  
 > "Don't compare your progress with that of others. We all need our own time to travel our own distance." —— Unknown  
