@@ -8,13 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
-**More useful resources will be added in this page soon...**
-
 How to do research?
 ======
-* [Application of NSFC project, and writing experience](http://guoshengkang.github.io/resources/国家自然科学基金项目申报与申请书填写心得.pdf) (in Chinese)
-* [Writing specifications and submission guidelines for scientific and technical papers](http://guoshengkang.github.io/resources/科技论文的写作规范与投稿指南.pdf) (in Chinese), by Xin Yang, from Fudan library training
-* [Use abstract databases (e.g., Web of Science) to do literature review](http://guoshengkang.github.io/resources/如何利用Web of Science等文摘索引类数据库进行文献调研.pdf) (in Chinese), by Xin Yang, from Fudan library training
+* [Application of NSFC Project, and Writing Experience](http://guoshengkang.github.io/resources/国家自然科学基金项目申报与申请书填写心得.pdf) (in Chinese)
+* [Writing Specifications and Submission Guidelines for Scientific and Technical Papers](http://guoshengkang.github.io/resources/科技论文的写作规范与投稿指南.pdf) (in Chinese), by Xin Yang, from Fudan library training
+* [Use Abstract Databases (e.g., Web of Science) to Do Literature Review](http://guoshengkang.github.io/resources/如何利用Web of Science等文摘索引类数据库进行文献调研.pdf) (in Chinese), by Qiu Chen, from Fudan library training
+* [Literature Review before Proposal](http://guoshengkang.github.io/resources/开题与立项前的文献调研.pdf) (in Chinese), by Yi Zhou, from Fudan library training
 
 Book recommendation
 ======
