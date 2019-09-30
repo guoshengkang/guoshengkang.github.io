@@ -8,7 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
-How to do research?
+Outline
+======
+- [**How to do research?**](#How_to_do_research)
+- [**Book recommendation**](#Book recommendation)
+- [**How to do research?**](#How_to_do_research)
+- [**How to do research?**](#How_to_do_research)
+
+
+<span id="How_to_do_research">How to do research?</span>  
 ======
 * [Application of NSFC Project, and Writing Experience](http://guoshengkang.github.io/resources/国家自然科学基金项目申报与申请书填写心得.pdf) (in Chinese)
 * [Writing Specifications and Submission Guidelines for Scientific and Technical Papers](http://guoshengkang.github.io/resources/科技论文的写作规范与投稿指南.pdf) (in Chinese), by Xin Yang, from Fudan library training
@@ -16,7 +24,7 @@ How to do research?
 * [Literature Review before Proposal](http://guoshengkang.github.io/resources/开题与立项前的文献调研.pdf) (in Chinese), by Yi Zhou, from Fudan library training
 * [EndNote X9 for Reference Management and Writing](http://guoshengkang.github.io/resources/轻松应对文献管理与写作之——EndNote X9.pdf) (in Chinese), by Tingying Huang from Clarivate Analytics
 
-Book recommendation
+<span id="Book recommendation">Book recommendation</span> 
 ======
 * **Computer Science**
   * [《Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Engineering》](http://guoshengkang.github.io/resources/2019_BOOK_Algebra_Topology_Differential_Calculus_and_Optimization_Theory_For_Computer_Science_and_Engineering.pdf), 2019, by Jean Gallier and Jocelyn Quaintance
