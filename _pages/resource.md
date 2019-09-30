@@ -10,13 +10,13 @@ redirect_from:
 
 Outline
 ======
-- [**How to do research?**](#How_to_do_research)
+- [**How to do research?**](#How to do research?)
 - [**Book recommendation**](#Book recommendation)
-- [**How to do research?**](#How_to_do_research)
-- [**How to do research?**](#How_to_do_research)
+- [**Useful links**](#Useful links)
+- [**Software download**](#Software download)
+------
 
-
-<span id="How_to_do_research">How to do research?</span>  
+<span id="How to do research?">How to do research?</span>  
 ======
 * [Application of NSFC Project, and Writing Experience](http://guoshengkang.github.io/resources/国家自然科学基金项目申报与申请书填写心得.pdf) (in Chinese)
 * [Writing Specifications and Submission Guidelines for Scientific and Technical Papers](http://guoshengkang.github.io/resources/科技论文的写作规范与投稿指南.pdf) (in Chinese), by Xin Yang, from Fudan library training
@@ -52,7 +52,7 @@ Outline
   * [《Services Computing》](http://guoshengkang.github.io/resources/2007_BOOK_Services_Computing.pdf), 2007, by Liang-Jie Zhang, Jia Zhang, Hong Cai
   * [《Microservices: Flexible Software Architecture》](http://guoshengkang.github.io/resources/2017_BOOK_Microservices_Flexible_Software_Architecture.pdf), 2017, by Eberhard Wolff
 
-Useful links
+<span id="Useful links">Useful links</span>  
 ======
 * **Google Mirror**
   * <http://ac.scmor.com>
@@ -74,7 +74,7 @@ Useful links
   * <https://www.grammarly.com/>
     * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
 
-Software download
+<span id="Software download">Software download</span> 
 ======
 * [Endnote X9](https://pan.baidu.com/s/1rXHrNLKQRERX6Gmv1UmeSw)
 * [SciHub 3.3](https://pan.baidu.com/s/1cWkHNH9si2YRcNGOAM6wQA)
