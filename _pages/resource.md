@@ -46,14 +46,14 @@ Book recommendation
 
 Useful links
 ======
-* **Google Mirror (谷歌镜像)**
+* **Google Mirror**
   * <http://ac.scmor.com>
   * Other back-ups
     * <http://so.hiqq.com.cn/>
     * <https://xs.glgooo.top/>
     * <https://f.glgooo.top/>
     * <https://c.beijingbang.top>
-* **Academic House (学术屋)**
+* **Academic House**
   * <http://sci.xueshuwu.cn>
 * **SCI-HUB**
   * <http://sci-hub.tw/>
