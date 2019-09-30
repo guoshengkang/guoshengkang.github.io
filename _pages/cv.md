@@ -36,7 +36,7 @@ Work Experience
   
 * 2011.7-2012.8: Research Assistant
   * [Hunan University of Science and Technology](http://www.hnust.edu.cn/)
-  * Duties included: Reasear on Service Computing
+  * Duties included: Research on Service Computing
 
 Awards
 ======
