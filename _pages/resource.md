@@ -14,6 +14,7 @@ How to do research?
 * [Writing Specifications and Submission Guidelines for Scientific and Technical Papers](http://guoshengkang.github.io/resources/科技论文的写作规范与投稿指南.pdf) (in Chinese), by Xin Yang, from Fudan library training
 * [Use Abstract Databases (e.g., Web of Science) to Do Literature Review](http://guoshengkang.github.io/resources/如何利用Web of Science等文摘索引类数据库进行文献调研.pdf) (in Chinese), by Qiu Chen, from Fudan library training
 * [Literature Review before Proposal](http://guoshengkang.github.io/resources/开题与立项前的文献调研.pdf) (in Chinese), by Yi Zhou, from Fudan library training
+* [EndNote X9 for Reference Management and Writing](http://guoshengkang.github.io/resources/轻松应对文献管理与写作之——EndNote X9.pdf) (in Chinese), by Tingying Huang from Clarivate Analytics
 
 Book recommendation
 ======
