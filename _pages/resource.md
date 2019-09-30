@@ -65,3 +65,8 @@ Useful links
 * **Grammarly**
   * <https://www.grammarly.com/>
     * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
+
+Software download
+======
+* [Endnote X9](https://pan.baidu.com/s/1rXHrNLKQRERX6Gmv1UmeSw)
+* [SciHub 3.3](https://pan.baidu.com/s/1cWkHNH9si2YRcNGOAM6wQA)
