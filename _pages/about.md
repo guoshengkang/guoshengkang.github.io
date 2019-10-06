@@ -35,3 +35,4 @@ Contact
 > "Do what is right, not what is easy." —— Unknown  
 > "If Winter comes, can Spring be far behind? While we must do well what should be done in Winter." —— Unknown  
 > "Don't compare your progress with that of others. We all need our own time to travel our own distance." —— Unknown  
+> "If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own." —— Henry Ford  
