@@ -19,7 +19,6 @@ Research interest
 What’s new
 ------
 - [x] I will be on summer vocation for nearly a month. _posted 7/16/2019 11:23:34 AM_
-- [ ] I will be a lecturer in this autumn at Hunan University of Science and Technology, Xiangtan. _posted 7/15/2019 9:25:55 AM_
 
 Contact
 ------
