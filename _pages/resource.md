@@ -43,6 +43,7 @@ Outline
 * **Mathematics**
   * [《Elementary Linear Algebra——A Matrix Approach》](http://guoshengkang.github.io/resources/2014_BOOK_Elementary_Linear_Algebra——A_Matrix_Approach.pdf), 2014, by L. Spence A. Insel S. Friedberg
     * [video course](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA18.html) by [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
+  * [《Mathematical Statistics and Data Analysis》](http://guoshengkang.github.io/resources/2006_BOOK_Mathematical_Statistics_and_Data_Analysis_3ed.pdf), 2006, by John A. Rice
 * **Business Process Management**
   * [《Fundamentals of Business Process Management》](http://guoshengkang.github.io/resources/2018_BOOK_Fundamentals_of_Business_Process_Management.pdf), 2018, by [Marlon Dumas](https://kodu.ut.ee/~dumas/), [Marcello La Rosa](http://www.marcellolarosa.com/), Jan Mendling, Hajo A. Reijers
   * [《Business Process Management: Concepts, Languages, Architectures》](http://guoshengkang.github.io/resources/2012_BOOK_Business_Process_Management_Concepts_Languages_Architectures.pdf), 2012, by Mathias Weske
