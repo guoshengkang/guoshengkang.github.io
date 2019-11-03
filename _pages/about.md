@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in [School of Computer Science](http://www.cs.fudan.edu.cn/), [Fudan University](http://www.fudan.edu.cn), Shanghai, China. I received both B.A. and M.S. degree in mathematics and computer science respectively from [Hunan University of Science and Technology](http://www.hnust.edu.cn/). I have been an IEEE student member since 2010. I was a research assistant at [Hunan University of Science and Technology](http://www.hnust.edu.cn/) from 2011 to 2012. I have published more than 20 papers and the publications have appeared in some well-know conference proceedings and international journals, such as ICWS, ICSOC, IEEE BigData, TSC, TNSM, FGCS, CCPE, etc. 
+I am currently a PhD student in [School of Computer Science](http://www.cs.fudan.edu.cn/), [Fudan University](http://www.fudan.edu.cn), Shanghai, China. I received both B.A. and M.S. degrees in mathematics and computer science respectively from [Hunan University of Science and Technology](http://www.hnust.edu.cn/). I have been an IEEE student member since 2010. I was a research assistant at [Hunan University of Science and Technology](http://www.hnust.edu.cn/) from 2011 to 2012. I have published more than 20 papers and the publications have appeared in some well-know conference proceedings and international journals, such as ICWS, ICSOC, IEEE BigData, TSC, TNSM, FGCS, CCPE, etc. 
 
 Research interest
 ------
