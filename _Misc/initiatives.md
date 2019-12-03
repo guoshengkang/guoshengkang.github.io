@@ -3,7 +3,7 @@ title: "Initiatives"
 collection: Misc
 permalink: /Misc/initiatives
 ---
-* **Birth Control**: Today, many babies or children  suffer from serious illnesses. Besides some unpredictable causes, many diseases are caused by the lack of pre-pregnancy medical examinations or the absence of timely inspections and treatment during pregnancy. Therefore, I call for a rigorous physical examination before marriage and before pregnancy to ensure that the pregnancy is planned when it is suitable for pregnancy. When pregnant, medical examinations should be performed on time to ensure early treatment when problems come.
+* **Birth Control**: Today, many babies or children  suffer from serious illnesses. Besides some unpredictable causes, many diseases are caused by the lack of pre-pregnancy medical examinations or the absence of timely inspections and treatment during pregnancy. Therefore, I call for a rigorous physical examination before marriage and before pregnancy to ensure that the pregnancy is planned when it is suitable for pregnancy. When pregnant, medical examinations should be performed regularly to ensure timely treatment when problems come.
 
 * **Care for Sanitation Workers**: Nowadays, sanitation workers in cities need to wait by the roadside during the day after cleaning the streets early in the morning. When garbage is found, They have to clean it up any time. They don't have a shelter, they usually hide at bus stops during the scorching, heavy rain or cold weather. Therefore, I call for no throwing away garbage, so that the workload of workers can be relieved, and their suffering could be less especially in bad weather.
 
