@@ -16,7 +16,7 @@ Research interest
 * Machine Learning & Data Mining
 
 
-What’s new :tw-1f195:
+What’s new
 ------
 - [x] I will be on summer vocation for nearly a month. _posted 7/16/2019 11:23:34 AM_
 
