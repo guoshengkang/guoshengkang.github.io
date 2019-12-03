@@ -51,5 +51,5 @@ Hobbies
 <!-- [here](http://guoshengkang.github.io/files/MyPoems.pdf "MyPoems") -->
 <!-- <a href="http://guoshengkang.github.io/files/MyPoems.pdf" title="MyPoems">here</a> -->
 
-[Initiatives](http://guoshengkang.github.io/Misc/initiatives) (in Chinese)
+[Initiatives](http://guoshengkang.github.io/Misc/initiatives)
 ------

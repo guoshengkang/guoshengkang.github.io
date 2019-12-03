@@ -1,8 +1,12 @@
 ---
-title: "Initiatives(倡议)"
+title: "Initiatives"
 collection: Misc
 permalink: /Misc/initiatives
 ---
-* **计划生育**：现今有很多婴儿和儿童身患重大疾病，除了来自不可预测的因素外，有很多是由于孕前没有体检和孕中没有按时检查并及时治疗人为造成的。因此，呼吁在婚前、孕前进行严格体检，确保在适孕情况下有计划地备孕，同时在怀孕时按时做检查，确保病情出现时尽早治疗和处理。
-* **关爱环卫工人**：现今城市的环卫工人在大清早清扫完大街后白天还需要在马路边守候，发现垃圾时随时清理，他们没有固定的可以躲避的房子，在烈日、暴雨和寒冷天气时一般是躲在公交站台。因此，呼吁不要随手扔垃圾，以减轻环卫工人的工作，免受恶劣天气带来的痛苦。
-* **关爱留守儿童**：现今中国农村出现大量留守儿童，缺乏父母的陪伴和管教、沉迷手机游戏、心理健康出现严重问题。因此，呼吁父母无论生活多么辛苦，尽量把孩子带在身边，或甘愿为了孩子留在农村过清贫的生活，给孩子一个健康的童年和美好的未来。
+* **Birth Control**： Today, many babies or children  suffer from serious illnesses. Besides some unpredictable causes, many diseases are caused by the lack of pre-pregnancy medical examinations or the absence of timely inspections and treatment during pregnancy. Therefore, I call for a rigorous physical examination before marriage and before pregnancy to ensure that the pregnancy is planned when it is suitable for pregnancy. When pregnant, medical examinations should be performed on time to ensure early treatment when problems come.
+
+* **Care for Sanitation Workers**： Nowadays, sanitation workers in cities need to wait by the roadside during the day after cleaning the streets early in the morning. When garbage is found, They have to clearn it up any time. They don't have a shelter, they usually hide at bus stops during the scorching, heavy rain or cold weather. Therefore, I call for no throwing away garbage, so that the workload of workers can be relieved, and their suffering could be less especially in bad weather.
+
+* **Care for left-behind children**： Today there are a large number of left-behind children in rural China. They lack parental companionship and discipline, are addicted to mobile games, and have serious mental health problems. Therefore, I call for that parents should try their best to bring their children with them, no matter how hard life is or be willing to stay in the countryside for their children even to live a poor life, so that their children can have a healthy childhood and a bright future.
+
+* **Academic fairness**： At present, the review of academic papers is mostly voluntary. There is no specific standard for review. The review results are often subjective, with some irresponsible comments, or based on interpersonal relationships. As for papers, many of them have no clear introduction for mothods and procedures, so their study cannot be reproduced or nedds much (even extra) effort to repeat the experiments.  Therefore, on one side, I call for reviewers to conduct review impartially without emotional factor. When giving an opinion, sufficient specific reasons should be given. on the other side, authors should write the specific process of the proposed method clearly, and make their data and code public if possible, so that readers can quickly reproduce the paper's method for comparison.
