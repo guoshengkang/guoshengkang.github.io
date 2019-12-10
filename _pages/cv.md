@@ -12,7 +12,7 @@ Education
 ======
 * **Ph.D., in Computing Science, [Fudan University](http://www.fudan.edu.cn)**
   * **Year**: 2019
-  * **Doctoral Thesis**: Research on Methodology of Business Process Modeling and Business Process Model Verification ([业务流程建模与业务流程模型验证方法研究](http://guoshengkang.github.io/files/DoctoralThesis.pdf))
+  * **Doctoral Thesis**: Research on Methodology of Business Process Modeling and Business Process Model Verification ([业务流程建模与业务流程模型验证方法研究](http://guoshengkang.github.io/files/DoctoralThesis.pdf)) [Slides](http://guoshengkang.github.io/files/DoctoralThesis_Slides.pdf)
   * **Supervisor**: [Prof. Liang Zhang](http://homepage.fudan.edu.cn/lzhang/)
 * **M.S., in Computer Science, [Hunan University of Science and Technology](http://www.hnust.edu.cn/)**
   * **Year**: 2011
