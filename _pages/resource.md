@@ -77,6 +77,7 @@ Outline
     * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
 * **Online LaTeX Editor**
   * <https://www.overleaf.com/>
+    * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
 
 <span id="Software download">Software download</span> 
 ======
