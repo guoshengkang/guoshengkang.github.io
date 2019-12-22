@@ -1,7 +1,7 @@
 ---
-title: "inspirations"
+title: "Inspirations"
 collection: Misc
-permalink: /Misc/inspirations
+<!-- permalink: /Misc/inspirations -->
 ---
 - Never let a problem to be solved become more important than a person to be loved. - Barbara Johnson 
 - Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. - Martin Luther King, Jr. 
