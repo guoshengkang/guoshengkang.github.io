@@ -4,50 +4,59 @@ collection: Misc
 permalink: /Misc/inspirations
 ---
 ## Love 
+- Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. ----- Martin Luther King
+- If you love someone tell them because hearts are often broken by words left unspoken. ---- Unknown
+- Love is nothing without action. Trust is nothing without proof. And sorry is nothing without change. ---- Unknown
+- Live simply. Love generously. Speak truthfully. Pray daily. Leave everything else to God. ---- Unknown
+- Fill your mind with truth; fill your heart with love; and fill your life with service. ---- Thomas S. Monson
+
 
 ## Forgiveness
+- All blame is a waste of time. No matter how much fault you find with another, and regardless of how much you blame them, it will not change you. ----- Wayne Dyer
+
 
 ## Gratitude
+- It's great to be happy, but it's even better to bring happiness to others. ----- Unknown
+
 
 ## Truth & Faith
-
-- Never let a problem to be solved become more important than a person to be loved. ---- Barbara Johnson 
-- Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. ----- Martin Luther King
 - People were created to be loved. Things were created to be used. The reason why the world is in chaos, is because things are being loved and people are being used. ---- John Green
-- The greatest gifts you can give someone are your time, your love, and your attention. ---- Unknown
-- If you love someone tell them because hearts are often broken by words left unspoken. ---- Unknown
 - I believe in the sun even when it’s not shining. I believe in love even when I cannot feel it. I believe in God even when He is silent. ---- Unknown
-- Love is nothing without action. Trust is nothing without proof. And sorry is nothing without change. ---- Unknown
+- Truth is not diminished by the number of people who believe it. ---- Unknown
+- God doesn't give you the people you want, he gives you the people you need. ---- Unknown
+- Faith is not the belief that God will do what you want. It is the belief that God will do what is right. ----- Max Lucado
+
+## Life
+- Never let a problem to be solved become more important than a person to be loved. ---- Barbara Johnson 
+- The greatest gifts you can give someone are your time, your love, and your attention. ---- Unknown
 - Always Believe that something Wonderful is going to happen. Even with all the ups and downs, never take a day for granted. Smile, Cherish the little things and remember to Hug the ones you Love. ---- Brigitte Nicole
 - A real relationship has: tears and laughter, trust and faith, disagreements, pain and patience, respect, and most importantly, love. ---- Unknown
+- Nothing you wear is more important than your smile. ---- Connie Stevens
+- Be sure to taste your words before you spit them out. ---- Unknown
+- Remember it's just a bad day, not a bad life. ---- Unknown
+- Tomorrow's life is too late. Live today. ---- Marcus Valerius Martialis
+
+## Change
 - Whatever you want to do, do it now. There are only so many tomorrows. ---- Michael Landon 
 - The best way to predict the future is to create it. - Peter Drucker
-- Truth is not diminished by the number of people who believe it. ---- Unknown
-- Live simply. Love generously. Speak truthfully. Pray daily. Leave everything else to God. ---- Unknown
 - Prove yourself to yourself not others. ----- Unknown
-- Fill your mind with truth; fill your heart with love; and fill your life with service. ---- Thomas S. Monson
-- Nothing you wear is more important than your smile. ---- Connie Stevens
 - You will never change your life until you change something you do daily. ----- Mike Murdock
-- God doesn't give you the people you want, he gives you the people you need. ---- Unknown
 - I used to believe that prayer changes things, but now I know that prayer changes us and we change things. ----- Mother Teresa
-- Your failure does not define you, your determination does. ---- Unknown
-- Be sure to taste your words before you spit them out. ---- Unknown
-- It's great to be happy, but it's even better to bring happiness to others. ----- Unknown
 - All great achievements require time. ---- Maya Angelou
 - The best time to start was yesterday. The next best time is now. ---- Unknown
+
+## Courage
+- Your failure does not define you, your determination does. ---- Unknown
 - You never lose by loving. You only lose by holding back. ---- Unknown
-- Faith is not the belief that God will do what you want. It is the belief that God will do what is right. ----- Max Lucado
 - When you're wrong, admit it. When you're right, be quiet. ---- Unknown
-- Remember it's just a bad day, not a bad life. ---- Unknown
 - Instead of letting your hardships and failures discourage or exhaust you, let them inspire you. ---- Michelle Obama
 - A meaningful silence is always better than meaningless words. ----- Unknown
 - The pain you feel today will be the strength you feel tomorrow. ---- Unknown
-- Tomorrow's life is too late. Live today. ---- Marcus Valerius Martialis
 - The only way to achieve the impossible is to believe it is possible. ----- Charles Kingsleigh
 - Always do your best. What you plant now, you will harvest later. ---- Og Mandino
 - A ship in harbor is safe but that is not what ships are built for. ---- John A Shedd
 - Never give up. Great things take time. Be patient. ---- Unknown
-- All blame is a waste of time. No matter how much fault you find with another, and regardless of how much you blame them, it will not change you. ----- Wayne Dyer
+
 - Don't count the days, make the days count. ---- Muhammad Ali
 - It always seems impossible until it's done. ----- Nelson Mandela
 - The truly rich are those who enjoy what they have. - Yiddish Proverb
