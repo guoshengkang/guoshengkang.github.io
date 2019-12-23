@@ -1,7 +1,7 @@
 ---
 title: "Inspirations"
 collection: Misc
-permalink: /Misc/inspirations give
+permalink: /Misc/inspirations
 ---
 ## Love & Giving & Forgiveness & Gratitude & Suffering
 - Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. ----- Martin Luther King
