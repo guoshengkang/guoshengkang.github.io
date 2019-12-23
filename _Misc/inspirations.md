@@ -3,7 +3,14 @@ title: "Inspirations"
 collection: Misc
 permalink: /Misc/inspirations
 ---
-## love 
+## Love 
+
+## Forgiveness
+
+## Gratitude
+
+## Truth & Faith
+
 - Never let a problem to be solved become more important than a person to be loved. ---- Barbara Johnson 
 - Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. ----- Martin Luther King
 - People were created to be loved. Things were created to be used. The reason why the world is in chaos, is because things are being loved and people are being used. ---- John Green
