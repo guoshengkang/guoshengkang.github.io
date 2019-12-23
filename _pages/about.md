@@ -33,13 +33,11 @@ Contact
 > "Excellence is not about what they do, but about who they are." —— Unknown  
 > "Do what is right, not what is easy." —— Unknown  
 > "If Winter comes, can Spring be far behind? While we must do well what should be done in Winter." —— Unknown  
-> "Don't compare your progress with that of others. We all need our own time to travel our own distance." —— Unknown  
 > "The elevator to success is out of order. You'll have to take the stairs.....one step at a time." —— Unknown  
 > "Judging a person doesn’t define who they are, it defines who you are." —— Unknown   
 > "Success isn't just about what you accomplish in your life, it's about what you inspire others to do."  —— Unknown  
 > "Coming together is a beginning. Keeping together is progress. Working together is success."  —— Unknown  
-> "the function of leadership is to produce more leaders, not more followers."  —— Unknown  
+> "The function of leadership is to produce more leaders, not more followers."  —— Unknown  
 > "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him"  —— Unknown  
-> "If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own." —— Henry Ford  
 
 [More inspirations ...](http://guoshengkang.github.io/Misc/inspirations)

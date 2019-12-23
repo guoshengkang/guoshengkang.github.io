@@ -102,6 +102,7 @@ permalink: /Misc/inspirations
 388. Your work is to discover your work and then, with all your heart, to give yourself to it. ---- Unknown
 
 ## <span id="Attitude">Attitude & Life & Happiness</span>
+47. Don't compare your progress with that of others. We all need our own time to travel our own distance. ---- Unknown
 48. Never let a problem to be solved become more important than a person to be loved. ---- Barbara Johnson 
 49. Always Believe that something Wonderful is going to happen. Even with all the ups and downs, never take a day for granted. Smile, Cherish the little things and remember to Hug the ones you Love. ---- Brigitte Nicole
 50. A real relationship has: tears and laughter, trust and faith, disagreements, pain and patience, respect, and most importantly, love. ---- Unknown
@@ -387,3 +388,4 @@ permalink: /Misc/inspirations
 371. Anyone can give up, it's the easiest thing in the world to do, but to hold it together when everyone would expect you to fall apart, that's True Strength. ---- Unknown
 387. The will to win, the desire to succeed, the urge to reach your full potential, these are the keys that will unlock the door to personal excellence. ---- Unknown
 389. The man who gets ahead does the thing that should be done without being told to do it. But he doesn't stop there; he goes the extra mile by doing a great deal more than is expected or demanded of him. ---- Unknown
+389. If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own. ---- Henry Ford  
