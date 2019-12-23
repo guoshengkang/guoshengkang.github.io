@@ -53,3 +53,6 @@ Hobbies
 
 [Initiatives](http://guoshengkang.github.io/Misc/initiatives)
 ------
+
+[Initiatives](http://guoshengkang.github.io/Misc/inspirations)
+------
