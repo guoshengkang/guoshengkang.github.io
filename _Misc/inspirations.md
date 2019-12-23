@@ -4,6 +4,7 @@ collection: Misc
 permalink: /Misc/inspirations
 ---
 ## Love & Giving & Forgiveness & Gratitude & Suffering
+- Thankfulness is the beginning of happiness. - Unknown
 - Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. ----- Martin Luther King
 - If you love someone tell them because hearts are often broken by words left unspoken. ---- Unknown
 - Love is nothing without action. Trust is nothing without proof. And sorry is nothing without change. ---- Unknown
@@ -134,4 +135,89 @@ permalink: /Misc/inspirations
 - The strongest people are not those who show strength in front of us, but those who win battles we know nothing about. ---- Unknown 
 - Giving up doesn't always mean you're weak. Sometimes it means you are strong and smart enough to let go and move on. ---- Unknown
 
-
+## Others
+- How cool is it that the same God who created mountains and oceans and galaxies looked at you and thought the world needed one of you too.
+- Happiness is the new rich. Inner peace is the new success. Health is the new wealth. Kindness is the new cool.
+- Helping one person may not change the whole world, but it could change the world for one person.
+- Be so busy loving your life that you have no time for hate, regret or fear.
+- Be happy not because everything is good, but because you can see the good side of everything.
+- Stop being afraid of what could go wrong and think of what could go right.
+- When you find yourself in a tough situation , don't say why me? Say Try me!
+- Everyday may not be good, but there's good in everyday.
+- Change is hard at first, messy in the middle and gorgeous at the end.
+- Speak to yourself with kind words. Someone important is listening.
+- A lovely seasonal quote: No one notices if it's winter or summer when they're happy!
+- The best measure of a person's character is how he treats people who can do nothing for him, and how he treats people who can't fight back.
+- One of the greatest measures of intelligence is the ability to change.
+- Life is not about waiting for the storm to pass, but learning to dance in the rain.
+- When life pushes you over, push back harder. Where there are choices to make, make the one you won't regret. Why things happen will never be certain. Take it in stride and move forward.
+- When you encounter a person of unusual intellect, ask him/her what books he/she reads.
+- Difficulties are like brick walls. They gives us a chance to know how badly we want something. But they stop people who don't want it badly enough.
+- It only takes a few seconds to hurt someone, but sometimes it takes years to repair the damage.
+- Don't miss out on something that could be amazing, just because it could also be difficult.
+- You can't call the storm so stop trying. What you can do is calm yourself.(this seems easier for people who trust God.) The storm will pass.
+- Happiness comes when we stop complaining about the troubles we have and start offering thanks for all the troubles we don't have.
+- Do you ever feel like you're ready for something new? If so, you must first let go of the old. Remind yourself youre moving on; stop focusing on the past. Your best is ahead!
+- Your mind will always believe everything you tell it. Feed it Faith. Feed it Truth. Feed it Love.
+- Mother Teresa said, "I have found the paradox, that if you love until it hurts, there can be no more hurt, only more love."
+- Your problems don't define you, they refine you. Problems motivate us to change. Don't fear them, face them expecting victory and success!
+- Each challenge you face is a divine invitation for to gain clarity concerning who you are and why you are here-your true identity and purpose.
+- When you do the common things in life in an uncommon way, you will command the attention of the world.
+- Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+- Everything will be ok in the end. If it's not ok, it's not the end.
+- No matter how many mistakes you make, or how slow your progress, you're still way ahead of everyone who isn't even trying.
+- Be a good friend, remember that a word of encouragement during a failure is worth more than an hour of praise after a success.
+- Outside beauty is fleeting. But there is a beauty in kindness, in compassion, in humility inside of those who are truly beautiful, that touches others deeply.
+- Remember! You are in the driver's seat; you can travel in any direction you choose.
+- No matter the situation, never let your emotions overpower your intelligence.
+- The most debilitating handicap in life is a bad attitude.
+- The world will not be destroyed by evil, but by those who watch and do nothing. ---- Albert Einstein
+- Everything happens for a reason and everything will work itself out, it may not be the way you want it, but it will be the way it's supposed to be.
+- Hate has caused a lot of problems in this world, but it has never solved even one.
+- When you laugh or smile it triggers a part of your brain that actually makes you happy.
+- I will breathe. I will think of solutions. I will Not let my worry control me. I will Not let my stress level break me. I will simply breathe. And it will be OK, Because I don't quit.
+- You don't have to disrespect or insult others simply to hold your own ground. If you do, that shows how shaky your own position is.
+- A competent leader can get satisfactory service from poor troops, while on the contrary, an incapable leader can demoralize the best of troops.
+- Integrity without knowledge is weak and useless. But knowledge without integrity is dangerous and deadful.
+- You come to love not by finding the perfect person, but by seeing an imperfect person perfectly .
+- You come to love not by finding the perfect person, but by seeing an imperfect person perfectly .
+- Every king was once a crying baby, and every building was once a blueprint. It's not about where you are today, but about where you'll reach tomorrow.
+- Good leaders are not always on top. Sometimes they're pushing from the bottom!
+- When someone is mean, don't listen. When someone is rude, walk away. When someone tries to put you down, stay firm. Don't let someone's behavior destroy your inner peace.
+- The heart knows things the mind can't explain.
+- No matter how much it hurts now, someday you will look back and realize your struggles changed your life for the better.
+- A bad attitude is like a flat tire. You can't go anywhere till you change it.
+- Five Rules for Relationships; Stay faithful, Make them feel wanted, Respect your partner, Don't flirt with others, Make time.
+- You are Amazing. You are Important. You are Special. You are Unique. You are Kind. You are precious. You are Loved.
+- A man may study because his brain is hungry for knowledge, even Bible knowledge. But he prays because his soul is hungry for God.
+- Things money can't buy: Manners, Morals, Respect, Character, Common sense, Trust, Patient, Class, Integrity, Love.
+- Never miss an opportunity to see anything beautiful, for beauty is God's handwriting.
+- Sometimes the best way to appreciate something is to be without it for a while.
+- He who talks to you about others, talks to others about you. Don't befriend a gossip. Don't be a gossip.
+- To balance and take control of our emotions is one of the most important tasks in life .
+- Our days are happier when we give people a bit of our heart rather than a piece of our mind.
+- No act of kindness, no matter how small, is ever wasted.
+- 5 Things to quit: 1. Trying to please everyone. 2. Fearing change. 3. Living in the past. 4. Putting yourself down. 5. Over thinking.
+- You hear, but are you listening? You exist, but are you living? You look, but do you see?
+- The most difficult person to be around is someone who complains about everything and appreciates nothing.
+- There is profit in remain silent, but much more profit in remaining silent, during a tempting moment.
+- You can't change where you come from, but you can change where you're going.
+- The greatness of a man is not measured in how much wealth he acquired, but in his integrity, and his ability to affect those around him positively.
+- The happiness of your life depends upon the quality of your thoughts, therefore, guard your thoughts and do not entertain anything unsuitable to virtue or kindness or love.
+- The definition of successful people is simply ordinary people with extraordinary determination. You cannot keep determined people from success.
+- Life is inherently risky. There is one risk worth avoiding, the risk of doing nothing.
+- Happiness is in the joy of achievement and the thrill of creative effort.
+- The happiness you feel is in direct proportion to the love you give.
+- Happiness never comes to those who fail to appreciate what they already have.
+- Don't be victimized by negative emotions and thinking. Don't be handicapped by stubbornness and inflexibility.
+- If you want to fly, you must give up the things that weigh you down.
+- If you do not have control over your mouth, you will not have control over your future.
+- Many persons have a wrong idea of what constitutes true happiness. It is not attained through self-gratification but through fidelity to a worthy purpose. (Helen Keller)
+- If you can pay no attention to the good things people say about you, you will find it easier to ignore the mean things people say about you.
+- The unexamined life is not worth living.
+- Hold fast to your dreams. For when dreams die, life is like a broken-winged bird, that cannot fly.
+- When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has opened for us.
+- How people treat other people is directly related to how they feel about themself. So when you encounter a mean spirited person, remember that they probably don't like themself much.
+- Be patient when you are frustrated. Be silent when you are angry. Be brave when you are confronted with challenges.
+- Bravery isn't not being afraid but doing it anyway, even though you are afraid.
+- Show your beauty by what you say. Show your greatness in what you do.
