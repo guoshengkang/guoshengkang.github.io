@@ -102,6 +102,7 @@ permalink: /Misc/inspirations
 388. Your work is to discover your work and then, with all your heart, to give yourself to it. ---- Unknown
 
 ## <span id="Attitude">Attitude & Life & Happiness</span>
+46. A life spent making mistakes is more honorable than a life spent doing nothing. ---- George Bernard Shaw
 47. Don't compare your progress with that of others. We all need our own time to travel our own distance. ---- Unknown
 48. Never let a problem to be solved become more important than a person to be loved. ---- Barbara Johnson 
 49. Always Believe that something Wonderful is going to happen. Even with all the ups and downs, never take a day for granted. Smile, Cherish the little things and remember to Hug the ones you Love. ---- Brigitte Nicole
