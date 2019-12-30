@@ -33,6 +33,7 @@ Outline
   * [《Foundations of Data Science》](http://guoshengkang.github.io/resources/2018_BOOK_Foundations_of_Data_Science.pdf), 2018, by Avrim Blum, John Hopcroft, and Ravindran Kannan
   * [《Semi-Supervised Learning》](http://guoshengkang.github.io/resources/2006_BOOK_Semi-Supervised_Learning.pdf), 2006, by Olivier Chapelle, Bernhard Schölkopf, Alexander Zien
     * [The Benchmark Data Sets](http://olivier.chapelle.cc/ssl-book/index.html)
+  * [《The Elements of Statistical Learning: Data Mining, Inference, and Prediction》](http://guoshengkang.github.io/resources/2006_BOOK_The_Elements_of_Statistical_Learning_Data_Mining_Inference_and_Prediction.pdf), 2009, by Trevor HastieRobert TibshiraniJerome Friedman
   * [《Neural Networks and Deep Learning》](http://guoshengkang.github.io/resources/2019_BOOK_Neural_Networks_and_Deep_Learning.pdf) (In Chinese), 2019, by [Xipeng Qiu](https://xpqiu.github.io/)
     * [Exercise](https://github.com/nndl/exercise), [Slides](https://github.com/nndl/nndl.github.io/tree/master/ppt), [Lecture Notes](http://guoshengkang.github.io/resources/2019_Slides_神经网络与深度学习.pdf) for summer school
   * 《Natural Language Processing Oriented Foundation of Deep Learning》 (In Chinese), 2019, by [Xipeng Qiu](https://xpqiu.github.io/) [Lecture Notes](http://guoshengkang.github.io/resources/2019_Slides_面向自然语言处理的深度学习基础.pdf)
