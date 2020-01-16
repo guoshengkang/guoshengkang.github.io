@@ -10,6 +10,7 @@ permalink: /Misc/inspirations
 - [Courage & Perseverance & Leardership & Integrity & Success & Dream & Challenge](#Courage)
 
 ## <span id="Love">Love & Kindness & Giving & Forgiveness & Gratitude & Suffering</span>
+6. Holding onto anger is like drinking poison and expecting the other person to die. ---- Buddha
 7. Thankfulness is the beginning of happiness. ---- Unknown
 8. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. ----- Martin Luther King
 9. If you love someone tell them because hearts are often broken by words left unspoken. ---- Unknown
