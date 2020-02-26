@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Guosheng Kang is currently a lecturer at School of Computer Science and Engineering in Hunan University of Science and Technology, Xiangtan, China. He received PhD degree from [School of Computer Science](http://www.cs.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/), Shanghai, China. He received both B.A. and M.S. degrees in mathematics and computer science respectively from [Hunan University of Science and Technology](http://www.hnust.edu.cn/). He was a research assistant at [Hunan University of Science and Technology](http://www.hnust.edu.cn/) from 2011 to 2012. He has published more than 20 papers and the publications have appeared in some well-know conference proceedings and international journals, such as ICWS, ICSOC, IEEE BigData, TSC, TNSM, FGCS, CCPE, etc. His research area includes Service Computing, Data-centric Business Process Management, Machine Learning & Data Mining.
+Dr. Guosheng Kang is currently a lecturer at [School of Computer Science and Engineering](http://computer.hnust.edu.cn/) in [Hunan University of Science and Technology](http://www.hnust.edu.cn/), Xiangtan, China. He received PhD degree from [School of Computer Science](http://www.cs.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/), Shanghai, China. He received both B.A. and M.S. degrees in mathematics and computer science respectively from [Hunan University of Science and Technology](http://www.hnust.edu.cn/). He was a research assistant at [Hunan University of Science and Technology](http://www.hnust.edu.cn/) from 2011 to 2012. He has published more than 20 papers and the publications have appeared in some well-know conference proceedings and international journals, such as ICWS, ICSOC, IEEE BigData, TSC, TNSM, FGCS, CCPE, etc. His research area includes Service Computing, Data-centric Business Process Management, Machine Learning & Data Mining.
 
 What’s new
 ------
@@ -16,7 +16,7 @@ What’s new
 Contact
 ------
 * **Email**: guoshengkang@gmail.com
-* **Address**: Room 203, Software Building, No.1159 Cailun Road, Shanghai,China (201203)
+* **Address**: Room 627, Shaw Building, Hunan University of Science and Technology, Xiangtan,China (411201)
 
 <center><a href="http://www.hnust.edu.cn/"  title="HNUST"><img src="http://guoshengkang.github.io/images/HNUST-logo.png" /></a>&ensp;<a href="http://www.fudan.edu.cn"  title="FUDAN"><img src="http://guoshengkang.github.io/images/FUDAN-logo.png" /></a></center>
 &nbsp;
