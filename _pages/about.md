@@ -7,18 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in [School of Computer Science](http://www.cs.fudan.edu.cn/), [Fudan University](http://www.fudan.edu.cn), Shanghai, China. I received both B.A. and M.S. degrees in mathematics and computer science respectively from [Hunan University of Science and Technology](http://www.hnust.edu.cn/). I have been an IEEE student member since 2010. I was a research assistant at [Hunan University of Science and Technology](http://www.hnust.edu.cn/) from 2011 to 2012. I have published more than 20 papers and the publications have appeared in some well-know conference proceedings and international journals, such as ICWS, ICSOC, IEEE BigData, TSC, TNSM, FGCS, CCPE, etc. 
-
+Dr. Guosheng Kang is currently an lecturer at School of Computer Science and Engineering in Hunan University of Science and Technology, Xiangtan, China. He received PhD degree from [School of Computer He received both B.A. and M.S. degrees in mathematics and computer science respectively from [Hunan University of Science and Technology](http://www.hnust.edu.cn/). He was a research assistant at [Hunan University of Science and Technology](http://www.hnust.edu.cn/) from 2011 to 2012. He has published more than 20 papers and the publications have appeared in some well-know conference proceedings and international journals, such as ICWS, ICSOC, IEEE BigData, TSC, TNSM, FGCS, CCPE, etc. 
+        
 Research interest
 ------
 * Service Computing
 * Data-centric Business Process Management
 * Machine Learning & Data Mining
 
-
 What’s new
 ------
-- [x] I will be on summer vocation for nearly a month. _posted 7/16/2019 11:23:34 AM_
+- [x] 2020/01/17, One paper has been accepted by ICWS 2020._
 
 Contact
 ------
