@@ -16,7 +16,7 @@ What’s new
 Contact
 ------
 * **Email**: guoshengkang@gmail.com
-* **Address**: Room 627, Shaw Building, Hunan University of Science and Technology, Xiangtan,China (411201)
+* **Address**: Room 627, Shaw Building, Hunan University of Science and Technology, Xiangtan, China (411201)
 
 <center><a href="http://www.hnust.edu.cn/"  title="HNUST"><img src="http://guoshengkang.github.io/images/HNUST-logo.png" /></a>&ensp;<a href="http://www.fudan.edu.cn"  title="FUDAN"><img src="http://guoshengkang.github.io/images/FUDAN-logo.png" /></a></center>
 &nbsp;
@@ -25,12 +25,10 @@ Contact
 ------
 > "Excellence is not about what they do, but about who they are." —— Unknown  
 > "Do what is right, not what is easy." —— Unknown  
-> "If Winter comes, can Spring be far behind? While we must do well what should be done in Winter." —— Unknown  
-> "The elevator to success is out of order. You'll have to take the stairs.....one step at a time." —— Unknown  
+> "If Winter comes, can Spring be far behind? While we must do well what should be done in Winter." —— Unknown   
 > "Judging a person doesn’t define who they are, it defines who you are." —— Unknown   
 > "Success isn't just about what you accomplish in your life, it's about what you inspire others to do."  —— Unknown  
 > "Coming together is a beginning. Keeping together is progress. Working together is success."  —— Unknown  
 > "The function of leadership is to produce more leaders, not more followers."  —— Unknown  
 > "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him"  —— Unknown  
-
 [More inspirations ...](http://guoshengkang.github.io/Misc/inspirations)
