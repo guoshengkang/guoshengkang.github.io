@@ -17,7 +17,7 @@ Research interest
 
 What’s new
 ------
-- [x] 2020/01/17, One paper has been accepted by ICWS 2020._
+- [x] 2020/01/17, One paper has been accepted by ICWS 2020.
 
 Contact
 ------
