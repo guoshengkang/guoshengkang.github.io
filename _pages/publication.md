@@ -7,7 +7,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal articles
 ======
-* **Guosheng Kang**, Liqin Yang, Liang Zhang. Towards Configurable Modelling for Artifact-centric Business Processes. Concurrency and Computation: Practice and Experience, 2019. <https://doi.org/10.1002/cpe.5367>
+* **Guosheng Kang**, Liqin Yang, Liang Zhang. Towards Configurable Modelling for Artifact-centric Business Processes. Concurrency and Computation: Practice and Experience, Vol. 32, No. 2, pp. 1-13, 2020.
 * **Guosheng Kang**, Liqin Yang, Liang Zhang. Verification of Behavioral Soundness for Artifact-centric Business Process Model with Synchronizations. Future Generation Computer Systems, Vol. 98, No. 2019, pp. 503-511, 2019.
 * **Guosheng Kang**. Correctness of Artifact-Centric Business Process Models. International Journal of Process Integration and Management, Vol. 8, No. 3, pp. 172-181, 2017.
 * 杨丽琴, **康国胜**, 张亮. 基于临床实践指南的诊疗过程建模方法. 计算机集成制造系统, Vol. 23, No. 5, pp. 1040-1049, 2017.
