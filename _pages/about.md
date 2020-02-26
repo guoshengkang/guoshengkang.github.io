@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Guosheng Kang is currently an lecturer at School of Computer Science and Engineering in Hunan University of Science and Technology, Xiangtan, China. He received PhD degree from [School of Computer He received both B.A. and M.S. degrees in mathematics and computer science respectively from [Hunan University of Science and Technology](http://www.hnust.edu.cn/). He was a research assistant at [Hunan University of Science and Technology](http://www.hnust.edu.cn/) from 2011 to 2012. He has published more than 20 papers and the publications have appeared in some well-know conference proceedings and international journals, such as ICWS, ICSOC, IEEE BigData, TSC, TNSM, FGCS, CCPE, etc. 
+Dr. Guosheng Kang is currently a lecturer at School of Computer Science and Engineering in Hunan University of Science and Technology, Xiangtan, China. He received PhD degree from [School of Computer Science](http://www.cs.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/), Shanghai, China. He received both B.A. and M.S. degrees in mathematics and computer science respectively from [Hunan University of Science and Technology](http://www.hnust.edu.cn/). He was a research assistant at [Hunan University of Science and Technology](http://www.hnust.edu.cn/) from 2011 to 2012. He has published more than 20 papers and the publications have appeared in some well-know conference proceedings and international journals, such as ICWS, ICSOC, IEEE BigData, TSC, TNSM, FGCS, CCPE, etc. 
         
 Research interest
 ------
