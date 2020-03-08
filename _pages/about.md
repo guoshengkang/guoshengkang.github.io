@@ -16,7 +16,7 @@ What’s new
 Contact
 ------
 * **Email**: guoshengkang@gmail.com
-* **Address**: Room 627, Shaw Building, Hunan University of Science and Technology, Xiangtan, China (411201)
+* **Address**: Room 627, Shaw Building, South Campus, Hunan University of Science and Technology, Xiangtan, China (411201)
 
 <center><a href="http://www.hnust.edu.cn/"  title="HNUST"><img src="http://guoshengkang.github.io/images/HNUST-logo.png" /></a>&ensp;<a href="http://www.fudan.edu.cn"  title="FUDAN"><img src="http://guoshengkang.github.io/images/FUDAN-logo.png" /></a></center>
 &nbsp;
