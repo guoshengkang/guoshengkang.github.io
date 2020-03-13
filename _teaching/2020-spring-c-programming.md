@@ -16,4 +16,5 @@ date: 2020-02-24
 * Chapter 8： File**
 * Chapter 9： Algorithms & Examples***
 
-Acknowledgement: Thanks to Ping Liu who provided the slides of this course.
+Acknowledgement: Thanks to Ping Liu who provided the slides of this course and 
+taught the course for the first three weeks.
