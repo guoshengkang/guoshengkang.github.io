@@ -15,3 +15,5 @@ date: 2020-02-24
 * Chapter 7： Structure & Union**
 * Chapter 8： File**
 * Chapter 9： Algorithms & Examples***
+
+Acknowledgement: Thanks to Ping Liu who provided the slides of this course.
