@@ -16,11 +16,7 @@ date: 2020-02-24
 * Chapter 8： File** [pdf](http://guoshengkang.github.io/files/Slides_C_Programming/C语言程序设计__第8章.pdf) (2020/04/17)
 * Chapter 9： Algorithms & Examples*** [pdf](http://guoshengkang.github.io/files/Slides_C_Programming/C语言程序设计__第9章.pdf) (2020/04/24)
 
-Textbook
-<div align=center><img width="500" height="400" src="http://guoshengkang.github.io/files/Slides_C_Programming/教材封面.jpg"/></div>
-
-Textbook
-<img src="http://guoshengkang.github.io/files/Slides_C_Programming/教材封面.jpg" width = "100" height = "80" div align=right />
+![Textbook](http://guoshengkang.github.io/files/Slides_C_Programming/教材封面.jpg)
 
 Acknowledgement: Thanks to Ping Liu who provided the slides of this course and 
 taught the course for the first three weeks.
