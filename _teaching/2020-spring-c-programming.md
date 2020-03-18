@@ -19,5 +19,8 @@ date: 2020-02-24
 Textbook
 <div align=center><img width="500" height="400" src="http://guoshengkang.github.io/files/Slides_C_Programming/教材封面.jpg"/></div>
 
+Textbook
+<img src="http://guoshengkang.github.io/files/Slides_C_Programming/教材封面.jpg" width = "100" height = "80" div align=right />
+
 Acknowledgement: Thanks to Ping Liu who provided the slides of this course and 
 taught the course for the first three weeks.
