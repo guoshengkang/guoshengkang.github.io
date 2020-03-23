@@ -17,7 +17,7 @@ Journal articles
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Buqing Cao, Yu Xu. An Effective Web Service Ranking Method via Exploring User Behavior. IEEE Transactions on Network and Service Management, Vol. 12, No. 4, pp. 554-564, 2015.
 * 杨丽琴, **康国胜**, 郭立鹏, 田朝阳, 张亮, 张笑楠, 高翔. 一种适用于多样性环境的业务流程挖掘方法. 软件学报, Vol. 26, No. 3, pp. 550-561, 2015.
 * 田朝阳, **康国胜**, 杨丽琴, 张亮, 张笑楠, 高翔. 基于jBPM5的业务模型执行方法与实现. 计算机工程与科学, Vol. 37, No. 04, pp. 726-733, 2015.
-* **康国胜**, 刘建勋, 唐明董, 曹步清. 考虑QOS属性相关性的Web服务选择. 小型微型计算机系统, Vol. 35, No. 4, pp. 786-790, 2014.
+* **康国胜**, 刘建勋, 唐明董, 曹步清. 考虑QoS属性相关性的Web服务选择. 小型微型计算机系统, Vol. 35, No. 4, pp. 786-790, 2014.
 * **康国胜**, 刘建勋, 唐明董, 刘小青. 面向多服务请求的Web服务全局优化选择模型研究. 计算机研究与发展, Vol. 50, No. 7, pp. 1524-1533, 2013.
 * **康国胜**, 刘建勋, 唐明董, 徐宇. Qos全局最优动态Web服务选择算法. 小型微型计算机系统, Vol. 34, No. 1, pp. 73-77, 2013.
 * Buqing Cao, Jianxun Liu, Xiaoqing (Frank) Liu, Bing Li, Dong Zhou, **Guosheng Kang**. CHC-TSCM: A Trustworthy Service Composition Method Based on an Improved CHC Genetic Algorithm. China Communications, Vol. 12, No. 10, pp. 77-91, 2013.
