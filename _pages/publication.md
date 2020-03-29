@@ -29,7 +29,7 @@ Journal articles
 
 Conference papers
 ======
-* Liqin Yang, Guosheng Kang, Weigang Cai, Qiang Zhou. An Effective Process Mining Approach against Diverse Logs Based on Case Classification. IEEE International Congress on Big Data. IEEE Computer Society, pp. 351-358, 2015. 
+* Liqin Yang, **Guosheng Kang**, Weigang Cai, Qiang Zhou. An Effective Process Mining Approach against Diverse Logs Based on Case Classification. IEEE International Congress on Big Data. IEEE Computer Society, pp. 351-358, 2015. 
 * Saixia Lyu, Jianxun Liu, Mingdong Tang, **Guosheng Kang**, Buqing Cao, Yucong Duan. Three-Level Views of the Web Service Network: An Empirical Study Based on ProgrammableWeb. International Congress on Big Data. IEEE Computer Society, pp. 374-381, 2014.
 * **Guosheng Kang**, Zhaoyang Tian, Xiao Zhang, Liang Zhang, Lixin Ma, Xiang Gao, Xiaonan Zhang, Zizhe Ding. Heterogeneous Business Process Consolidation: A Pattern-Driven Approach. International Conference on Service Sciences. IEEE Computer Society, pp. 136-141, 2014.
 * Haihuan Qin, **Guosheng Kang**, Lipeng Guo. Maxinstx: A Best-Effort Failure Recovery Approach for Artifact-Centric Business Processes. International Conference on Service-Oriented Computing. Springer, pp. 558-566, 2013.
