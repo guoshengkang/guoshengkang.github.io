@@ -29,13 +29,14 @@ Journal articles
 
 Conference papers
 ======
-* Saixia Lyu, Jianxun Liu, Mingdong Tang, **Guosheng Kang**, Buqing Cao, Yucong Duan. Three-Level Views of the Web Service Network: An Empirical Study Based on ProgrammableWeb. Proceedings of International Congress on Big Data. IEEE Computer Society, pp. 374-381, 2014.
-* **Guosheng Kang**, Zhaoyang Tian, Xiao Zhang, Liang Zhang, Lixin Ma, Xiang Gao, Xiaonan Zhang, Zizhe Ding. Heterogeneous Business Process Consolidation: A Pattern-Driven Approach. Proceedings of International Conference on Service Sciences. IEEE Computer Society, pp. 136-141, 2014.
-* Haihuan Qin, **Guosheng Kang**, Lipeng Guo. Maxinstx: A Best-Effort Failure Recovery Approach for Artifact-Centric Business Processes. Proceedings of International Conference on Service-Oriented Computing. Springer, pp. 558-566, 2013.
-* **Guosheng Kang**, Jianxun Liu, Mmingdong Tang, Xiaoqing(Frank) Liu, Buqing Cao, Yu Xu. AWSR: Active Web Service Recommendation Based on Usage History. Proceedings of International Conference on Web Services. IEEE Computer Society, pp. 186-193, 2012.
+* Liqin Yang, Guosheng Kang, Weigang Cai, Qiang Zhou. An Effective Process Mining Approach against Diverse Logs Based on Case Classification. IEEE International Congress on Big Data. IEEE Computer Society, pp. 351-358, 2015. 
+* Saixia Lyu, Jianxun Liu, Mingdong Tang, **Guosheng Kang**, Buqing Cao, Yucong Duan. Three-Level Views of the Web Service Network: An Empirical Study Based on ProgrammableWeb. International Congress on Big Data. IEEE Computer Society, pp. 374-381, 2014.
+* **Guosheng Kang**, Zhaoyang Tian, Xiao Zhang, Liang Zhang, Lixin Ma, Xiang Gao, Xiaonan Zhang, Zizhe Ding. Heterogeneous Business Process Consolidation: A Pattern-Driven Approach. International Conference on Service Sciences. IEEE Computer Society, pp. 136-141, 2014.
+* Haihuan Qin, **Guosheng Kang**, Lipeng Guo. Maxinstx: A Best-Effort Failure Recovery Approach for Artifact-Centric Business Processes. International Conference on Service-Oriented Computing. Springer, pp. 558-566, 2013.
+* **Guosheng Kang**, Jianxun Liu, Mmingdong Tang, Xiaoqing(Frank) Liu, Buqing Cao, Yu Xu. AWSR: Active Web Service Recommendation Based on Usage History. International Conference on Web Services. IEEE Computer Society, pp. 186-193, 2012.
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Yu Xu. An Effective Dynamic Web Service Selection Strategy with Global Optimal QoS Based on Particle Swarm Optimization Algorithm. International Parallel and Distributed Processing Symposium Workshops & PhD Forum. IEEE Computer Society,  pp. 2274-2279, 2012.
-* Yiping Wen, Zhigang Chen, Tiemin Chen, Jianxun Liu, **Guosheng Kang**. A Particle Swarm Optimization Algorithm for Batch Processing Workflow Scheduling. Proceedings of International Conference onCloud and Green Computing. IEEE Computer Society, pp. 645-649, 2012.
-* **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Xiaoqing(Frank) Liu, K Fletcher Fletcher. Web Service Selection for Resolving Conflicting Service Requests. Proceedings of International Conference on Web Services. IEEE Computer Society, pp. 387-394, 2011.
+* Yiping Wen, Zhigang Chen, Tiemin Chen, Jianxun Liu, **Guosheng Kang**. A Particle Swarm Optimization Algorithm for Batch Processing Workflow Scheduling. International Conference onCloud and Green Computing. IEEE Computer Society, pp. 645-649, 2012.
+* **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Xiaoqing(Frank) Liu, K Fletcher Fletcher. Web Service Selection for Resolving Conflicting Service Requests. International Conference on Web Services. IEEE Computer Society, pp. 387-394, 2011.
 
 Patents
 ======
