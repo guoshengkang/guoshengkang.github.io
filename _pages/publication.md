@@ -13,6 +13,7 @@ Journal articles
 * 杨丽琴, **康国胜**, 张亮. 基于临床实践指南的诊疗过程建模方法. 计算机集成制造系统, Vol. 23, No. 5, pp. 1040-1049, 2017.
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Buqing Cao, Yu Xu. Improved Active Web Service Recommendation Based on Usage History. Applied Mathematics & Information Sciences, Vol. 10, No. 3, pp. 1-11, 2016.
 * **Guosheng Kang**, Liqin Yang, Wei Xu, Zhaoyang Tian, Liang Zhang. Artifact-centric Business Process Configuration. International Journal of High Performance Computing and Networking, Vol. 9, No. 2, pp. 93-103, 2016.
+* Mingdong Tang, Zibin Zheng, **Guosheng Kang**, Jianxun Liu, Yatao Yang, and Tingting Zhang. Collaborative Web Service Quality Prediction Via Exploiting Matrix Factorization and Network Map. IEEE Transactions on Network Service Management, Vol. 13, No. 1, pp. 126-137, 2016.
 * **Guosheng Kang**, Mingdong Tang, Jianxun Liu, Xiaoqing(Frank) Liu, Buqing Cao. Diversifying Web Service Recommendation Results Via Exploring Service Usage History. IEEE Transactions on Services Computing, Vol. 14, No. 99, pp. 35-48, 2015
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Buqing Cao, Yu Xu. An Effective Web Service Ranking Method via Exploring User Behavior. IEEE Transactions on Network and Service Management, Vol. 12, No. 4, pp. 554-564, 2015.
 * 杨丽琴, **康国胜**, 郭立鹏, 田朝阳, 张亮, 张笑楠, 高翔. 一种适用于多样性环境的业务流程挖掘方法. 软件学报, Vol. 26, No. 3, pp. 550-561, 2015.
