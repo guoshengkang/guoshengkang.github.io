@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-c-programming-HW
 venue: "HNUST"
-date: 2020-02-24
+date: 
 ---
 * 【2020/02/24】请编程输出“我的第一个C语言程序"
 ```c
