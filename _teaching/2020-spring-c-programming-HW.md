@@ -2,7 +2,7 @@
 title: "C Programming Homework(2020, Spring)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-spring-c-programming/2020-spring-c-programming-HW
+permalink: /teaching/2020-spring-c-programming-HW
 venue: "HNUST"
 date: 2020-02-24
 ---
