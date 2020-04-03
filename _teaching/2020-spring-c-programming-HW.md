@@ -195,7 +195,6 @@ int  main(void)
 int  main(void)
 {
 	int i,j,max,temp,a[N]={29,37,12,30,45,47,27,39,16,72};
-	
 	for(i=0; i<N-1; i++)
 	{
 		max=i;
