@@ -112,7 +112,7 @@ permalink: /Misc/inspirations
 52. Be sure to taste your words before you spit them out. ---- Unknown
 53. Remember it's just a bad day, not a bad life. ---- Unknown
 54. Tomorrow's life is too late. Live today. ---- Marcus Valerius Martialis
-55. The truly rich are those who enjoy what they have. Yiddish Proverb
+55. The truly rich are those who enjoy what they have.  ---- Yiddish Proverb
 56. You live longer once you realize that any time spent being unhappy is wasted. ---- Ruth E. Renkl
 57. Good things come to those who wait. But better things come to those who work for it. ---- Unknown
 58. Associate yourself with people of good quality, for it is better to be alone than in bad company. ---- Booker T. Washington
