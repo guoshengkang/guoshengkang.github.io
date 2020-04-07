@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * **Ph.D., in Computing Science, [Fudan University](http://www.fudan.edu.cn)**
-  * **Year**: 2019
+  * **Year**: 2020
   * **Doctoral Thesis**: Artifact-centric Business Process Modeling and Verification ([以Artifact为中心的业务流程建模及其验证](http://guoshengkang.github.io/files/DoctoralThesis.pdf)) [Slides](http://guoshengkang.github.io/files/DoctoralThesis_Slides.pdf)
   * **Supervisor**: [Prof. Liang Zhang](http://homepage.fudan.edu.cn/lzhang/)
 * **M.S., in Computer Science, [Hunan University of Science and Technology](http://www.hnust.edu.cn/)**
@@ -25,6 +25,9 @@ Education
 
 Work Experience
 ======
+* 2020.2-Now: Lecturer
+  * School of Coputer Science and Engineering at Hunan University of Science and Technology
+
 * 2016.9-2018.8: BigData Engineer and Data Mining Engineer
   * 3 Startup Companies
   * Duties included: User portrait, SMS click prediction, sales forecast, etc.
