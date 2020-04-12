@@ -211,3 +211,31 @@ int  main(void)
 	return 0;
 }
 ```
+#### 【2020/04/10】若有说明：int a[3][4]＝{{1,2,3,4 },{5,6,7,8},{9,10,11,12}}；现要将a的行和列的元素互换后存到另一个二维数组b中，并分别将ａ和b按矩阵形式输出。试编程。
+```c
+#include <stdio.h>
+#define M 3
+#define N 4
+int main()
+{
+	int i,j,a[M][N]={{1,2,3,4},{5,6,7,8},{9,10,11,12}},b[N][M];
+	printf("初始的数组为: \n");
+	for(i=0;i<M;i++)
+	{
+		for(j=0;j<N;j++)
+		{
+			printf("%6d ",a[i][j]);
+			b[j][i]=a[i][j];
+		}
+		printf("\n");
+	}
+	printf("互换后的数组为: \n");
+	for(i=0;i<N;i++)
+	{
+		for(j=0;j<M;j++)
+			printf("%6d ",b[i][j]);
+		printf("\n");
+	}
+	return 0;
+}
+```
