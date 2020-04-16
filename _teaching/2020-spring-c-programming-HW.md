@@ -239,3 +239,22 @@ int main()
 	return 0;
 }
 ```
+#### 【2020/04/13】试用一维数组计算出Fibonacci数列的前20项并输出。Fibonacci数列定义如下：第1项f(1)=1,第2项f(2)=1,...,第n项f(n)=f(n-1)+f(n-2),(n>2)。
+```c
+#include<stdio.h>
+#define N 20
+int main()
+{
+	int i,a[N];
+	a[0]=a[1]=1;
+	for(i=2;i<N;i++)
+		a[i]=a[i-1]+a[i-2];
+	for(i=0;i<N;i++)
+	{
+		printf("%-d\t",a[i]);
+		if((i+1)%5==0)
+			printf("\n"); // or putchar('\n');
+	}
+	return 0;
+}
+```
