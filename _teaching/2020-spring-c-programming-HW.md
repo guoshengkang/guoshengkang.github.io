@@ -258,3 +258,40 @@ int main()
 	return 0;
 }
 ```
+#### 【2020/04/17】输入一个字符串，按相反次序输出其中的所有字符． 。
+```c
+#include<stdio.h>
+#define N 5
+int main()
+{
+	char str[N+1],*p;
+	int i;
+	for(i=0;i<N;i++)
+	{
+		str[i]=getchar();
+		if(str[i]=='\n')
+			break;
+	}
+	p=str;
+	while(--i>=0)
+		putchar(*(p+i));
+	putchar('\n');
+	return 0;
+}
+```
+```c
+//输入一个字符串，按相反次序输出其中的所有字符．
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+	char a[2]; // even it seems more flexible, it is still not recommended!
+	int i,L;
+	gets(a);  // but not scanf("%s",a); it will exceed the length of the array.
+	L=strlen(a);
+	for(i=L-1;i>=0;i--)
+		printf("%c",a[i]);
+	printf("\n");
+	return 0;
+}
+```
