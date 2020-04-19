@@ -261,7 +261,7 @@ int main()
 #### 【2020/04/17】输入一个字符串，按相反次序输出其中的所有字符． 。
 ```c
 #include<stdio.h>
-#define N 5
+#define N 100
 int main()
 {
 	char str[N+1],*p;
