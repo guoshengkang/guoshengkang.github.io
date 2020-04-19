@@ -260,6 +260,7 @@ int main()
 ```
 #### 【2020/04/17】输入一个字符串，按相反次序输出其中的所有字符。
 ```c
+// Solution 1
 #include<stdio.h>
 #define N 100
 int main()
@@ -280,7 +281,7 @@ int main()
 }
 ```
 ```c
-//输入一个字符串，按相反次序输出其中的所有字符．
+// Solution 2
 #include<stdio.h>
 #include<string.h>
 int main()
