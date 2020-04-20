@@ -296,3 +296,19 @@ int main()
 	return 0;
 }
 ```
+```c
+// Solution 3
+#include<stdio.h>
+#include<string.h>
+int main()
+{
+	char a[100],*p;
+	printf("please input a string:\n");
+	gets(a);
+	p=a+strlen(a);
+	while(--p>=a)
+		putchar(*p);
+	putchar('\n');
+	return 0;
+}
+```
