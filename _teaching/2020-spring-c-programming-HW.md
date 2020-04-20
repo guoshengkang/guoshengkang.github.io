@@ -85,6 +85,7 @@ int main( )
 	return 0;
 }
 ```
+## **Chapter 4**
 #### 【2020/03/20】编程实现从键盘输入一整数，如果该整数为素数，则返回1，否则返回0。要求单独编写一个求素数的自定义函数。
 ```c
 #include <stdio.h>
@@ -190,6 +191,7 @@ int  main(void)
 	return 0;
 }
 ```
+## **Chapter 5**
 #### 【2020/04/03】编一程序用简单选择排序方法对10个整数排序（从大到小）。排序思路为：首先从n个整数中选出值最大的整数，将它交换到第一个元素位置，再从剩余的n-1个整数中选出值次大的整数，将它交换到第二个元素位置，重复上述操作n次后，排序结束。
 ```c
 #include <stdio.h>
@@ -260,6 +262,7 @@ int main()
 	return 0;
 }
 ```
+## **Chapter 6**
 #### 【2020/04/17】输入一个字符串，按相反次序输出其中的所有字符。
 ```c
 // Solution 1
@@ -315,3 +318,26 @@ int main()
 }
 ```
 #### 【2020/04/20】输入或初始化2个字符串，将其连接后输出。
+```c
+#include<stdio.h>
+#define N 100
+strlink(char * str1, char *str2)
+{
+	while((*str1)!='\0')
+		str1++;
+	while((*str2)!='\0')
+	{
+		*str1=*str2;
+		str1++;
+		str2++;
+	}
+	*str1='\0';
+}
+int main()
+{
+	char s1[N]="Very",s2[N]=" Good!";
+	strlink(s1,s2);
+	printf("%s\n",s1);
+	return 0;
+}
+```c
