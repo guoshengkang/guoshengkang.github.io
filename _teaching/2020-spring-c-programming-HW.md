@@ -1,5 +1,5 @@
 ### C Programming Homework and Answer
-
+### Chapter 1
 #### 【2020/02/24】请编程输出“我的第一个C语言程序"
 ```c
 #include <stdio.h>
@@ -9,6 +9,7 @@ int main( )
     return 0;
 } 
 ```
+### Chapter 2
 #### 【2020/02/28】 编程输出：1、88和125的和; 2、任意输入两个整数，求两数的差。
 ```c
 #include <stdio.h>
