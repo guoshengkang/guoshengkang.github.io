@@ -19,9 +19,8 @@ int main(int argc, char *argv[])
 ```
 ### 方法一：在命令行运行
 将上面的源程序取名为strlink.c，将其编译连接成可执行文件strlink.exe并存放在d:\xds目录中，若在d:\xds目录下执行命令：`d:\xds>strlink  First_string  Second_string`  
-则得到的输出结果如下：
+则得到的输出结果如下：  
 `第0个参数(命令名)为：d:\xds\strlink.exe  
-
 第1个参数(字符串1)为：First_string  
 第2个参数(字符串2)为：Second_string  
 字符串1和字符串2相连后的结果为：First_stringSecond_string`
