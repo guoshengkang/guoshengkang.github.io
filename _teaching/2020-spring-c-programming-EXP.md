@@ -1,6 +1,63 @@
 ### C Programming Experiments
+## **Chapter 3**
+#### 【实验一】将4~100中的偶数分解成两个素数之和，每个数只取一种分解结果。如100可分解为3和97、或为11和89、或为17和83等，但我们只取第一种分解即可。
+```c
+#include <stdio.h>
+int main()
+{
+	int x,k,a,b,count=0;
+	for(x=4; x<=100; x=x+2)
+	{   
+		for(a=2; a<=(x/2); a++)
+		{
+			for(k=2; k<a; k++)
+				if(a%k==0)
+					break;
+			if(a==k) //a为素数
+			{
+				b=x-a;
+				for(k=2; k<b; k++)
+					if(b%k==0)
+						break;
+				if(b==k) //b为素数
+				{
+					printf("%3d=%3d+%3d\t",x,a,b);
+					count++;
+					break;
+					if (count%3==0)
+						printf("\n");
+				}
+			}
+		}
+	}
+} 
+```
+## **Chapter 4**
+#### 【实验二】求1000以内的亲密数对。亲密数对的定义为：若正整数a的所有因子（不包括a本身）之和为b，b的所有因子（不包括b本身）之和为a，且a≠b，则称a与b为亲密数对。
+```c
+#include <stdio.h>
+int fun(int x)
+{   
+	int n,s=0;
+	for(n=1; n<x; n++)
+		if(x%n==0)
+			s=s+n;
+	return  s;
+}
+
+int  main(void)
+{   int a, b;
+	for(a=1; a<=1000; a++)
+	{   
+		b=fun(a);
+		if(fun(b)==a&&a!=b&&b<=1000&&b>a)  
+			printf("%d,%d\n",a,b);
+	}
+    return 0;
+}
+```
 ## **Chapter 5**
-#### 【实验】编写一个把字符串(由数字字符、小数点、正号或负号组成)转换成浮点数的函数，并在main函数中调用测试。
+#### 【实验三】编写一个把字符串(由数字字符、小数点、正号或负号组成)转换成浮点数的函数，并在main函数中调用测试。
 ```c
 #include <stdio.h>
 #include <string.h>
@@ -39,7 +96,7 @@ int main()
 }
 ```
 ## **Chapter 6**
-#### 【实验】用带参数的main()函数实现两个字符串的连接。
+#### 【实验四】用带参数的main()函数实现两个字符串的连接。
 ```c
 #include <stdio.h>
 int main(int argc, char *argv[])
