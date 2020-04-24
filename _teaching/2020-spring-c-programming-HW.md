@@ -341,3 +341,41 @@ int main()
 	return 0;
 }
 ```
+#### 【2020/04/24】编一程序，将字符串中的第m个字符开始的全部字符复制到另一个字符串。要求在主函数中输入字符串及m的值并输出复制结果，在被调用函数中完成复制。
+```c
+#include <stdio.h>
+#include <string.h>
+copystr(char * str2,char * str1, int m)
+{
+	int n=0;
+	while(n<m-1)
+	{
+		str1++;
+		n++;
+	}
+	while(*str1!='\0')
+	{
+		*str2=*str1;
+		str2++;
+		str1++;
+	}
+	*str2='\0';
+}
+int main()
+{
+	int m;
+	char s1[50],s2[50];
+	printf("请输入一个字符串s1=");
+	gets(s1);
+	printf("请输入复制的起始位置m=");
+	scanf("%d",&m);
+	if(strlen(s1)<m)
+		printf("输入有误!\n");
+	else
+	{
+		copystr(s2,s1,m);
+		printf("复制的结果是s2=%s\n",s2);
+	}
+	return 0;
+}
+```
