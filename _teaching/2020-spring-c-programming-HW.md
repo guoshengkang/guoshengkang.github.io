@@ -420,3 +420,31 @@ int main()
 	return 0;
 }
 ```
+#### 【2020/05/07】编写一个程序，用于统计从键盘输入的字符串中元音字母的(a,A,e,E,i,I,o,O,u,U)个数。
+```c
+#include <stdio.h>
+int fun(char *s)
+{
+	char a[]="aAeEiIoOuU",*p;
+	int n=0;
+	while(*s)
+	{
+		for(p=a;*p;p++)
+			if(*p==*s)
+			{
+				n++;
+				break;
+			}
+		s++;
+	}
+	return n;
+}
+int main()
+{
+	char str[255];
+	printf("请输入一个字符串:");
+	gets(str);
+	printf("该字符串中元音字母的个数为:%d\n",fun(str));
+	return 0;
+}
+```
