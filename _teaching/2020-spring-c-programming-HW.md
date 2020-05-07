@@ -379,3 +379,44 @@ int main()
 	return 0;
 }
 ```
+#### 【2020/04/27】编写一个密码检测程序，程序执行时，要求用户输入密码（标准密码预先设定），然后通过字符串比较函数比较输入密码和标准密码是否相等．若相等，则显示“口令正确”并转去执行后继程序；若不相等，重新输入，三次都不相等则终止程序的执行。
+```c
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+int strcompare(char *str1,char *str2)
+{
+	while(*str1==*str2 && *str1!=0 && *str2!=0)
+	{
+		str1++;
+		str2++;
+	}
+	return *str1-*str2;
+}
+int main()
+{
+	char password[20]="Hello World";
+	char input_pass[20];
+	int i=0;
+	while(1)
+	{
+		printf("请输入密码\n");
+		gets(input_pass);
+		if(strcompare(input_pass,password)!=0)
+			printf("口令错误,按回车键继续!!!\n");
+		else
+		{
+			printf("口令正确!!!\n");
+			break;
+		}
+		getchar();
+		i++;
+		if(i==3)
+		{
+			printf("口令错误已达3次,请重新启动程序!!!\n");
+			exit(0);
+		}
+	}
+	return 0;
+}
+```
