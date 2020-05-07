@@ -99,6 +99,7 @@ int main()
 #### 【实验四】用带参数的main()函数实现两个字符串的连接。
 ```c
 #include <stdio.h>
+#include <string.h>
 int main(int argc, char *argv[])
 {
    if(argc==3)
