@@ -17,6 +17,27 @@ int main()
 }
 ```
 ## **Chapter 3**
+#### 【实验】跟踪调试以下程序，注意函数调用过程中形参和实参的关系。
+```c
+#include<stdio.h>
+int main()
+{
+	int t,x=2,y=5;
+	void swap(int,int);
+	printf("(1) in main:x=%d,y=%d\n",x,y);
+	swap(x,y);
+	printf("(4) in main:x=%d,y=%d\n",x,y);
+	return 0;
+}
+
+void swap(int a,int b)
+{
+	int t;
+	printf("(2) in swap:a=%d,b=%d\n",a,b);
+	t=a;a=b;b=t;
+	printf("(3) in swap:a=%d,b=%d\n",a,b);
+}
+```
 #### 【实验】将4~100中的偶数分解成两个素数之和，每个数只取一种分解结果。如100可分解为3和97、或为11和89、或为17和83等，但我们只取第一种分解即可。
 ```c
 #include <stdio.h>
