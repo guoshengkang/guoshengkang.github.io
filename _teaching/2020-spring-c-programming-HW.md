@@ -448,3 +448,18 @@ int main()
 	return 0;
 }
 ```
+## **补充作业**
+#### 【2020/05/08】从键盘输入一个年份，判断改年是否为闰年。闰年的判断必须满足两个条件之一:(1)年份能被4整除，但不能被100整除;(2)年份能被400整除。
+```c
+#include <stdio.h>
+int main()
+{
+	int year;
+	scanf("%d",&year);
+	if( (year%4==0 && year%100!=0) || (year%400==0) )
+		printf("%d is a leap year\n",year);
+	else
+	printf("%d is not a leap year\n",year);
+	return 0;
+} 
+```

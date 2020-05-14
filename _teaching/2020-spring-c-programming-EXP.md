@@ -61,9 +61,9 @@ int main()
 				{
 					printf("%3d=%3d+%3d\t",x,a,b);
 					count++;
-					break;
 					if (count%3==0)
 						printf("\n");
+					break;
 				}
 			}
 		}
