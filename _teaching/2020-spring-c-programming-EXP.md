@@ -98,6 +98,30 @@ int  main(void)
     return 0;
 }
 ```
+#### 【实验】以下程序中函数的功能是求s=1/(1\*2)+1/(2\*3)+...+1/(n\*(n+1))。请使用单步执行方式来调试，查找逻辑错误。比如测试案例:输入“1”,则应输出“fun(1)=0.500000”;输入“2”,则应输出“fun(2)=0.666667”。
+```c
+#include<stdio.h>
+int fun(int n)
+{
+	float s=0;
+	int x;
+	for(x=1;x<=n;x++)
+		s=s+1/(x*(x+1));
+	return s;
+}
+int main(void)
+{
+	int n;
+	printf("请输入一个大于0的整数:");
+	scanf("%d",&n);
+	printf("fun(%d)=%f",n,fun(n));
+}
+```
+**修正**：  
+```c
+s=s+1/(x*(x+1)); --> s=s+1.0/(x*(x+1));
+int fun(int n) --> float fun(int n)
+```
 ## **Chapter 5**
 #### 【实验】编写一个把字符串(由数字字符、小数点、正号或负号组成)转换成浮点数的函数，并在main函数中调用测试。
 ```c
