@@ -493,3 +493,24 @@ int main()
 	return 0;
 } 
 ```
+#### 【2020/05/15】用递归函数求s=1/(1*2)+1/(2*3)+...+1/(n*(n+1))。
+```c
+#include <stdio.h>
+float fun(int n)
+{   
+	float s;
+	if(n==1)
+		s=0.5;
+	else
+		s=fun(n-1)+1.0/(n*(n+1));
+	return  s;
+}
+
+int  main(void)
+{  
+	int n;
+	scanf("%d",&n);
+	printf("fun(%d)=%f\n",n,fun(n));
+    return 0;
+}
+```
