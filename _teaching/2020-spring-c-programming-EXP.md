@@ -105,7 +105,7 @@ int fun(int n)
 {
 	float s=0;
 	int i;
-	for(i=1;i<=n;i++) // 注：C++编译器可写成for(int i=1;i<=n;i++),但C编译器不可以
+	for(i=1;i<=n;i++) // 注:C++编译器可写成for(int i=1;i<=n;i++),但C编译器不可以
 		s=s+1/(i*(i+1));
 	return s;
 }
