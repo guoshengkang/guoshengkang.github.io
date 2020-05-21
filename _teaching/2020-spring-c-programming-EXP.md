@@ -141,6 +141,24 @@ int main(void)
 	return 0;
 }
 ```
+#### 【实验】从键盘输入"ABCDEFG?",分析下述程序的运行结果，然后上机验证。
+```c
+#include<stdio.h>
+void string()
+{
+	char ch;
+	ch=getchar();
+	if(ch!='?')
+		string();
+	putchar(ch);
+}
+int main(void)
+{
+	string();
+	putchar('\n');
+	return 0;
+}
+```
 ## **Chapter 5**
 #### 【实验】编写一个把字符串(由数字字符、小数点、正号或负号组成)转换成浮点数的函数，并在main函数中调用测试。
 ```c
