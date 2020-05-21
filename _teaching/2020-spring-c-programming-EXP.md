@@ -122,6 +122,25 @@ int main(void)
 s=s+1/(x*(x+1)); --> s=s+1.0/(x*(x+1));
 int fun(int n) --> float fun(int n)
 ```
+#### 【实验】用递归函数方法计算学生的年龄。已知第一位学生的年龄最小为10岁，其余学生一个比一个大2岁，求第5位学生的年龄。
+```c
+#include<stdio.h>
+int age(int n)
+{
+	int c;
+	if(n==1)
+		c=10;
+	else
+		c=age(n-1)+2;
+	return c;
+}
+int main(void)
+{
+	int n=5;
+	printf("age=%d\n",age(n));
+	return 0;
+}
+```
 ## **Chapter 5**
 #### 【实验】编写一个把字符串(由数字字符、小数点、正号或负号组成)转换成浮点数的函数，并在main函数中调用测试。
 ```c
