@@ -237,6 +237,39 @@ int main()
 //15
 //15
 ```
+#### 【实验】分别求下列程序的运行结果(注:先思考预期的运行结果,再上机测试验证)
+```c
+//程序一
+# define N 10
+# define s(x) x*x
+# define f(x) (x*x)
+int main()
+{
+	int i1,i2;
+	i1=1000/s(N);
+	i2=1000/f(N);
+	printf("%d %d\n",i1,i2);
+	return 0;
+}
+//输出：
+//1000 10
+```
+```c
+//程序二
+程序头文件type1.h的内容是
+# define N 5
+# define M1 N*3
+程序如下：
+# include<stdio.h>
+# include"type1.h"
+# define M2 N*2
+int main()
+{
+	int i;
+	i=M1+M2;
+	printf("%d\n",i);
+}
+```
 ## **Chapter 5**
 #### 【实验】编写一个把字符串(由数字字符、小数点、正号或负号组成)转换成浮点数的函数，并在main函数中调用测试。
 ```c
