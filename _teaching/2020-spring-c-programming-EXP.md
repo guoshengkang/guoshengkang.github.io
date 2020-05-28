@@ -385,3 +385,20 @@ int main(int argc, char *argv[])
 > 字符串1和字符串2相连后的结果为：First_stringSecond_string
 ### 方法二：在VC中运行
 程序要想在VC中直接调试运行，可以先在“工程｜设置｜Debug｜Program arguments”项中填入参数“First_string  Second_string”，然后运行即可得到与上面相同的结果。
+#### 【实验】求下列程序的运行结果(注:先思考预期的运行结果,再上机测试验证)
+```c
+int fa(int x)
+{return x*x;}
+int fb(int x)
+{return x*x*x;}
+int f(int (*f1)(),int (*f2)(),int x)
+{return f2(x)-f1(x);}
+int main()
+{
+	int i;
+	i=f(fa,fb,2);
+	printf("%d\n",i);
+}
+//输出：
+//4
+```
