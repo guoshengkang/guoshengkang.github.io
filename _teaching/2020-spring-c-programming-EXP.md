@@ -159,8 +159,9 @@ int main(void)
 	return 0;
 }
 ```
-#### 【实验】分别求下列程序的运行结果
+#### 【实验】分别求下列程序的运行结果(注:先思考预期的运行结果,再上机测试验证)
 ```c
+//程序一
 #include<stdio.h>
 int main()
 {
@@ -184,6 +185,7 @@ void fun(void)
 }
 ```
 ```c
+//程序二
 #include<stdio.h>
 void num()
 {
@@ -204,6 +206,7 @@ int main()
 }
 ```
 ```c
+//程序三
 #include<stdio.h>
 int d=1;
 int fun(int p)
