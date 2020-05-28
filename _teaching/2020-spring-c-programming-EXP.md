@@ -183,6 +183,13 @@ void fun(void)
 	i++;
 	printf("In fun, i=%d\n",i);
 }
+
+//输出：
+//In main, first i=1
+//In main, second i=8
+//In fun, i=10
+//In main, third i=1
+//In fun, i=10
 ```
 ```c
 //程序二
@@ -204,6 +211,9 @@ int main()
 	printf("%d,%d\n",x,y);
 	return 0;
 }
+
+//输出：
+//5,25
 ```
 ```c
 //程序三
@@ -221,6 +231,11 @@ int main()
 	int a=3;
 	printf("%d\n",fun(a+fun(d)));
 }
+
+//输出：
+//10
+//15
+//15
 ```
 ## **Chapter 5**
 #### 【实验】编写一个把字符串(由数字字符、小数点、正号或负号组成)转换成浮点数的函数，并在main函数中调用测试。
