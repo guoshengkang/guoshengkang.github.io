@@ -159,7 +159,7 @@ int main(void)
 	return 0;
 }
 ```
-#### 【实验】求下列程序的运行结果
+#### 【实验】分别求下列程序的运行结果
 ```c
 #include<stdio.h>
 int main()
@@ -201,6 +201,22 @@ int main()
 	num();
 	printf("%d,%d\n",x,y);
 	return 0;
+}
+```
+```c
+#include<stdio.h>
+int d=1;
+int fun(int p)
+{
+	static int d=5;
+	d+=5;
+	printf("%d\n",d);
+	return d;
+}
+int main()
+{
+	int a=3;
+	printf("%d\n",fun(a+fun(d)));
 }
 ```
 ## **Chapter 5**
