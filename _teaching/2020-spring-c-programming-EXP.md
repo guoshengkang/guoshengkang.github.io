@@ -276,6 +276,54 @@ int main()
 	return 0;
 }
 ```
+#### 【实验】输入5个整数,并存放在一维数组中,找出最大数与最小数所在的下标位置,并把两者对调,然后输出调整后的5个数。
+```c
+#include<stdio.h>
+# define N 5
+int main()
+{
+	int k,arr[N],max,min,temp;
+	for(k=0;k<N;k++)		//输入整数数组
+		scanf("%d",&arr[k]);
+	max=min=0;				//查找最大数和最小数的下表
+	for(k=1;k<N;k++)
+	{
+		if(arr[k]>arr[max])
+			max=k;
+		if(arr[k]<arr[min])
+			min=k;
+	}
+	temp=arr[max];		//交换最大数和最小数
+	arr[max]=arr[min];
+	arr[min]=temp;
+	for(k=0;k<N;k++)	 //输入整数数组
+		printf("%d\t",arr[k]);
+	printf("\n") ;
+}
+```
+#### 【实验】编写一个程序,用简单选择排序方法对5个字符串{"abc","aabdfg","abbd","dcdbe","cd"}进行排序(从大到小),并输出排序后的结果。
+```c
+#include<stdio.h>
+#include<string.h>
+# define N 5
+int main()
+{
+	char *p[N]={"abc","aabdfg","abbd","dcdbe","cd"},*q;
+	int i,j,max;
+	for(i=0;i<N-1;i++)
+	{
+		max=i;
+		for(j=i+1;j<N;j++)
+			if(strcmp(p[max],p[j])<0)
+				max=j;
+		q=p[i];
+		p[i]=p[max];
+		p[max]=q;
+	}
+	for(i=0;i<N;i++)
+		printf("%s\n",p[i]);
+}
+```
 ## **Chapter 6**
 #### 【实验】用带参数的main()函数实现两个字符串的连接。
 ```c
