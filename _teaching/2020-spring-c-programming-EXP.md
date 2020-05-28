@@ -180,7 +180,7 @@ void fun(void)
 {
 	int i=9;
 	i++;
-	printf("in fun, i=%d\n",i);
+	printf("In fun, i=%d\n",i);
 }
 ```
 ```c
