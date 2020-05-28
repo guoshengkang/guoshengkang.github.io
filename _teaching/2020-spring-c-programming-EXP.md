@@ -159,6 +159,50 @@ int main(void)
 	return 0;
 }
 ```
+#### 【实验】求下列程序的运行结果
+```c
+#include<stdio.h>
+int main()
+{
+	void fun(void);
+	int i=1;
+	printf("In main, first i=%d\n",i);
+	{
+		int i=8;
+		printf("In main, second i=%d\n",i);
+	}
+	fun();
+	printf("In main, third i=%d\n",i);
+	fun();
+	return 0;
+}
+void fun(void)
+{
+	int i=9;
+	i++;
+	printf("in fun, i=%d\n",i);
+}
+```
+```c
+#include<stdio.h>
+void num()
+{
+	extern int x,y;
+	int a=15,b=10;
+	x=a-b;
+	y=a+b;
+}
+int x,y;
+int main()
+{
+	int a=7,b=5;
+	x=a+b;
+	y=a-b;
+	num();
+	printf("%d,%d\n",x,y);
+	return 0;
+}
+```
 ## **Chapter 5**
 #### 【实验】编写一个把字符串(由数字字符、小数点、正号或负号组成)转换成浮点数的函数，并在main函数中调用测试。
 ```c
