@@ -318,7 +318,7 @@ int main()
 	int k,arr[N],max,min,temp;
 	for(k=0;k<N;k++)		//输入整数数组
 		scanf("%d",&arr[k]);
-	max=min=0;				//查找最大数和最小数的下表
+	max=min=0;				//查找最大数和最小数的下标
 	for(k=1;k<N;k++)
 	{
 		if(arr[k]>arr[max])
