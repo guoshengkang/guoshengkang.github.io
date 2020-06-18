@@ -209,7 +209,7 @@ int  main(void)
 		a[i]=a[max];
 		a[max]=temp;
 	}
-	for(i=1;i<N;i++)
+	for(i=0;i<N;i++)
 		printf("%d ",a[i]);
 	printf("\n");
 	return 0;
