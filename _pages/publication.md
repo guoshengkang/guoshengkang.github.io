@@ -23,7 +23,6 @@ Journal articles
 * **康国胜**, 刘建勋, 唐明董, 徐宇. Qos全局最优动态Web服务选择算法. 小型微型计算机系统, Vol. 34, No. 1, pp. 73-77, 2013.
 * Buqing Cao, Jianxun Liu, Xiaoqing (Frank) Liu, Bing Li, Dong Zhou, **Guosheng Kang**. CHC-TSCM: A Trustworthy Service Composition Method Based on an Improved CHC Genetic Algorithm. China Communications, Vol. 12, No. 10, pp. 77-91, 2013.
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Buqing Cao. Web Service Selection Algorithm Based on Principal Component Analysis. Journal of Electronics (China), Vol. 30, No. 2, pp. 1-9, 2012.
-* 陈志刚, 文一凭, **康国胜**. 成批处理工作流动态分组调度优化方法. 计算机集成制造系统, Vol. 2, No. 18, pp. 1693-1699, 2012.
 * **康国胜**, 刘建勋, 胡蓉. 网格服务环境下的全局最优服务选择模型研究. 小型微型计算机系统, Vol. 32, No. 9, pp. 1800-1803, 2011.
 * **康国胜**, 刘建勋, 唐明董，徐宇. 基于差异演化算法的QoS全局最优动态Web服务选择. 电信科学, Vol. No. 12, pp. 67-71, 2011.
 * 禹蒲阳, **康国胜**. 可信计算的研究与发展. 计算机技术与发展, Vol. 21, No. 8, pp. 233-236, 2011.
@@ -36,7 +35,6 @@ Conference papers
 * Haihuan Qin, **Guosheng Kang**, Lipeng Guo. Maxinstx: A Best-Effort Failure Recovery Approach for Artifact-Centric Business Processes. International Conference on Service-Oriented Computing. Springer, pp. 558-566, 2013.
 * **Guosheng Kang**, Jianxun Liu, Mmingdong Tang, Xiaoqing(Frank) Liu, Buqing Cao, Yu Xu. AWSR: Active Web Service Recommendation Based on Usage History. International Conference on Web Services. IEEE Computer Society, pp. 186-193, 2012.
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Yu Xu. An Effective Dynamic Web Service Selection Strategy with Global Optimal QoS Based on Particle Swarm Optimization Algorithm. International Parallel and Distributed Processing Symposium Workshops & PhD Forum. IEEE Computer Society,  pp. 2274-2279, 2012.
-* Yiping Wen, Zhigang Chen, Tiemin Chen, Jianxun Liu, **Guosheng Kang**. A Particle Swarm Optimization Algorithm for Batch Processing Workflow Scheduling. International Conference on Cloud and Green Computing. IEEE Computer Society, pp. 645-649, 2012.
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Xiaoqing(Frank) Liu, K Fletcher Fletcher. Web Service Selection for Resolving Conflicting Service Requests. International Conference on Web Services. IEEE Computer Society, pp. 387-394, 2011.
 
 Patents
