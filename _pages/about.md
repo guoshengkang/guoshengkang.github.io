@@ -11,7 +11,8 @@ Dr. Guosheng KANG is currently a Lecturer at [School of Computer Science and Eng
 
 What’s new
 ------
-- 2020/01/17, One paper has been accepted by ICWS 2020.
+- 2020/07/21, One paper has been accepted by IEEE SCC 2020.
+- 2020/01/17, One paper has been accepted by IEEE ICWS 2020.
 
 Contact
 ------
