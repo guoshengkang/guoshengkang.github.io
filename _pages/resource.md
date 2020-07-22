@@ -98,4 +98,4 @@ Outline
 * [SciHub 3.3](https://pan.baidu.com/s/1cWkHNH9si2YRcNGOAM6wQA)
 * [draw.io-13.3.9-windows-installer](https://pan.baidu.com/s/1SoGCHMEdU7YHLX13XbG0vA )
 
-Note: all download codes are 'kang'
+Note: download code is 'kang'
