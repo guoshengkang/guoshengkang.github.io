@@ -76,10 +76,6 @@ Outline
   * <http://sci.xueshuwu.cn>
 * **SCI-HUB**
   * <http://sci-hub.tw/>
-  * <http://sci-hub.hk/>
-  * <http://sci-hub.nz/>
-  * <http://sci-hub.ga/>
-  * <http://sci-hub.ws/>
   * <http://www.sci-hub.wang/>
 * **Grammarly**
   * <https://www.grammarly.com/>
