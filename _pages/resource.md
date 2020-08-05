@@ -75,8 +75,10 @@ Outline
 * **Academic House**
   * <http://sci.xueshuwu.cn>
 * **SCI-HUB**
-  * <http://sci-hub.tw/>
-  * <http://www.sci-hub.wang/>
+  * http://sci-hub.tw/
+  * http://sci-hub.se/
+  * http://sci-hub.shop/
+  * http://sci-hub.ren/
 * **Grammarly**
   * <https://www.grammarly.com/>
     * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
