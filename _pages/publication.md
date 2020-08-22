@@ -6,7 +6,7 @@ author_profile: true
 You can also find my papers on my <a href="https://scholar.google.com.hk/citations?user=dGw4VPoAAAAJ&hl=en">Google Scholar profile</a> or <a href="https://dblp.org/pers/hd/k/Kang:Guosheng">DBLP</a>, however, it may not be up to date.
 
 Journal articles
-======
+------
 * **Guosheng Kang**, Liqin Yang, Liang Zhang. Towards Configurable Modelling for Artifact-centric Business Processes. Concurrency and Computation: Practice and Experience, Vol. 32, No. 2, pp. 1-13, 2020.
 * **Guosheng Kang**, Liqin Yang, Liang Zhang. Verification of Behavioral Soundness for Artifact-centric Business Process Model with Synchronizations. Future Generation Computer Systems, Vol. 98, No. 2019, pp. 503-511, 2019.
 * **Guosheng Kang**. Correctness of Artifact-Centric Business Process Models. International Journal of Process Integration and Management, Vol. 8, No. 3, pp. 172-181, 2017.
@@ -27,7 +27,7 @@ Journal articles
 * 禹蒲阳, **康国胜**. 可信计算的研究与发展. 计算机技术与发展, Vol. 21, No. 8, pp. 233-236, 2011.
 
 Conference papers
-======
+------
 * Liqin Yang, **Guosheng Kang**, Weigang Cai, Qiang Zhou. An Effective Process Mining Approach against Diverse Logs Based on Case Classification. IEEE International Congress on Big Data. IEEE Computer Society, pp. 351-358, 2015. 
 * **Guosheng Kang**, Zhaoyang Tian, Xiao Zhang, Liang Zhang, Lixin Ma, Xiang Gao, Xiaonan Zhang, Zizhe Ding. Heterogeneous Business Process Consolidation: A Pattern-Driven Approach. International Conference on Service Sciences. IEEE Computer Society, pp. 136-141, 2014.
 * Haihuan Qin, **Guosheng Kang**, Lipeng Guo. Maxinstx: A Best-Effort Failure Recovery Approach for Artifact-Centric Business Processes. International Conference on Service-Oriented Computing. Springer, pp. 558-566, 2013.
@@ -36,9 +36,9 @@ Conference papers
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Xiaoqing(Frank) Liu, K Fletcher Fletcher. Web Service Selection for Resolving Conflicting Service Requests. International Conference on Web Services. IEEE Computer Society, pp. 387-394, 2011.
 
 Patents
-======
+------
 * 张亮, 杨丽琴, **康国胜**. 一种适用于多样性环境的业务流程挖掘方法, 2018.04.12, CN201410723646.2
 
 Technical reports
-======
+------
 * Pending
