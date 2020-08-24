@@ -10,10 +10,10 @@ redirect_from:
 
 Membership
 ------
-* CCF
+* [CCF](https://www.ccf.org.cn/)
+* [CCF TCSC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCSC/)
 * IEEE
 * ACM
-* CCF TCSC
 
 Reviewer
 ------
