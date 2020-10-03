@@ -77,6 +77,9 @@ Outline
   * <http://sci.xueshuwu.cn>
 * **SCI-HUB**
   * <https://tool.yovisun.com/scihub/>
+* **Elsevier JournalFinder**
+  * <https://journalfinder.elsevier.com/>
+    * Enter title and abstract of your paper to easily find Elsevier journals that could be best suited for publishing.
 * **Grammarly**
   * <https://www.grammarly.com/>
     * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
