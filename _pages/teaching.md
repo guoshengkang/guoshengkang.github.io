@@ -11,7 +11,8 @@ redirect_from:
 * [Service Computing (2019, Fall)](http://guoshengkang.github.io/teaching/2019-fall-service-computing), Senior Student
 * [C Programming (2020, Spring)](http://guoshengkang.github.io/teaching/2020-spring-c-programming), Freshman
 
-<center>**2020-2021-1教学课表**</center>
+**2020-2021-1教学课表**
+
 |        |星期一|星期二|星期三|星期四|星期五|
 | :----: | :----: | :----: | :----: | :----: | :----: |
 |第一二节<br>08:00-09:40|	|	 |	 |	 |计算机导论6-9周<br>第五教学楼201<br>20计算机1-4班|
