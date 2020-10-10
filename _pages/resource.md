@@ -90,7 +90,10 @@ Outline
   * <https://draw.io> or <https://www.diagrams.net/>
     * diagrams.net is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
     * <https://app.diagrams.net/?mode=github>, open files form github repository
-
+* **Z-Library**
+  * https://b-ok.cc/
+    * Part of Z-Library project. The world's largest free ebook library.
+    
 <span id="Software download">Software download</span> 
 ======
 * [Endnote X9](https://pan.baidu.com/s/1rXHrNLKQRERX6Gmv1UmeSw)
