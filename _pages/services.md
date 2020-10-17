@@ -27,6 +27,7 @@ Reviewer
   * [SWEVO](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)
   * [JISYS](https://onlinelibrary.wiley.com/journal/1098111x)
   * [IET Software](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4124007)
+  * [EXSY](https://onlinelibrary.wiley.com/journal/14680394)
 * **Conferences**
   * BPM
   * APBPM
