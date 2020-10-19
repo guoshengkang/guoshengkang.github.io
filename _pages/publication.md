@@ -28,9 +28,9 @@ Journal articles
 
 Conference papers
 ------
-* Yong Xiao, Jianxun Liu, Guosheng Kang, Rong Hu, Buqing Cao, Yingcheng Cao, and Shi Min. Structure Reinforcing and Attribute Weakening Network Based Api Recommendation Approach for Mashup Creation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 541-548, 2020.
-* Guosheng Kang, Jianxun Liu, Buqing Cao, Manliang Cao. NAFM: Neural and Attentional Factorization Machine for Web API Recommendation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 330-337, 2020.
-* Guosheng Kang, Jianxun Liu, Buqing Cao, Yong Xiao. Diversified QoS-Centric Service Recommendation for Uncertain QoS Preferences. IEEE International Conference on Services Computing. IEEE Computer Society, pp. 288-295, 2020.
+* Yong Xiao, Jianxun Liu, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, and Shi Min. Structure Reinforcing and Attribute Weakening Network Based Api Recommendation Approach for Mashup Creation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 541-548, 2020.
+* **Guosheng Kang**, Jianxun Liu, Buqing Cao, Manliang Cao. NAFM: Neural and Attentional Factorization Machine for Web API Recommendation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 330-337, 2020.
+* **Guosheng Kang**, Jianxun Liu, Buqing Cao, Yong Xiao. Diversified QoS-Centric Service Recommendation for Uncertain QoS Preferences. IEEE International Conference on Services Computing. IEEE Computer Society, pp. 288-295, 2020.
 * Liqin Yang, **Guosheng Kang**, Weigang Cai, Qiang Zhou. An Effective Process Mining Approach against Diverse Logs Based on Case Classification. IEEE International Congress on Big Data. IEEE Computer Society, pp. 351-358, 2015. 
 * **Guosheng Kang**, Zhaoyang Tian, Xiao Zhang, Liang Zhang, Lixin Ma, Xiang Gao, Xiaonan Zhang, Zizhe Ding. Heterogeneous Business Process Consolidation: A Pattern-Driven Approach. International Conference on Service Sciences. IEEE Computer Society, pp. 136-141, 2014.
 * Haihuan Qin, **Guosheng Kang**, Lipeng Guo. Maxinstx: A Best-Effort Failure Recovery Approach for Artifact-Centric Business Processes. International Conference on Service-Oriented Computing. Springer, pp. 558-566, 2013.
