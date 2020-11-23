@@ -16,3 +16,9 @@ Co-supervised Students
 - **Linghang Ding**, Master Student, February 2020-
 - **Xing Li**, Master Student, September 2020-
 - **Runbin Xie**, Master Student, September 2020-
+
+------
+
+Research results obtained by students
+------
+**Yong Xiao**, Jianxun Liu, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, and Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 541-548, 2020.
