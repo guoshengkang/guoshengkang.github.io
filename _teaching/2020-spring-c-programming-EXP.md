@@ -16,7 +16,7 @@ int main()
 	return 0;
 }
 ```
-**修正**：  
+**修正**： 
 ```c
 printf("x2=%g\n",x1); --> printf("x2=%g\n",x2);
 ```
@@ -49,7 +49,7 @@ int main()
 {
 	int x,k,a,b,count=0;
 	for(x=4; x<=100; x=x+2)
-	{   
+	{ 
 		for(a=2; a<=(x/2); a++)
 		{
 			for(k=2; k<a; k++)
@@ -79,7 +79,7 @@ int main()
 ```c
 #include <stdio.h>
 int fun(int x)
-{   
+{ 
 	int n,s=0;
 	for(n=1; n<x; n++)
 		if(x%n==0)
@@ -88,14 +88,15 @@ int fun(int x)
 }
 
 int  main(void)
-{   int a, b;
+{
+	int a, b;
 	for(a=1; a<=1000; a++)
-	{   
+	{ 
 		b=fun(a);
 		if(fun(b)==a&&a!=b&&b<=1000&&b>a)  
 			printf("%d,%d\n",a,b);
 	}
-    return 0;
+	return 0;
 }
 ```
 #### 【实验】以下程序中函数的功能是求s=1/(1\*2)+1/(2\*3)+...+1/(n\*(n+1))。请使用单步执行方式来调试，查找逻辑错误。比如测试案例:输入“1”,则应输出“fun(1)=0.500000”;输入“2”,则应输出“fun(2)=0.666667”。
@@ -364,16 +365,16 @@ int main()
 #include <string.h>
 int main(int argc, char *argv[])
 {
-   if(argc==3)
-   {
-      printf("第0个参数(命令名)为：%s\n",argv[0]);
-      printf("第1个参数(字符串1)为：%s\n",argv[1]);
-      printf("第2个参数(字符串2)为：%s\n",argv[2]);
-      printf("字符串1和字符串2相连后的结果为：%s\n",strcat(argv[1],argv[2]));
-   }
-   else
-      printf("错误!请输入两个参数(字符串)!");
-   return 0;
+	if(argc==3)
+	{
+		printf("第0个参数(命令名)为：%s\n",argv[0]);
+		printf("第1个参数(字符串1)为：%s\n",argv[1]);
+		printf("第2个参数(字符串2)为：%s\n",argv[2]);
+		printf("字符串1和字符串2相连后的结果为：%s\n",strcat(argv[1],argv[2]));
+	}
+	else
+		printf("错误!请输入两个参数(字符串)!");
+	return 0;
 }
 ```
 ### 方法一：在命令行运行

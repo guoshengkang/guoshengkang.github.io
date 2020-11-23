@@ -5,8 +5,8 @@
 #include <stdio.h>
 int main( )
 {	
-    printf("这是我的第一个C语言程序\n");
-    return 0;
+	printf("这是我的第一个C语言程序\n");
+	return 0;
 } 
 ```
 ## **Chapter 2**
@@ -17,10 +17,10 @@ int main( )
 {	
 	int a,b;
 	printf("88+125=%d\n",88+125);
-    printf("请输入两个整数：");
+	printf("请输入两个整数：");
 	scanf("%d %d",&a,&b);
 	printf("%d-%d=%d\n",a,b,a-b);
-    return 0;
+	return 0;
 } 
 ```
 #### 【2020/03/05】任意输入一位3位正整数，输出它的逆序数，如输入264，输出462（提示可以用/，%两个运算符）
@@ -29,14 +29,14 @@ int main( )
 int main( )
 {	
 	int n,gewei,shiwei,baiwei,r;
-    printf("请输入一个三位正整数：");
+	printf("请输入一个三位正整数：");
 	scanf("%d",&n);
 	baiwei=n/100;
 	shiwei=n%100/10;
 	gewei=n%10;
 	r=gewei*100+shiwei*10+baiwei;
 	printf("%d逆序数为：%d\n",n,r);
-    return 0;
+	return 0;
 } 
 ```
 ## **Chapter 3**
@@ -93,9 +93,9 @@ int fun(int x)
 {
 	int n;
 	for(n=2; n<x; n++)
-		if(x%n==0)  
+		if(x%n==0) 
 			return 0;
-	return  1;
+	return 1;
 }
 int main(void)
 {
@@ -106,11 +106,11 @@ int main(void)
 		printf("%d is a prime number!\n",x);
 	else 
 	printf("%d is not a prime number!\n",x);
-    return 0;
+	return 0;
 } 
 
 ```
-#### 【2020/03/23】试用递归的方法编写一个返回长整型的函数，以计算斐波纳契数列的前20项。该数列满足：F(0)=1，F(1)=1，F(n)=F(n-1)+F(n-2)  （n>2）。
+#### 【2020/03/23】试用递归的方法编写一个返回长整型的函数，以计算斐波纳契数列的前20项。该数列满足：F(0)=1，F(1)=1，F(n)=F(n-1)+F(n-2) （n>2）。
 ```c
 #include <stdio.h>
 long int Fibonacci (int n)
@@ -120,9 +120,9 @@ long int Fibonacci (int n)
 		p=n;
 	else
 		p= Fibonacci (n-1)+ Fibonacci (n-2);
-	return  p;
+	return p;
 }
-int  main(void)
+int main(void)
 {
 	int n;
 	for(n=1; n<=20; n++)
@@ -131,7 +131,7 @@ int  main(void)
 		if((n)%5==0)
 			printf("\n");
 	}
-    return 0;
+	return 0;
 } 
 ```
 #### 【2020/03/27】编写一函数change(x，r)，将十进制整数x转换成r（1<r<10）进制后输出。(建议在main函数中调用进行测试)
@@ -149,7 +149,7 @@ int change(int x,int r)
 	}while(x);
 	return result;
 }
-int  main(void)
+int main(void)
 {
 	int x,r;
 	printf("请输入一个正整数x:");
@@ -157,7 +157,7 @@ int  main(void)
 	printf("请输入一个正整数r(1<r<10):");
 	scanf("%d", &r);
 	printf("%d转化为%d进制为:%d\n",x,r,change(x,r));
-    return 0;
+	return 0;
 } 
 ```
 #### 【2020/03/30】如果一个数等于其所有真因子（不包括其本身）之和，则该数为完数，例如：6的因子有1、2、3，且6=1+2+3，故6为完数，求2\~1000中的所有完数。（要求：定义一个函数判断一个数是否为完数，并在main函数中调用，输出2\~1000中的所有完数）
@@ -174,12 +174,12 @@ int IsWanshu(int n)
 		else
 			return 0;
 }
-int  main(void)
+int main(void)
 {
 	int i, j=0;
 	for(i=2; i<=1000; i++)
 	{
-		if(IsWanshu(i))  
+		if(IsWanshu(i)) 
 		{
 			printf("%5d", i);
 			j=j+1; 
@@ -196,7 +196,7 @@ int  main(void)
 ```c
 #include <stdio.h>
 #define N 10
-int  main(void)
+int main(void)
 {
 	int i,j,max,temp,a[N]={29,37,12,30,45,47,27,39,16,72};
 	for(i=0; i<N-1; i++)
@@ -293,7 +293,7 @@ int main()
 {
 	char a[2]; // even it seems more flexible, it is still not recommended!
 	int i,L;
-	gets(a);  // but not scanf("%s",a); it will exceed the length of the array.
+	gets(a); // but not scanf("%s",a); it will exceed the length of the array.
 	L=strlen(a);
 	for(i=L-1;i>=0;i--)
 		printf("%c",a[i]);
@@ -497,20 +497,20 @@ int main()
 ```c
 #include <stdio.h>
 float fun(int n)
-{   
+{ 
 	float s;
 	if(n==1)
 		s=0.5;
 	else
 		s=fun(n-1)+1.0/(n*(n+1));
-	return  s;
+	return s;
 }
 
-int  main(void)
-{  
+int main(void)
+{ 
 	int n;
 	scanf("%d",&n);
 	printf("fun(%d)=%f\n",n,fun(n));
-    return 0;
+	return 0;
 }
 ```
