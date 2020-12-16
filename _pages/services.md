@@ -28,6 +28,7 @@ Reviewer
   * [IET Software](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4124007)
   * [EXSY](https://onlinelibrary.wiley.com/journal/14680394)
   * [IEEE ACCESS](https://ieeeaccess.ieee.org)
+  * [CCOS](https://www.tandfonline.com/toc/ccos20/current)
 * **Conferences**
   * BPM
   * APBPM
