@@ -51,6 +51,12 @@ permalink: /Misc/inspirations
 372. Keep your heart free from hate, your mind free from wrong. Live simply, expect little, give much. Scatter sunshine, forgive self, think of others. Do as you would be done to. It's the way to happiness. ---- Unknown
 373. Here are a few wonderful words from Einstein: Only a life lived in service to others is worth living. ---- Unknown
 375. Kind hearts are the garden. Kind thoughts are the roots. Kind words are the blossoms. Kind deeds are the fruit. ---- Unknown
+376. Forgiveness is not about releasing someone from accountability for their actions. It is about us letting go of our anger and resentment. ---- Unknown
+377. When you really love someone, age, distance, height, and weight are just numbers. ---- Unknown
+378. Sometimes waiting is a sign of true love and patience. Anyone can say I love you, but not everyone can wait and prove it is true. ---- Unknown
+379. The most valuable gift you can receive is an honest friend. ---- Stephen Richards
+380. Never forget who was with you when you had nothing. ---- Unknown
+381. You can’t stop the waves, but you can learn to surf. ---- Jon Kabat-Zinn
 
 ## <span id="Truth">Truth & Faith & Wisdom & Mission & Time</span>
 32. People were created to be loved. Things were created to be used. The reason why the world is in chaos, is because things are being loved and people are being used. ---- John Green
@@ -101,6 +107,8 @@ permalink: /Misc/inspirations
 383. Don't worry about what the world wants from you, worry about what makes you come more alive. Because what the world really needs is, who are full of life, people who are living life, not just passing through. ---- Unknown
 384. The trouble with having no goal is that you can spend your life running up and down the field and never score. ---- Unknown
 388. Your work is to discover your work and then, with all your heart, to give yourself to it. ---- Unknown
+389. Train your mind to be stronger than your feelings. ---- Unknown
+390. We must be willing to let go of the life we planned so as to have the life that is waiting for us. ---- Joseph Campbell
 
 ## <span id="Attitude">Attitude & Life & Happiness</span>
 46. A life spent making mistakes is more honorable than a life spent doing nothing. ---- George Bernard Shaw
@@ -214,7 +222,17 @@ permalink: /Misc/inspirations
 378. Some questions take a lifetime to answer, but they are still worth asking. They are still worth asking, the answer worth pursuing. Remember, the true sign of intelligence isn't the ability to answer questions; it's the ability to ask them. ---- Unknown
 381. To be happy you must know the F.A.C.T.S. Forgive others Accept your mistakes Crystal and move on Thanksgiving God for. everything Smile always. ---- Unknown
 385. Life is all about change. If we don't change, we don't grow. If we don't grow, we really aren't living. ---- Unknown
-
+386. Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. ---- Rumi
+387. You can destroy your now by worrying about tomorrow. ---- Janis Joplin
+388. Remove negative people from your life. The people you spend time with influence your attitude, thoughts and success more than you think. ---- Unknown
+389. If you cry because the sun has gone out of your life, your tears will prevent you from seeing the stars. ---- Rabindranath Tagore
+390. Train yourself to find the blessing in everything. ---- Unknown
+391. Too many people are trying to find the right person instead of being the right person. ---- Gloria Steinem
+392. You can’t be real with others if you’re not real with yourself. ---- Unknown
+394. You will never be good enough for everyone. Luckily, all you have to be is good enough for you. ---- Unknown
+395. Always end the day with a positive thought. No matter how hard things were, tomorrow’s a fresh opportunity to make it better. ---- Unknown
+396. Choose the words you say to yourself wisely; they are creating your reality. ---- Sean Stephenson
+397. Don’t compare yourself with other people; compare yourself with who you were yesterday. ---- Jordan Peterson
 
 ## <span id="Change">Change & Action</span>
 83. Whatever you want to do, do it now. There are only so many tomorrows. ---- Michael Landon 
@@ -280,6 +298,12 @@ permalink: /Misc/inspirations
 357. If you can't fly than run. If you can't run than walk. If you can't walk than crawl. But whatever you do, you have to keep moving forward. ---- Unknown
 361. Progress is impossible without change, and those who cannot change their minds cannot change anything. ---- Unknown
 386. Create a definite plan for carrying out your desire and begin at once, whether you feel ready or not. Put your plan into action. ---- Unknown
+687. Do what you can, with what you have, where you are. ---- Theodore Roosevelt
+688. Nothing will change in your life if you don’t do something different from what you have been doing. ---- Unknown
+389. Holding on is being brave, but letting go and moving on is often what makes us stronger and happier. ---- Unknown
+393. Don’t let the mistakes and disappointments of the past control and direct your future. ---- Zig Ziglar
+394. It is hard to fail, but it is worse never to have tried to succeed. ---- Theodore Roosevelt
+395. One positive action in your life has the potential to change the world. ---- Steven Aitchison
 
 ## <span id="Courage">Courage & Perseverance & Leardership & Integrity & Success & Dream & Challenge</span>
 112. Your failure does not define you, your determination does. ---- Unknown
@@ -390,4 +414,9 @@ permalink: /Misc/inspirations
 371. Anyone can give up, it's the easiest thing in the world to do, but to hold it together when everyone would expect you to fall apart, that's True Strength. ---- Unknown
 387. The will to win, the desire to succeed, the urge to reach your full potential, these are the keys that will unlock the door to personal excellence. ---- Unknown
 389. The man who gets ahead does the thing that should be done without being told to do it. But he doesn't stop there; he goes the extra mile by doing a great deal more than is expected or demanded of him. ---- Unknown
-389. If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own. ---- Henry Ford  
+389. If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own. ---- Henry Ford
+390. The possibilities are endless when you work hard and never give up. ---- Unknown
+391. Don’t give up just because things are hard. ---- Unknown
+392. I know I’m on the right path because things stopped being easy. ---- Unknown
+393. It’s easier to go down a hill than up it but the view is much better at the top. ---- Henry Ward Beecher
+394. I’ve failed over and over and over again in my life and that is why I succeed. ---- Michael Jordan
