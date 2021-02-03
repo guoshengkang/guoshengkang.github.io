@@ -24,7 +24,7 @@ Journal articles
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Buqing Cao. Web Service Selection Algorithm Based on Principal Component Analysis. Journal of Electronics (China), Vol. 30, No. 2, pp. 1-9, 2012.
 * **康国胜**, 刘建勋, 胡蓉. 网格服务环境下的全局最优服务选择模型研究. 小型微型计算机系统, Vol. 32, No. 9, pp. 1800-1803, 2011.
 * **康国胜**, 刘建勋, 唐明董，徐宇. 基于差异演化算法的QoS全局最优动态Web服务选择. 电信科学, Vol. No. 12, pp. 67-71, 2011.
-;* 禹蒲阳, **康国胜**. 可信计算的研究与发展. 计算机技术与发展, Vol. 21, No. 8, pp. 233-236, 2011.
+[^_^]: #* 禹蒲阳, **康国胜**. 可信计算的研究与发展. 计算机技术与发展, Vol. 21, No. 8, pp. 233-236, 2011.
 
 Conference papers
 ------
