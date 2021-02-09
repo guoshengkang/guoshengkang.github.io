@@ -29,6 +29,7 @@ Reviewer
   * [EXSY](https://onlinelibrary.wiley.com/journal/14680394)
   * [IEEE ACCESS](https://ieeeaccess.ieee.org)
   * [CCOS](https://www.tandfonline.com/toc/ccos20/current)
+  * [COIN](https://onlinelibrary.wiley.com/journal/14678640)
 * **Conferences**
   * BPM
   * APBPM
