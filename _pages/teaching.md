@@ -8,9 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-* [C Programming (2020, Spring)](http://guoshengkang.github.io/teaching/2020-spring-c-programming), Freshman
-* [Foundations of Computer Science (2020, Fall)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science), Freshman
+* [C Programming (Spring)](http://guoshengkang.github.io/teaching/2020-spring-c-programming), Freshman
+  * 2020, Spring (2019级能化1~3&制药1~3)
+  * 2021, Spring (2020级建环1~3&环境1~3)
+* [Foundations of Computer Science (Fall)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science), Freshman
+  * 2020, Spring (2020级计算机\*1~4\*&软件1~3)
 
+\*: Xiaoxiang College
 - - -
 
 **2020-2021-2教学课表**
