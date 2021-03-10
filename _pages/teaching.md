@@ -10,7 +10,7 @@ redirect_from:
 
 * **C Programming**, Freshman
   * [2020, Spring (2019级能化1~3&制药1~3)](http://guoshengkang.github.io/teaching/2020-spring-c-programming)
-  * 2021, Spring (2020级建环1~3&环境1~3)
+  * 2021, Spring (2020级建环1~3&环境1~3)(http://guoshengkang.github.io/teaching/2021-spring-c-programming)
 * **Foundations of Computer Science**, Freshman
   * [2020, Spring (2020级计算机\*1~4&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)
 
