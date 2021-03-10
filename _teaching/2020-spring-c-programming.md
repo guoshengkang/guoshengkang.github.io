@@ -6,7 +6,7 @@ permalink: /teaching/2020-spring-c-programming
 venue: "HNUST"
 date: 2020-02-24
 ---
-* Chapter 1： Introducntion [Slide](http://guoshengkang.github.io/files/MasterThesis.pdf) (2020/02/28)
+* Chapter 1： Introducntion [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/Chapt_1.ppt) (2020/02/28)
 * Chapter 2： Basic Data Types & Operators [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第2章.ppt) (2020/03/06)
 * Chapter 3： Control Structures [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第3章.ppt) (2020/03/13)
 * Chapter 4： Function [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第4章.ppt) (2020/03/20)
