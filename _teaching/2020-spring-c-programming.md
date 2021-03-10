@@ -2,7 +2,6 @@
 title: "C Programming (2020, Spring)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-spring-c-programming
 venue: "HNUST"
 date: 2020-02-24
 ---
