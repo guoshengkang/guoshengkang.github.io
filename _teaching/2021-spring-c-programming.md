@@ -1,10 +1,10 @@
 ---
-title: "C Programming (2020, Spring)"
+title: "C Programming (2021, Spring)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-spring-c-programming
+permalink: /teaching/2021-spring-c-programming
 venue: "HNUST"
-date: 2020-02-24
+date: 2021-03-10
 ---
 * Chapter 1： Introducntion
 * Chapter 2： Basic Data Types & Operators
