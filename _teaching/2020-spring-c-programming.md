@@ -16,11 +16,11 @@ date: 2020-02-24
 * Chapter 8： File** [Slide](http://guoshengkang.github.io/files/Slides_C_Programming/C语言程序设计__第8章.ppt) (2020/04/17)
 * Chapter 9： Algorithms & Examples*** [Slide](http://guoshengkang.github.io/files/Slides_C_Programming/C语言程序设计__第9章.ppt) (2020/04/24)
 
-Textbook: Chapter 1~7 [pdf](http://guoshengkang.github.io/files/Slides_C_Programming/C语言程序设计_教材1-7章.pdf)  
+Textbook: Chapter 1~7 [pdf](http://guoshengkang/My-Courses/2020-spring-c-programming/C语言程序设计_教材1-7章.pdf)  
 [Homework & Answer](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/2020-spring-c-programming-HW.md)  
 [Experiment](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/2020-spring-c-programming-EXP.md)
 
-![Textbook](http://guoshengkang.github.io/files/Slides_C_Programming/教材封面.jpg)
+![Textbook](https://github.com/guoshengkang/My-Courses/2020-spring-c-programming/textbook.jpg)
 
 Acknowledgement: Thanks to Ping Liu who provided the slides of this course and 
 taught the course for the first three weeks.
