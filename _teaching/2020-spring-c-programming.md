@@ -6,19 +6,19 @@ permalink: /teaching/2020-spring-c-programming
 venue: "HNUST"
 date: 2020-02-24
 ---
-* Chapter 1： Introducntion [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第1章.ppt) (2020/02/28)
-* Chapter 2： Basic Data Types & Operators [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第2章.ppt) (2020/03/06)
-* Chapter 3： Control Structures [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第3章.ppt) (2020/03/13)
-* Chapter 4： Function [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第4章.ppt) (2020/03/20)
-* Chapter 5： Array [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第5章.ppt) (2020/03/27)
-* Chapter 6： Pointer* [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第6章.ppt) (2020/04/03)
-* Chapter 7： Structure & Union** [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第7章.ppt) (2020/04/10)
-* Chapter 8： File** [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第8章.ppt) (2020/04/17)
-* Chapter 9： Algorithms & Examples*** [Slide](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计__第9章.ppt) (2020/04/24)
+* Chapter 1： Introducntion [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第1章.ppt) (2020/02/28)
+* Chapter 2： Basic Data Types & Operators [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第2章.ppt) (2020/03/06)
+* Chapter 3： Control Structures [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第3章.ppt) (2020/03/13)
+* Chapter 4： Function [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第4章.ppt) (2020/03/20)
+* Chapter 5： Array [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第5章.ppt) (2020/03/27)
+* Chapter 6： Pointer* [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第6章.ppt) (2020/04/03)
+* Chapter 7： Structure & Union** [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第7章.ppt) (2020/04/10)
+* Chapter 8： File** [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第8章.ppt) (2020/04/17)
+* Chapter 9： Algorithms & Examples*** [Slide](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计__第9章.ppt) (2020/04/24)
 
-Textbook: Chapter 1~7 [pdf](http://guoshengkang.github.io/files/2020-spring-c-programming/C语言程序设计_教材1-7章.pdf)  
-[Homework & Answer](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/files/2020-spring-c-programming/2020-spring-c-programming-HW.md)  
-[Experiment](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/files/2020-spring-c-programming/2020-spring-c-programming-EXP.md)
+Textbook: Chapter 1~7 [pdf](http://guoshengkang.github.io/files/2020_spring_c_programming/C语言程序设计_教材1-7章.pdf)  
+[Homework & Answer](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/files/2020_spring_c_programming/2020-spring-c-programming-HW.md)  
+[Experiment](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/files/2020_spring_c_programming/2020-spring-c-programming-EXP.md)
 
 ![Textbook](http://guoshengkang.github.io/files/2020-spring-c-programming/textbook.jpg)
 
