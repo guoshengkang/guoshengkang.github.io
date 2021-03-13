@@ -7,6 +7,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal articles
 ------
+* **Guosheng Kang**, Yong Xiao, Jianxun Liu, Yingcheng Cao, Buqing Cao, Xiangping Zhang, Linghang Ding. Tatt-BiLSTM: Web Service Classification with Topical Attention based BiLSTM. Concurrency and Computation: Practice and Experience, online Press, 2020, DOI: 10.1002/cpe.6287.
 * **Guosheng Kang**, Liqin Yang, Liang Zhang. Towards Configurable Modelling for Artifact-centric Business Processes. Concurrency and Computation: Practice and Experience, Vol. 32, No. 2, pp. 1-13, 2020.
 * **Guosheng Kang**, Liqin Yang, Liang Zhang. Verification of Behavioral Soundness for Artifact-centric Business Process Model with Synchronizations. Future Generation Computer Systems, Vol. 98, No. 2019, pp. 503-511, 2019.
 * **Guosheng Kang**. Correctness of Artifact-Centric Business Process Models. International Journal of Process Integration and Management, Vol. 8, No. 3, pp. 172-181, 2017.
@@ -41,6 +42,7 @@ Conference papers
 Patents
 ------
 * 张亮, 杨丽琴, **康国胜**. 一种适用于多样性环境的业务流程挖掘方法, 2018.04.12, CN201410723646.2
+* **康国胜**, 刘建勋, 肖勇. 一种融合非结构化和结构化信息的Web服务分类方法, 2020.12.31, Application Number: 202011606131.6
 
 Technical reports
 ------
