@@ -18,6 +18,8 @@ date: 2021-03-10
 
 [Homework & Answer](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/2021-spring-c-programming-HW.md)
 
+[Visual Studio 2010 Express](https://pan.baidu.com/s/1jH0P9Gf2ytXe8xYI_USZ0w ) (fetch code: kang)
+
 **Textbook**: 蒋清明, 向德生. C语言程序设计教程[M] (第二版). 中国矿业出版社, 2019. [Slides](https://pan.baidu.com/s/185szJ-U2vFg9ZXnxDDbjEw) (fetch code: kang)
 
 ![Textbook](http://guoshengkang.github.io/files/2021_Spring_C_Programming-教材封面.jpg)
