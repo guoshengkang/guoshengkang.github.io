@@ -15,6 +15,5 @@ date: 2020-10-10
 * Chapter 7： Problem Solving and Algorithms*
 * Chapter 8： Abstract Data Types and Subprograms**
 
-**Textbook**: Nell B Dale, and John Lewis. Computer Science Illuminated [M]. Jones & Bartlett Learning, 2007. [Slides](https://pan.baidu.com/s/1EuYInp-dXgzOPjtrVw7vpg) (fetch code: kang)
-
+**Textbook**: Nell B Dale, and John Lewis. Computer Science Illuminated [M]. Jones & Bartlett Learning, 2007. [Slides](https://pan.baidu.com/s/1EuYInp-dXgzOPjtrVw7vpg)  
 ![Textbook](http://guoshengkang.github.io/files/foundations-of-computer-science-教材封面.jpg)
