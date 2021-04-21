@@ -68,8 +68,8 @@ Outline
 <span id="Academic writing">Academic writing</span>
 ======
   * 《Academic Writing for Engineering Publications: Guide for Non-native English Speakers》, 2020, by Zhongchao Tan, [more info](http://canapril.ca/training/)
-    * [video course on bilibili](https://space.bilibili.com/673616380/)
-    * [video course on YouTube](https://www.youtube.com/channel/UC-hcoZ6zXISB75R3Il-776g/videos)
+    * [Chinese video course on bilibili](https://space.bilibili.com/673616380/)
+    * [English video course on YouTube](https://www.youtube.com/channel/UC-hcoZ6zXISB75R3Il-776g/videos)
 
 <span id="Useful links">Useful links</span>  
 ======
