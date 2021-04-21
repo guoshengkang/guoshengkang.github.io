@@ -13,6 +13,7 @@ Outline
 - [How to do research](#How to do research)
 - [Book recommendation](#Book recommendation)
 - [Academic evaluation](#Academic evaluation)
+- [Academic writing](#Academic writing)
 - [Useful links](#Useful links)
 - [Software download](#Software download)
 
@@ -63,6 +64,12 @@ Outline
 * [CCF Rank for International Journals and Conferences (2019)](http://guoshengkang.github.io/resources/2019_Rank_CCF推荐国际学术会议和期刊目录.pdf)
 * [CCF Rank for International Journals and Conferences (2015)](http://guoshengkang.github.io/resources/2015_Rank_CCF推荐国际学术会议和期刊目录.pdf)
 * [CCF Rank for Chinese Scientific Journals (2019)](http://guoshengkang.github.io/resources/2019_Rank_CCF推荐中文科技期刊目录.pdf)
+
+<span id="Academic writing">Academic writing</span>
+======
+  * 《Academic Writing for Engineering Publications: Guide for Non-native English Speakers》, 2020, by Zhongchao Tan, [more info](http://canapril.ca/training/)
+    * [video course on bilibili](https://space.bilibili.com/673616380/)
+    * [video course on YouTube](https://www.youtube.com/channel/UC-hcoZ6zXISB75R3Il-776g/videos)
 
 <span id="Useful links">Useful links</span>  
 ======
