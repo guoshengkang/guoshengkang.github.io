@@ -10,7 +10,7 @@ date: 2021-03-10
 * Chapter 2: Project Management Concepts
 * Chapter 3: Software Process and Project Metrics
 * Chapter 4: Software Project Planning
-* Chapter 5/7: Software Quality Management and Quality Assurance
+* Chapter 5&7: Software Quality Management and Quality Assurance
 * Chapter 6: Software Configuration Management
 * Chapter 8: Software Requirements Engineering
 * Chapter 9: Software Design Engineering
