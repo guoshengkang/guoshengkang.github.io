@@ -2,7 +2,7 @@
 title: "Advanced Software Engineering (2021, Spring)"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching2021-spring-advanced-software-engineering
+permalink: /teaching/2021-spring-advanced-software-engineering
 venue: "HNUST"
 date: 2021-03-10
 ---
