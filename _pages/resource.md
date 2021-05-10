@@ -26,6 +26,8 @@ Outline
 * [Use Abstract Databases (e.g., Web of Science) to Do Literature Review](http://guoshengkang.github.io/resources/如何利用Web of Science等文摘索引类数据库进行文献调研.pdf) (in Chinese), by Qiu Chen, from Fudan library training
 * [Literature Review before Proposal](http://guoshengkang.github.io/resources/开题与立项前的文献调研.pdf) (in Chinese), by Yi Zhou, from Fudan library training
 * [EndNote X9 for Reference Management and Writing](http://guoshengkang.github.io/resources/轻松应对文献管理与写作之——EndNote X9.pdf) (in Chinese), by Tingying Huang from Clarivate Analytics
+* [How to Use the Reference Management Software——EndNote X9](http://guoshengkang.github.io/resources/EndNote X9——文献管理软件使用方法.pdf) (in Chinese), by Congcong Gu from Fudan library training
+* [How to Use the Document Preparation System——LaTex](http://guoshengkang.github.io/resources/论文排版工具——LaTeX入门到进阶.pdf) (in Chinese), by Tianyi Lu from Fudan library training
 
 <span id="Book recommendation">Book recommendation</span> 
 ======
