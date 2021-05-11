@@ -13,9 +13,8 @@
   * 5人一组（课后完成），将分组成员名单及所选择的课题内容报负责人统计
 
 注：请电子信息专业的班长李浩东负责收集分组名单及所选择的课题内容
-```c
 
-```
+
 #### 【HW-2】论文汇报
 请从以下期刊或会议中选择1篇近5年（2016~2021）的论文按小组进行汇报：
 
@@ -33,6 +32,5 @@
   * FSE: ACM SIGSOFT Symposium on the Foundation of Software Engineering
   * ESEC: European Software Engineering Conference
   * ASE: International Conference on Automated Software Engineering
-```c
 
-```
+
