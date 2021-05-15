@@ -97,7 +97,7 @@ Outline
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
 * **Draw.io - Diagrams.net**
   * <https://draw.io> or <https://www.diagrams.net/>
-    * diagrams.net is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+    * diagrams.net is free online diagram software (compatible with Latex) for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
     * <https://app.diagrams.net/?mode=github>, open files form github repository
 * **Z-Library**
   * <https://b-ok.cc/>
