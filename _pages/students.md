@@ -10,6 +10,8 @@ redirect_from:
 
 **Welcome hardworking students to join our team.**
 
+------
+
 I’m fortunate to work with the following brilliant students.  
 
 Co-supervised Students
@@ -19,7 +21,9 @@ Co-supervised Students
 - **Xing Li**, Master Student, September 2020-
 - **Runbin Xie**, Master Student, September 2020-
 
+What’s new
 ------
+- Pending
 
 Research outcomes obtained by students
 ------
