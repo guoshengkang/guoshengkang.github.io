@@ -8,9 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-I’m fortunate to work with the following brilliant students.
+**Welcome hardworking students to join our team.**
 
-Welcome hardworking students to join our team.
+I’m fortunate to work with the following brilliant students.
 
 Co-supervised Students
 ------
