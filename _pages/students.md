@@ -21,9 +21,9 @@ Co-supervised Students
 - **Xing Li**, Master Student, September 2020-
 - **Runbin Xie**, Master Student, September 2020-
 
-What’s new
+What’s new for students
 ------
-- Pending
+- - 2021/05/22, One  paper has been accepted by IEEE TNSM, congratulations to Yong Xiao.
 
 Research outcomes obtained by students
 ------
