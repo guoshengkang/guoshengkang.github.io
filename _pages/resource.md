@@ -28,6 +28,7 @@ Outline
 * [EndNote X9 for Reference Management and Writing](http://guoshengkang.github.io/resources/轻松应对文献管理与写作之——EndNote X9.pdf) (in Chinese), by Tingying Huang from Clarivate Analytics
 * [How to Use the Reference Management Software——EndNote X9](http://guoshengkang.github.io/resources/EndNote X9——文献管理软件使用方法.pdf) (in Chinese), by Congcong Gu from Fudan library training
 * [How to Use the Document Preparation System——LaTex](http://guoshengkang.github.io/resources/论文排版工具——LaTeX入门到进阶.pdf) (in Chinese), by Tianyi Lu from Fudan library training
+* [Suggestions on Writing a Dissertation](http://guoshengkang.github.io/resources/关于撰写学位论文的一些建议.pdf) (in Chinese), by Guosheng Kang and Yong Xiao
 
 <span id="Book recommendation">Book recommendation</span> 
 ======
