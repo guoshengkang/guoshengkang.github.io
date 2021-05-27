@@ -12,7 +12,7 @@ redirect_from:
   * [2020, Spring (2019级能化1~3&制药1~3)](http://guoshengkang.github.io/teaching/2020-spring-c-programming)
   * [2021, Spring (2020级建环1~3&环境1~3)](http://guoshengkang.github.io/teaching/2021-spring-c-programming)
 * **Foundations of Computer Science**, Freshman
-  * [2020, Fall (2020级计算机<sup>*</sup>1~4&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)
+  * [2020, Fall (2020级计算机<sup>\*</sup>1~4&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)
 * **Advanced Software Engineering**, Postgraduate
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
 
@@ -29,4 +29,4 @@ redirect_from:
 |第七八节<br>16:00-17:40|	|	 |**C语言程序设计A实验**<br>20建环1-3班@逸夫楼330<br>3-8&11-16周| 	|	|
 |第九十节<br>19:00-20:40|	|	|**【C语言程序设计A】**<br>20建环1-3班@四教五合班<br>1-8&11-16周|	 |	|
 
-Plus: **C语言课程设计**-20软件2班-1周    **操作系统课程设计**-19计算机05班<sup>*</sup>-17-18周
+Plus: **C语言课程设计**-20软件2班-1周    **操作系统课程设计**-19计算机05班<sup>\*</sup>-17-18周
