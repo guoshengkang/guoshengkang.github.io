@@ -27,4 +27,5 @@ What’s new for students
 
 Research outcomes obtained by students
 ------
+- **Yong Xiao**, Jianxun Liu, **Guosheng Kang**, Buqing Cao. LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features. IEEE Transactions on Network and Service Management, online Press, 2021, DOI: 10.1109/TNSM.2021.3084739.
 - **Yong Xiao**, Jianxun Liu, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, and Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 541-548, 2020.
