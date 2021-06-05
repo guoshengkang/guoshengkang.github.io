@@ -87,6 +87,7 @@ Outline
   * <http://sci.xueshuwu.cn>
 * **SCI-HUB**
   * <https://tool.yovisun.com/scihub/>
+    * Sci.Hub is a site to download reference papers and journal articles for free. Just paste the DOI of the journal article you want, and ScienceHub will fetch the PDF for you for free.
 * **Elsevier JournalFinder**
   * <https://journalfinder.elsevier.com/>
     * Enter title and abstract of your paper to easily find Elsevier journals that could be best suited for publishing.
@@ -103,7 +104,10 @@ Outline
 * **Z-Library**
   * <https://b-ok.cc/>
     * Part of Z-Library project. The world's largest free ebook library.
-    
+* **Y2mate**
+  * <https://www.y2mate.com>
+    * Y2mate allows you to convert & download video from YouTube, Facebook, Video, Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality..
+
 <span id="Software download">Software download</span> 
 ======
 * [Endnote X9](https://pan.baidu.com/s/1rXHrNLKQRERX6Gmv1UmeSw)
