@@ -23,7 +23,7 @@ Co-supervised Students
 
 What’s new for students
 ------
-- 2021/07/09, Two papers have been accepted by IEEE ICWS 2021., congratulations to Linghang Ding and Yong Xiao.
+- 2021/07/09, Two papers have been accepted by IEEE ICWS 2021, congratulations to Linghang Ding and Yong Xiao.
 - 2021/05/22, One  paper has been accepted by IEEE TNSM, congratulations to Yong Xiao.
 
 Research outcomes obtained by students
