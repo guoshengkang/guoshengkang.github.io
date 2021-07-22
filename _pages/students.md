@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Welcome hardworking students to join our team.**
+**Welcome hardworking students (MS students and undergraduate students) to join our team. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.**
 
 ------
 
