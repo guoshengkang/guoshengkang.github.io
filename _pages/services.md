@@ -34,8 +34,8 @@ Reviewer
   * BPM
   * APBPM
   * CBPM
-  * ICWS
-  * SCC
+  * IEEE ICWS
+  * IEEE SCC
   * APSCC
-  * BigData
-  * NCSC
+  * IEEE BigData
+  * CCF NCSC
