@@ -15,6 +15,10 @@ redirect_from:
   * [2020, Fall (2020级计算机<sup>\*</sup>1~4&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)
 * **Advanced Software Engineering**, Postgraduate
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
+* **Course Project**, Undergraduate
+  * Database (2020-2021-1)
+  * C Programming (2020-2021-2)
+  * Operating System (2020-2021-2)
 
 \*: Xiaoxiang College
 - - -
