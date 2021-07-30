@@ -16,9 +16,9 @@ redirect_from:
 * **Advanced Software Engineering**, Postgraduate
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
 * **Course Project**, Undergraduate
-  * Database (2020-2021-1)
-  * C Programming (2020-2021-2)
-  * Operating System (2020-2021-2)
+  * Database (2020 Fall)
+  * C Programming (2020 Spring)
+  * Operating System (2020 Spring)
 
 \*: Xiaoxiang College
 - - -
