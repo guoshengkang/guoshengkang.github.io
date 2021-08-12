@@ -40,7 +40,7 @@ Reviewer
   * IEEE BigData
   * CCF NCSC
 
-International Conferences and Journals that I May Pay Attention to
+Some Conferences and Journals that I May Pay Attention to
 ------
 <table width="100%" align="center" frame="void">
   <tr>
@@ -51,7 +51,7 @@ International Conferences and Journals that I May Pay Attention to
     <td align="center"><b>JCR Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="13"><b>Conferences</b></td>
+    <td align="center" rowspan="14"><b>International Conferences</b></td>
     <td align="center">ICSE</td>
     <td align="center">A</td>
     <td align="center">-</td>
@@ -132,6 +132,25 @@ International Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center">HPCC</td>
     <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center" rowspan="3"><b>Chinese Conferences</b></td>
+    <td align="center">CCF NCSC</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">CBPM</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">ChineseCSCW</td>
+    <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
