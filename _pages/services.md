@@ -155,7 +155,7 @@ Some Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="14"><b>Journals</b></td>
+    <td align="center" rowspan="14"><b>International Journals</b></td>
     <td align="center">IEEE TSE</td>
     <td align="center">A</td>
     <td align="center">2</td>
@@ -238,5 +238,60 @@ Some Conferences and Journals that I May Pay Attention to
     <td align="center">C</td>
     <td align="center">3</td>
     <td align="center">Q4</td>
+  </tr>
+  <tr>
+    <td align="center" rowspan="9"><b>Chinese Journals</b></td>
+    <td align="center">计算机学报</td>
+    <td align="center">A</td>
+    <td align="center">顶级</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">软件学报</td>
+    <td align="center">A</td>
+    <td align="center">顶级</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">计算机研究与发展</td>
+    <td align="center">A</td>
+    <td align="center">权威</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">电子学报</td>
+    <td align="center">A</td>
+    <td align="center">顶级</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">通信学报</td>
+    <td align="center">B</td>
+    <td align="center">顶级</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">电子与信息学报</td>
+    <td align="center">-</td>
+    <td align="center">权威</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">小型微型计算机系统</td>
+    <td align="center">B</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">计算机科学与探索</td>
+    <td align="center">B</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">计算机集成制造系统</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
 </table>
