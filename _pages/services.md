@@ -42,7 +42,7 @@ Reviewer
 
 Some Conferences and Journals that I May Pay Attention to
 ------
-<table width="100%" align="center" frame="void">
+<table align="center" frame="void">
   <tr>
     <td align="center"></td>
     <td align="center"><b>C/J Name</b></td>
