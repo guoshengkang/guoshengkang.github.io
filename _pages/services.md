@@ -60,7 +60,7 @@ Reviewer
         <td>JCR Rank</td>
     </tr>
     <tr>
-        <td rowspan="3">Conferences</td>
+        <td rowspan="4">Conferences</td>
         <td>IEEE ICWS</td>
         <td>B</td>
         <td>-</td>
@@ -73,13 +73,19 @@ Reviewer
         <td>-</td>
     </tr>
     <tr>
+        <td>ICSOC</td>
+        <td>B</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
         <td>CollaborateCom</td>
         <td>C</td>
         <td>-</td>
         <td>-</td>
     </tr>
     <tr>
-        <td rowspan="2">Journals</td>
+        <td rowspan="4">Journals</td>
         <td>IEEE TSC</td>
         <td>B</td>
         <td>2</td>
