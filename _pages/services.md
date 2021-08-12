@@ -45,8 +45,8 @@ Reviewer
 <table width="100%" align="center" frame="void">
     <tr>
         <td></td>
-        <td><b>C/J Name</b>b></td>
-        <td><b>CCF Rank</b></b></td>
+        <td><b>C/J Name</b></td>
+        <td><b>CCF Rank</b></td>
         <td><b>ISTIC Rank</b></td>
         <td><b>JCR Rank</b></td>
     </tr>
