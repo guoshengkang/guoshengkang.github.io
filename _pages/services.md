@@ -44,67 +44,65 @@ Reviewer
 ------
 <table width="100%" align="center" frame="void">
     <tr>
-        <td></td>
-        <td><b>C/J Name</b></td>
-        <td><b>CCF Rank</b></td>
-        <td><b>ISTIC Rank</b></td>
-        <td><b>JCR Rank</b></td>
-    </tr>
+    <td></td>
+    <td><b>C/J Name</b></td>
+    <td><b>CCF Rank</b></td>
+    <td><b>ISTIC Rank</b></td>
+    <td><b>JCR Rank</b></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><b>Conferences</b></td>
+    <td>IEEE ICWS</td>
+    <td>B</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>ICSOC</td>
+    <td>B</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>IEEE SCC</td>
+    <td>C</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>CollaborateCom</td>
+    <td>C</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>HPCC</td>
+    <td>C</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>Journals</b></td>
+    <td>IEEE TSC</td>
+    <td>B</td>
+    <td>2</td>
+    <td>Q1</td>
+  </tr>
+  <tr>
+    <td>IEEE TNSM</td>
+    <td>C</td>
+    <td>2</td>
+    <td>Q1</td>
+  </tr>
     <tr>
-        <td rowspan="5"><b>Conferences</b></td>
-        <td>IEEE ICWS</td>
-        <td>B</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>ICSOC</td>
-        <td>B</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>IEEE SCC</td>
-        <td>C</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>CollaborateCom</td>
-        <td>C</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>HPCC</td>
-        <td>C</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td rowspan="4"><b>Journals</b></td>
-        <td>IEEE TSC</td>
-        <td>B</td>
-        <td>2</td>
-        <td>Q1</td>
-    </tr>
-    <tr>
-        <td>IEEE TNSM</td>
-        <td>C</td>
-        <td>2</td>
-        <td>Q1</td>
-    </tr>
-        <tr>
-        <td>FGCS</td>
-        <td>C</td>
-        <td>2</td>
-        <td>Q1</td>
-    </tr>
-    </tr>
-        <tr>
-        <td>CCPE</td>
-        <td>C</td>
-        <td>4</td>
-        <td>Q3</td>
-    </tr>
+    <td>FGCS</td>
+    <td>C</td>
+    <td>2</td>
+    <td>Q1</td>
+  <tr>
+    <td>CCPE</td>
+    <td>C</td>
+    <td>4</td>
+    <td>Q3</td>
+  </tr>
 </table>
