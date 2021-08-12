@@ -40,7 +40,7 @@ Reviewer
   * IEEE BigData
   * CCF NCSC
 
-**International Conferences and Journals in My Research Fields**
+**International Conferences and Journals that I May Pay Attention to **
 ------
 <table width="100%" align="center" frame="void">
   <tr>
@@ -51,7 +51,25 @@ Reviewer
     <td align="center"><b>JCR Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="5"><b>Conferences</b></td>
+    <td align="center" rowspan="13"><b>Conferences</b></td>
+    <td align="center">ICSE</td>
+    <td align="center">A</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">IJCAI</td>
+    <td align="center">A</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">AAAI</td>
+    <td align="center">A</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">IEEE ICWS</td>
     <td align="center">B</td>
     <td align="center">-</td>
@@ -70,6 +88,36 @@ Reviewer
     <td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">CAiSE</td>
+    <td align="center">B</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">DASFAA</td>
+    <td align="center">B</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">WISE</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">CoopIS</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">CSCWD</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">CollaborateCom</td>
     <td align="center">C</td>
     <td align="center">-</td>
@@ -82,8 +130,20 @@ Reviewer
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="4"><b>Journals</b></td>
+    <td align="center" rowspan="14"><b>Journals</b></td>
+    <td align="center">IEEE TSE</td>
+    <td align="center">A</td>
+    <td align="center">2</td>
+    <td align="center">Q1</td>
+  </tr>
+  <tr>
     <td align="center">IEEE TSC</td>
+    <td align="center">B</td>
+    <td align="center">2</td>
+    <td align="center">Q1</td>
+  </tr>
+  <tr>
+    <td align="center">JSS</td>
     <td align="center">B</td>
     <td align="center">2</td>
     <td align="center">Q1</td>
@@ -93,6 +153,24 @@ Reviewer
     <td align="center">C</td>
     <td align="center">2</td>
     <td align="center">Q1</td>
+  </tr>
+  <tr>
+    <td align="center">ACM TWB</td>
+    <td align="center">B</td>
+    <td align="center">3</td>
+    <td align="center">Q3</td>
+  </tr>
+  <tr>
+    <td align="center">SOCA</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">IJWSR</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Q4</td>
   </tr>
   <tr>
     <td align="center">FGCS</td>
@@ -105,5 +183,35 @@ Reviewer
     <td align="center">C</td>
     <td align="center">4</td>
     <td align="center">Q3</td>
+  </tr>
+  <tr>
+    <td align="center">IEEE Access</td>
+    <td align="center">-</td>
+    <td align="center">3</td>
+    <td align="center">Q1</td>
+  </tr>
+  <tr>
+    <td align="center">IEEE TII</td>
+    <td align="center">-</td>
+    <td align="center">1</td>
+    <td align="center">Q1</td>
+  </tr>
+  <tr>
+    <td align="center">China Communications</td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+    <td align="center">Q3</td>
+  </tr>
+  <tr>
+    <td align="center">IEEE TMC</td>
+    <td align="center">A</td>
+    <td align="center">2</td>
+    <td align="center">Q1</td>
+  </tr>
+  <tr>
+    <td align="center">WCMC</td>
+    <td align="center">C</td>
+    <td align="center">3</td>
+    <td align="center">Q4</td>
   </tr>
 </table>
