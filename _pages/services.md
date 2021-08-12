@@ -43,7 +43,7 @@ Reviewer
 **International Conferences and Journals in My Research Fields**
 ------
 <table width="100%" align="center" frame="void">
-    <tr>
+  <tr>
     <td></td>
     <td><b>C/J Name</b></td>
     <td><b>CCF Rank</b></td>
@@ -94,11 +94,12 @@ Reviewer
     <td>2</td>
     <td>Q1</td>
   </tr>
-    <tr>
+  <tr>
     <td>FGCS</td>
     <td>C</td>
     <td>2</td>
     <td>Q1</td>
+  </tr>
   <tr>
     <td>CCPE</td>
     <td>C</td>
