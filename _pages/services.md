@@ -51,7 +51,7 @@ Reviewer
     <td align="center"><b>JCR Rank</b></td>
   </tr>
   <tr>
-    <td rowspan="5"><b>Conferences</b></td>
+    <td align="center" rowspan="5"><b>Conferences</b></td>
     <td align="center">IEEE ICWS</td>
     <td align="center">B</td>
     <td align="center">-</td>
@@ -82,7 +82,7 @@ Reviewer
     <td align="center">-</td>
   </tr>
   <tr>
-    <td rowspan="4"><b>Journals</b></td>
+    <td align="center" rowspan="4"><b>Journals</b></td>
     <td align="center">IEEE TSC</td>
     <td align="center">B</td>
     <td align="center">2</td>
