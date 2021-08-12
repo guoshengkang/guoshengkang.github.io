@@ -41,27 +41,24 @@ Reviewer
   * CCF NCSC
 
 **International Conferences and Journals in My Research Fields**
-
-|C/J Name|CCF Rank|ISTIC Rank|JCR Rank|
-| :----: | :----: | :----: | :----: | 
-|IEEE ICWS|B|-|-|
-|IEEE SCC|C|-|-|
-|CollaborateCom|C|-|-|
-|IEEE TSC|B|2|Q1|
-|IEEE TNSM|C|2|Q1|
-|FGCS|C|2|Q1|
-|CCPE|C|4|Q3|
-
-<table>
+------
+<table width="100%" align="center" frame="void">
     <tr>
         <td></td>
-        <td>CCF Rank</td>
-        <td>ISTIC Rank</td>
-        <td>JCR Rank</td>
+        <td><b>C/J Name</b>b></td>
+        <td><b>CCF Rank</b></b></td>
+        <td><b>ISTIC Rank</b></td>
+        <td><b>JCR Rank</b></td>
     </tr>
     <tr>
-        <td rowspan="4">Conferences</td>
+        <td rowspan="5"><b>Conferences</b></td>
         <td>IEEE ICWS</td>
+        <td>B</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>ICSOC</td>
         <td>B</td>
         <td>-</td>
         <td>-</td>
@@ -73,19 +70,19 @@ Reviewer
         <td>-</td>
     </tr>
     <tr>
-        <td>ICSOC</td>
-        <td>B</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
         <td>CollaborateCom</td>
         <td>C</td>
         <td>-</td>
         <td>-</td>
     </tr>
     <tr>
-        <td rowspan="4">Journals</td>
+        <td>HPCC</td>
+        <td>C</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td rowspan="4"><b>Journals</b></td>
         <td>IEEE TSC</td>
         <td>B</td>
         <td>2</td>
