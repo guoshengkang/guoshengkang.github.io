@@ -40,7 +40,7 @@ Reviewer
   * IEEE BigData
   * CCF NCSC
 
-**International Conferences and Journals that I May Pay Attention to **
+International Conferences and Journals that I May Pay Attention to
 ------
 <table width="100%" align="center" frame="void">
   <tr>
@@ -84,6 +84,12 @@ Reviewer
   <tr>
     <td align="center">IEEE SCC</td>
     <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">BPM</td>
+    <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
