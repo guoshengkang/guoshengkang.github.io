@@ -39,3 +39,14 @@ Reviewer
   * APSCC
   * IEEE BigData
   * CCF NCSC
+
+**Some Conferences and Journals in My Research Fields**
+
+|C/J Name|CCF Rank|ISTIC Rank|JCR Rank|
+| :----: | :----: | :----: | :----: | 
+|IEEE ICWS|B|-|-|
+|IEEE SCC|C|-|-|
+|IEEE TSC|B|2|Q1|
+|IEEE TNSM|C|2|Q1|
+|FGCS|C|2|Q1|
+|CCPE|C|4|Q3|
