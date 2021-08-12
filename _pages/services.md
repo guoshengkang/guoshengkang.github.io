@@ -40,7 +40,7 @@ Reviewer
   * IEEE BigData
   * CCF NCSC
 
-Some Conferences and Journals that I May Pay Attention to
+Conferences and Journals that I May Pay Attention to
 ------
 <table width="100%" align="center" frame="void">
   <tr>
