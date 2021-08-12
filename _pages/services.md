@@ -44,66 +44,66 @@ Reviewer
 ------
 <table width="100%" align="center" frame="void">
   <tr>
-    <td></td>
-    <td><b>C/J Name</b></td>
-    <td><b>CCF Rank</b></td>
-    <td><b>ISTIC Rank</b></td>
-    <td><b>JCR Rank</b></td>
+    <td align="center"></td>
+    <td align="center"><b>C/J Name</b></td>
+    <td align="center"><b>CCF Rank</b></td>
+    <td align="center"><b>ISTIC Rank</b></td>
+    <td align="center"><b>JCR Rank</b></td>
   </tr>
   <tr>
     <td rowspan="5"><b>Conferences</b></td>
-    <td>IEEE ICWS</td>
-    <td>B</td>
-    <td>-</td>
-    <td>-</td>
+    <td align="center">IEEE ICWS</td>
+    <td align="center">B</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
   <tr>
-    <td>ICSOC</td>
-    <td>B</td>
-    <td>-</td>
-    <td>-</td>
+    <td align="center">ICSOC</td>
+    <td align="center">B</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
   <tr>
-    <td>IEEE SCC</td>
-    <td>C</td>
-    <td>-</td>
-    <td>-</td>
+    <td align="center">IEEE SCC</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
   <tr>
-    <td>CollaborateCom</td>
-    <td>C</td>
-    <td>-</td>
-    <td>-</td>
+    <td align="center">CollaborateCom</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
   <tr>
-    <td>HPCC</td>
-    <td>C</td>
-    <td>-</td>
-    <td>-</td>
+    <td align="center">HPCC</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td rowspan="4"><b>Journals</b></td>
-    <td>IEEE TSC</td>
-    <td>B</td>
-    <td>2</td>
-    <td>Q1</td>
+    <td align="center">IEEE TSC</td>
+    <td align="center">B</td>
+    <td align="center">2</td>
+    <td align="center">Q1</td>
   </tr>
   <tr>
-    <td>IEEE TNSM</td>
-    <td>C</td>
-    <td>2</td>
-    <td>Q1</td>
+    <td align="center">IEEE TNSM</td>
+    <td align="center">C</td>
+    <td align="center">2</td>
+    <td align="center">Q1</td>
   </tr>
   <tr>
-    <td>FGCS</td>
-    <td>C</td>
-    <td>2</td>
-    <td>Q1</td>
+    <td align="center">FGCS</td>
+    <td align="center">C</td>
+    <td align="center">2</td>
+    <td align="center">Q1</td>
   </tr>
   <tr>
-    <td>CCPE</td>
-    <td>C</td>
-    <td>4</td>
-    <td>Q3</td>
+    <td align="center">CCPE</td>
+    <td align="center">C</td>
+    <td align="center">4</td>
+    <td align="center">Q3</td>
   </tr>
 </table>
