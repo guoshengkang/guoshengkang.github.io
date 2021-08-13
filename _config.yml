@@ -171,8 +171,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# Collections
+# 下一级链接设置
+# Collections 
 collections:
   teaching:
     output: true

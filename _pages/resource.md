@@ -107,11 +107,3 @@ Outline
 * **Y2mate**
   * <https://www.y2mate.com>
     * Y2mate allows you to convert & download video from YouTube, Facebook, Video, Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality..
-
-<span id="Software download">Software download</span> 
-======
-* [Endnote X9](https://pan.baidu.com/s/1rXHrNLKQRERX6Gmv1UmeSw)
-* [SciHub 3.3](https://pan.baidu.com/s/1cWkHNH9si2YRcNGOAM6wQA)
-* [draw.io-13.3.9-windows-installer](https://pan.baidu.com/s/1SoGCHMEdU7YHLX13XbG0vA )
-
-Note: fetch code is 'kang'
