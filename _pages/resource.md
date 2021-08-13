@@ -15,7 +15,7 @@ Outline
 - [Academic evaluation](#Academic evaluation)
 - [Academic writing](#Academic writing)
 - [Useful links](#Useful links)
-- [Software download](#Software download)
+- [Software download](http://guoshengkang.github.io/resource/software-collection)
 
 ------
 
