@@ -1,7 +1,10 @@
 ---
 title: "Software Collection"
 collection: resource
+type: "Undergraduate course"
 permalink: /resource/software-collection
+venue: "HNUST"
+date: 2020-10-10
 ---
 Software download
 ======
