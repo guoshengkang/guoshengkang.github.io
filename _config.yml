@@ -220,6 +220,15 @@ defaults:
       author_profile: true
       share: false
       comments: true
+  # _resource
+  - scope:
+      path: ""
+      type: resource
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
   # _publications
   - scope:
       path: ""
