@@ -54,7 +54,7 @@ Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center" rowspan="14"><b>International Conferences</b></td>
     <td align="center">ICSE</td>
-    <td align="center">A</td>
+    <td align="center">A*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
