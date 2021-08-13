@@ -18,9 +18,10 @@ Membership
 Reviewer
 ------
 * **Journals**
-  * [TSC](https://www.computer.org/csdl/journal/sc)
+  * [IEEE TSC](https://www.computer.org/csdl/journal/sc)
+  * [IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
   * [CCPE](https://onlinelibrary.wiley.com/journal/15320634)
-  * [TIST](https://tist.acm.org/)
+  * [ACM TIST](https://tist.acm.org/)
   * [SUPE](https://www.springer.com/computer/swe/journal/11227)
   * [JDSN](https://journals.sagepub.com/home/dsn)
   * [SWEVO](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)
