@@ -30,10 +30,10 @@ What’s new for students
 
 Research outcomes obtained by students
 ------
-- **Linghang Ding**, **Guosheng Kang**, Jianxun Liu, Yong Xiao and Buqing Cao. QoS Prediction for Web Services via Combining Multi-component Graph Convolutional Collaborative Filtering and Deep Factorization Machine. IEEE International Conference on Web Services. IEEE Computer Society, Accepted, 2021.
-- **Yong Xiao**, **Guosheng Kang**, Jianxun Liu, Buqing Cao and Linghang Ding. WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction. IEEE International Conference on Web Services. IEEE Computer Society, Accepted, 2021.
-- **Yong Xiao**, Jianxun Liu, **Guosheng Kang**, Buqing Cao. LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features. IEEE Transactions on Network and Service Management, online Press, 2021, DOI: 10.1109/TNSM.2021.3084739.
-- **Yong Xiao**, Jianxun Liu, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, and Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 541-548, 2020.
+- **Linghang Ding**, **Guosheng Kang**, Jianxun Liu*, Yong Xiao and Buqing Cao. QoS Prediction for Web Services via Combining Multi-component Graph Convolutional Collaborative Filtering and Deep Factorization Machine. IEEE International Conference on Web Services. IEEE Computer Society, Accepted, 2021.
+- **Yong Xiao**, **Guosheng Kang**, Jianxun Liu*, Buqing Cao and Linghang Ding. WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction. IEEE International Conference on Web Services. IEEE Computer Society, Accepted, 2021.
+- **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao. LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features. IEEE Transactions on Network and Service Management, online Press, 2021, DOI: 10.1109/TNSM.2021.3084739.
+- **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, and Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 541-548, 2020.
 
 Awards obtained by students
 ------
