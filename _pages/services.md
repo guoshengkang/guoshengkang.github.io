@@ -52,7 +52,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><b>JCR Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="14"><b>International Conferences</b></td>
+    <td align="center" rowspan="15"><b>International Conferences</b></td>
     <td align="center">ICSE</td>
     <td align="center">A*</td>
     <td align="center">-</td>
