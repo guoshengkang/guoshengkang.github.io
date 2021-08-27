@@ -10,7 +10,7 @@ redirect_from:
 
 **Welcome hardworking students (MS students, undergraduate students) to join our team. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.**
 
-My recent research inretrests include (but not limited to)  the following topics: Network Representation, Service Recommendation, Self-adaption Service Composition, Intelligent Business Process Management (Modeling, Collaboration, Monitoring, and Mining), and etc.  
+My recent research inretrests include (but not limited to)  the following topics: Network Representation, Service Recommendation, Self-adaptive Service Composition, Intelligent Business Process Management (Modeling, Collaboration, Monitoring, and Mining), and etc.  
 
 ------
 
