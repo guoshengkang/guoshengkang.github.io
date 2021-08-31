@@ -4,6 +4,7 @@ permalink: /students/
 author_profile: true
 redirect_from:
   - /resume
+
 ---
 
 {% include base_path %}
@@ -18,6 +19,7 @@ I’m fortunate to work with the following brilliant students.
 
 Co-supervised Students
 ------
+
 - **Yong Xiao**, Ph.D. Student, February 2020-
 - **Linghang Ding**, Master Student, February 2020-
 - **Xing Li**, Master Student, September 2020-
@@ -25,18 +27,21 @@ Co-supervised Students
 
 What’s new for students
 ------
+
 - 2021/07/09, Two papers have been accepted by IEEE ICWS 2021, congratulations to Linghang Ding and Yong Xiao.
 - 2021/05/22, One  paper has been accepted by IEEE TNSM, congratulations to Yong Xiao.
 
 Research outcomes obtained by students
 ------
-- **Linghang Ding**, **Guosheng Kang**, Jianxun Liu*, Yong Xiao and Buqing Cao. QoS Prediction for Web Services via Combining Multi-component Graph Convolutional Collaborative Filtering and Deep Factorization Machine. IEEE International Conference on Web Services. IEEE Computer Society, Accepted, 2021.
-- **Yong Xiao**, **Guosheng Kang**, Jianxun Liu*, Buqing Cao and Linghang Ding. WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction. IEEE International Conference on Web Services. IEEE Computer Society, Accepted, 2021.
-- **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao. LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features. IEEE Transactions on Network and Service Management, online Press, 2021, DOI: 10.1109/TNSM.2021.3084739.
-- **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, and Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. IEEE International Conference on Web Services. IEEE Computer Society, pp. 541-548, 2020.
+
+- **Linghang Ding**, **Guosheng Kang**, Jianxun Liu*, Yong Xiao and Buqing Cao. QoS Prediction for Web Services via Combining Multi-component Graph Convolutional Collaborative Filtering and Deep Factorization Machine. **IEEE International Conference on Web Services**. IEEE Computer Society, Accepted, 2021.  (CCF Rank B)
+- **Yong Xiao**, **Guosheng Kang**, Jianxun Liu*, Buqing Cao and Linghang Ding. WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction. **IEEE International Conference on Web Services**. IEEE Computer Society, Accepted, 2021.  (CCF Rank B)
+- **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao. LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features. **IEEE Transactions on Network and Service Management**, online Press, 2021, DOI: 10.1109/TNSM.2021.3084739.  (CCF Rank C, JCR Rank 1)
+- **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, and Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 541-548, 2020.  (CCF Rank B)
 
 Awards obtained by students
 ------
+
 - **肖勇**. 湖南科技大学2021年度研究生校长奖
 - **李恭蕊**, **苏伦俊**(负责人), **孙学瑶**, **黄浩宇**, **项佳艳**. 基于萨提亚模式的计算机辅助降低网络依赖的开发研究, 2021年大学生创新训练项目, 校级, S202110534056, 2021.6-2022.5
 - **周晚三**. 用户兴趣多样化的Web服务推荐. 湖南科技大学2021届本科优秀毕业论文
