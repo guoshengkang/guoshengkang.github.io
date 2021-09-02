@@ -14,9 +14,6 @@ What’s new
 - 2021/08/24, One paper has been accepted by CCF NCSC 2021.
 - 2021/05/13, One co-authored paper has been accepted by China Communications, congratulations to Liqin Yang.
 - 2021/03/02, One journal paper has been accepted by CCPE.
-- 2020/08/27, One co-authored paper won Best Student Paper Award in CCF NCSC 2020.
-- 2020/07/21, One paper has been accepted by IEEE SCC 2020.
-- 2020/01/17, One paper has been accepted by IEEE ICWS 2020.
 
 Contact
 ------
