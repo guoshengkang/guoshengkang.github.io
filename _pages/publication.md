@@ -12,7 +12,7 @@ Journal articles
 
 * **Guosheng Kang**, Liqin Yang, Liang Zhang, Jianxun Liu, Yiping Wen. Organization-Driven Business Process Configurable Modeling for Spatial Variability. **China Communications**, Accepted, 2021.
 * Liqin Yang, **Guosheng Kang***, Liang Zhang. On Treatment Patterns for Modeling Medical Treatment Processes in Clinical Practice Guidelines. **China Communications**, Accepted, 2021.
-* Liqin Yang, **Guosheng Kang**, Liang Zhang. Medical Treatment Process Modeling Based on Process Mining and Treatment Patterns. **China Communications**, Accepted, 2021.
+* Liqin Yang, **Guosheng Kang**, Liang Zhang. Medical Treatment Process Modeling Based on Process Mining and Treatment Patterns. **China Communications**, Accepted, 2021. (Best Student Paper Award in CCF NCSC 2020)
 * **Guosheng Kang**, Yong Xiao, Jianxun Liu, Yingcheng Cao, Buqing Cao, Xiangping Zhang, Linghang Ding. Tatt-BiLSTM: Web Service Classification with Topical Attention based BiLSTM. **Concurrency and Computation: Practice and Experience**, Vol. 33, No. 16, pp. 1-13, 2021.
 * **Guosheng Kang**, Liqin Yang, Liang Zhang. Towards Configurable Modelling for Artifact-centric Business Processes. **Concurrency and Computation: Practice and Experience**, Vol. 32, No. 2, pp. 1-13, 2020.
 * **Guosheng Kang**, Liqin Yang, Liang Zhang. Verification of Behavioral Soundness for Artifact-centric Business Process Model with Synchronizations. **Future Generation Computer Systems**, Vol. 98, No. 2019, pp. 503-511, 2019.
