@@ -18,5 +18,5 @@ permalink: /resource/software-collection
 * [XMind v9.2.1 (WIN)](https://pan.baidu.com/s/1RVOZrqwOibzjSj26eG3k8A)
 * [XMind v9.2.1 (MAC)](https://pan.baidu.com/s/1cxgY0Tr_iXZVwROf43TQYw)
 * [Enigma (all versions)](https://eg.im/download)
-
+* [Clover (WIN)](https://pan.baidu.com/s/1CqVd2JLbECoFH_3UiNyxPw)
 Note: fetch code is 'kang'
