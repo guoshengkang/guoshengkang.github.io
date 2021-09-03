@@ -19,6 +19,6 @@ permalink: /resource/software-collection
 * [XMind v9.2.1 (MAC)](https://pan.baidu.com/s/1cxgY0Tr_iXZVwROf43TQYw)
 * [Enigma (all versions)](https://eg.im/download)
 * [Clover (WIN)](https://pan.baidu.com/s/1CqVd2JLbECoFH_3UiNyxPw)
-* [Typora](https://pan.baidu.com/s/14iZiv4YMg5dSz2tcx7wfsA)
+* [Typora (WIN & MAC)](https://pan.baidu.com/s/14iZiv4YMg5dSz2tcx7wfsA)
 
 Note: fetch code is 'kang'
