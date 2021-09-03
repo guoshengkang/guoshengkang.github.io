@@ -17,5 +17,6 @@ permalink: /resource/software-collection
 * [Signal (iPhone)](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
 * [XMind v9.2.1 (WIN)](https://pan.baidu.com/s/1RVOZrqwOibzjSj26eG3k8A)
 * [XMind v9.2.1 (MAC)](https://pan.baidu.com/s/1cxgY0Tr_iXZVwROf43TQYw)
+* [Enigma (all versions)](https://eg.im/download)
 
 Note: fetch code is 'kang'
