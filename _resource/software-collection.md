@@ -20,5 +20,8 @@ permalink: /resource/software-collection
 * [Enigma (all versions)](https://eg.im/download)
 * [Clover (WIN)](https://pan.baidu.com/s/1CqVd2JLbECoFH_3UiNyxPw)
 * [Typora (WIN & MAC)](https://pan.baidu.com/s/14iZiv4YMg5dSz2tcx7wfsA)
+* [Office 2016](https://pan.baidu.com/s/1oK1jzLB4Ys6Gq2Z3YXTJXA)
+* [Visio 2010](https://pan.baidu.com/s/1ZNlo6SD09g9Ko0JY7EFXmg)
+* [MicroKMS_v20.09.12.exe](https://pan.baidu.com/s/1BX82BN0loIEf9fCnmcgrbQ)
 
 Note: fetch code is 'kang'
