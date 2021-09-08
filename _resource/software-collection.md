@@ -24,5 +24,6 @@ permalink: /resource/software-collection
 * [Visio 2010](https://pan.baidu.com/s/1ZNlo6SD09g9Ko0JY7EFXmg)
 * [MicroKMS_v20.09.12.exe](https://pan.baidu.com/s/1BX82BN0loIEf9fCnmcgrbQ)
 * [Win10-64-201912.gho](https://pan.baidu.com/s/1Jmln2SO4Cwsmmnnpp6F7BA)
+* [WinPE.exe + WinX64.iso(Compact) + Activator tool](https://pan.baidu.com/s/1NJSugLOrEuZgHZVGLI5pmg)
 
 Note: fetch code is 'kang'
