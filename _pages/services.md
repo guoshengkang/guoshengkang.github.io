@@ -247,7 +247,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">Q3</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://ieee-iotj.org/">IoT-J</a></td>
+    <td align="center"><a href="https://ieee-iotj.org/">IEEE IoT-J</a></td>
     <td align="center">-</td>
     <td align="center">1</td>
     <td align="center">Q1</td>
