@@ -21,7 +21,7 @@ permalink: /resource/software-collection
 * [Clover (WIN)](https://pan.baidu.com/s/1CqVd2JLbECoFH_3UiNyxPw)
 * [Typora (WIN & MAC)](https://pan.baidu.com/s/14iZiv4YMg5dSz2tcx7wfsA)
 * [Office 2016](https://pan.baidu.com/s/1oK1jzLB4Ys6Gq2Z3YXTJXA)
-* [Visio 2010](https://pan.baidu.com/s/1ZNlo6SD09g9Ko0JY7EFXmg)
+* [Visio 2016](https://pan.baidu.com/s/1ZNlo6SD09g9Ko0JY7EFXmg)
 * [MicroKMS_v20.09.12.exe (Office Activator)](https://pan.baidu.com/s/1BX82BN0loIEf9fCnmcgrbQ)
 * [Win10-64-201912.gho](https://pan.baidu.com/s/1Jmln2SO4Cwsmmnnpp6F7BA)
 * [WinPE.exe + WinX64.iso (Compact) + Activator tool](https://pan.baidu.com/s/1NJSugLOrEuZgHZVGLI5pmg)
