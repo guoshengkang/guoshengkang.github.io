@@ -26,5 +26,6 @@ permalink: /resource/software-collection
 * [MicroKMS_v20.09.12.exe (Office Activator)](https://pan.baidu.com/s/1BX82BN0loIEf9fCnmcgrbQ)
 * [Win10-64-201912.gho](https://pan.baidu.com/s/1Jmln2SO4Cwsmmnnpp6F7BA)
 * [WinPE.exe + WinX64.iso (Compact) + Activator tool](https://pan.baidu.com/s/1NJSugLOrEuZgHZVGLI5pmg)
+* [PDF Toolkit](https://pan.baidu.com/s/1UxSqZxELRwywmggs6XlPzw)
 
 Note: fetch code is 'kang'
