@@ -21,6 +21,7 @@ redirect_from:
   * Database (2020 Fall)
   * C Programming (2020 Spring)
   * Operating System (2020 Spring)
+  * Comprehensive Practical Ability Innovation Training (2021 Fall)
 
 \*: Xiaoxiang College
 - - -
