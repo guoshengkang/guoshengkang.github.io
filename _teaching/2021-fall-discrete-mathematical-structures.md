@@ -7,6 +7,12 @@ venue: "HNUST"
 date: 2021-09-10
 ---
 * Chapter 1： Fundamentals
+  * 1.1 Sets and Subsets
+  * 1.2 Operations on Sets
+  * 1.3 Sequences
+  * 1.4 Division in the Intergers
+  * 1.5 Matrices
+  * 1.6 Mathematical Structures
 * Chapter 2： Logic
 * Chapter 3： Counting
 * Chapter 4： Relations and Digraphs
