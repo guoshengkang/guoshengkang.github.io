@@ -12,19 +12,19 @@ date: 2021-09-10
   * 1.3 Sequences
   * 1.4 Properties of Integers
   * 1.5 Matrices
-  * 1.6 Mathematical Structures
+  * 1.6 Mathematical Structures*
 * Chapter 2. Logic
   * 2.1 Propositions and Logical Operations
   * 2.2 Conditional Statements
   * 2.3 Methods of Proof
   * 2.4 Mathematical Induction
-  * 2.5 Mathematical Statements
-  * 2.6 Logic and Problem Solving
+  * 2.5 Mathematical Statements*
+  * 2.6 Logic and Problem Solving*
 * Chapter 3. Counting
-  * 3.1 Permutations
-  * 3.2 Combinations
+  * 3.1 Permutations*
+  * 3.2 Combinations*
   * 3.3 Pigeonhole Principle
-  * 3.4 Elements of Probability
+  * 3.4 Elements of Probability*
   * 3.5 Recurrence Relations 112
 * Chapter 4. Relations and Digraphs
   * 4.1 Product Sets and Partitions
@@ -38,28 +38,28 @@ date: 2021-09-10
 * Chapter 5. Functions
   * 5.1 Functions
   * 5.2 Functions for Computer Science
-  * 5.3 Growth of Functions
-  * 5.4 Permutation Functions
+  * 5.3 Growth of Functions*
+  * 5.4 Permutation Functions*
 * Chapter 6. Order Relations and Structures
   * 6.1 Partially Ordered Sets
   * 6.2 Extremal Elements of Partially Ordered Sets
   * 6.3 Lattices
-  * 6.4 Finite Boolean Algebras
-  * 6.5 Functions on Boolean Algebras
-  * 6.6 Circuit Design
+  * 6.4 Finite Boolean Algebras*
+  * 6.5 Functions on Boolean Algebras*
+  * 6.6 Circuit Design*
 * Chapter 7. Trees
   * 7.1 Trees
   * 7.2 Labeled Trees
-  * 7.3 Tree Searching
-  * 7.4 Undirected Trees
-  * 7.5 Minimal Spanning Trees
+  * 7.3 Tree Searching*
+  * 7.4 Undirected Trees*
+  * 7.5 Minimal Spanning Trees*
 * Chapter 8. Topics in Graph Theory
   * 8.1 Graphs
   * 8.2 Euler Paths and Circuits
   * 8.3 Hamiltonian Paths and Circuits
-  * 8.4 Transport Networks
-  * 8.5 Matching Problems
-  * 8.6 Coloring Graphs
+  * 8.4 Transport Networks*
+  * 8.5 Matching Problems*
+  * 8.6 Coloring Graphs*
 
 [Homework](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/2021-fall-discrete-mathematical-structures-HW.md)  
 **Textbook**: Bernard Kolman, Robert Busby, Sharon Cutler Ross. Discrete Mathematical Structures[M] (6th Edition). Pearson, 2008. [Slides](https://pan.baidu.com/s/185szJ-U2vFg9ZXnxDDbjEw)  
