@@ -62,5 +62,5 @@ date: 2021-09-10
   * 8.6 Coloring Graphs*
 
 [Homework](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/2021-fall-discrete-mathematical-structures-HW.md)  
-**Textbook**: Bernard Kolman, Robert Busby, Sharon Cutler Ross. Discrete Mathematical Structures[M] (6th Edition). Pearson, 2008. [Slides](https://pan.baidu.com/s/185szJ-U2vFg9ZXnxDDbjEw)  
+**Textbook**: Bernard Kolman, Robert Busby, Sharon Cutler Ross. Discrete Mathematical Structures[M] (6th Edition). Pearson, 2008. [Slides](https://pan.baidu.com/s/1xM7PZ4Kh25ojoO39kwMIOA)  
 ![Textbook](http://guoshengkang.github.io/files/2021_Fall_Discrete_Mathematical_Structures-教材封面.jpg)
