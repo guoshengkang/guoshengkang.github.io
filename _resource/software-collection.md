@@ -4,6 +4,7 @@ collection: resource
 permalink: /resource/software-collection
 ---
 * [Endnote X9](https://pan.baidu.com/s/1rXHrNLKQRERX6Gmv1UmeSw)
+* [Texmaker 5.1.2](https://pan.baidu.com/s/1V1pYDfJGAxceG2UEzcdx3w)
 * [EVCapture_4.1.7](https://pan.baidu.com/s/1-lfw9hUgvXmxaldynDuo0g)
 * [SciHub 3.3](https://pan.baidu.com/s/1cWkHNH9si2YRcNGOAM6wQA)
 * [draw.io-13.3.9-windows-installer](https://pan.baidu.com/s/1SoGCHMEdU7YHLX13XbG0vA)
