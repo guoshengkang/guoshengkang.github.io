@@ -25,7 +25,7 @@ date: 2021-09-10
   * 3.2 Combinations*
   * 3.3 Pigeonhole Principle
   * 3.4 Elements of Probability*
-  * 3.5 Recurrence Relations 112
+  * 3.5 Recurrence Relations
 * Chapter 4. Relations and Digraphs
   * 4.1 Product Sets and Partitions
   * 4.2 Relations and Digraphs
