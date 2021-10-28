@@ -35,7 +35,7 @@ What’s new for students
 
 Research outcomes obtained by students
 ------
-- **李兴**, **康国胜**, 刘建勋, 文一凭, 曹步清, 肖勇. 考虑策略优先级的业务流程协作与价值优化, 计算机集成制造系统, 2021, Accepted. (EI)
+- **李兴**, **康国胜***, 刘建勋, 文一凭, 曹步清, 肖勇. 考虑策略优先级的业务流程协作与价值优化, 计算机集成制造系统, 2021, Accepted. (EI)
 - **Linghang Ding**, **Guosheng Kang**, Jianxun Liu*, Yong Xiao and Buqing Cao. QoS Prediction for Web Services via Combining Multi-component Graph Convolutional Collaborative Filtering and Deep Factorization Machine. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 551-559, 2021.  (CCF Rank B)
 - **Yong Xiao**, **Guosheng Kang**, Jianxun Liu*, Buqing Cao and Linghang Ding. WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 135-144, 2021.  (CCF Rank B)
 - **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao. LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features. **IEEE Transactions on Network and Service Management**, Vol. 18, No. 3, pp. 3858-3872, 2021.  (CCF Rank C, JCR Rank 1)
