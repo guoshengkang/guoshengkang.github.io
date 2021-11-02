@@ -9,7 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal articles
 ------
-
+* **Guosheng Kang**, Jianxun Liu, Yong Xiao, Yingcheng Cao, Buqing Cao, Min Shi. Neural and Attentional Factorization Machine based Web API Recommendation for Mashup Development. IEEE **Transactions on Network and Service Management**, Accepted, 2021, DOI: 10.1109/TNSM.2021.3125028.
 * **Guosheng Kang**, Liqin Yang, Liang Zhang, Jianxun Liu, Yiping Wen. Organization-Driven Business Process Configurable Modeling for Spatial Variability. **China Communications**, Accepted, 2021.
 * Liqin Yang, **Guosheng Kang***, Liang Zhang. On Treatment Patterns for Modeling Medical Treatment Processes in Clinical Practice Guidelines. **China Communications**, Accepted, 2021.
 * Liqin Yang, **Guosheng Kang**, Liang Zhang. Medical Treatment Process Modeling Based on Process Mining and Treatment Patterns. **China Communications**, Accepted, 2021. (Best Student Paper Award in CCF NCSC 2020)
