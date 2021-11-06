@@ -36,6 +36,7 @@ What’s new for students
 
 Research outcomes obtained by students
 ------
+- **Runbin Xie**, Jianxun Liu, **Guosheng Kang**, Buqing Cao, Yiping Wen and Jiayan Xiang. A Hybrid TLBO-TS Algorithm based Mobile Service Selection for Composite Services. The 21st International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2021), 2021, Accepted. (CCF C)
 - **李兴**, **康国胜***, 刘建勋, 文一凭, 曹步清, 肖勇. 考虑策略优先级的业务流程协作与价值优化, 计算机集成制造系统, 2021, Accepted. (EI)
 - **Linghang Ding**, **Guosheng Kang**, Jianxun Liu*, Yong Xiao and Buqing Cao. QoS Prediction for Web Services via Combining Multi-component Graph Convolutional Collaborative Filtering and Deep Factorization Machine. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 551-559, 2021.  (CCF Rank B)
 - **Yong Xiao**, **Guosheng Kang**, Jianxun Liu*, Buqing Cao and Linghang Ding. WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 135-144, 2021.  (CCF Rank B)
