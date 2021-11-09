@@ -51,7 +51,7 @@ Outline
     * [video course](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA18.html) by [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)
   * [《Mathematical Statistics and Data Analysis》](http://guoshengkang.github.io/resources/2006_Book_Mathematical_Statistics_and_Data_Analysis_3ed.pdf), 2006, by John A. Rice
 * **Business Process Management**
-  * [《Camunda工作流开发实战——Spring Boot+BPMN+DMN》](http://guoshengkang.github.io/resources/2021_Book_Camunda工作流开发实战——Spring Boot+BPMN+DMN.pdf), 2021, by 李贵俊
+  * [《Camunda工作流开发实战——Spring Boot+BPMN+DMN》](https://pan.baidu.com/s/1YGh0PwaKZRoFngwbG2jA9w), 2021, by 李贵俊
   * [《Fundamentals of Business Process Management》](http://guoshengkang.github.io/resources/2018_Book_Fundamentals_of_Business_Process_Management.pdf), 2018, by [Marlon Dumas](https://kodu.ut.ee/~dumas/), [Marcello La Rosa](http://www.marcellolarosa.com/), Jan Mendling, Hajo A. Reijers
   * [《Business Process Management: Concepts, Languages, Architectures》](http://guoshengkang.github.io/resources/2012_Book_Business_Process_Management_Concepts_Languages_Architectures.pdf), 2012, by Mathias Weske
     * [video course](https://pan.baidu.com/s/1BsQuzr8B7S8R_yHM2ETyXA)
