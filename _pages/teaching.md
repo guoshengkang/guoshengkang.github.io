@@ -40,4 +40,5 @@ Plus: **综合实践能力创新实训(2)**-19信息安全1班-13~14周(11月29�
 - - -
 
 ![The First Term](http://guoshengkang.github.io/files/The_First_Term.jpg)  
+- - -
 ![The Second Term](http://guoshengkang.github.io/files/The_Second_Term.jpg) 
