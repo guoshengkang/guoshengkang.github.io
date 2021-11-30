@@ -28,5 +28,6 @@ permalink: /resource/software-collection
 * [Win10-64-201912.gho](https://pan.baidu.com/s/1Jmln2SO4Cwsmmnnpp6F7BA)
 * [WinPE.exe + WinX64.iso (Compact) + Activator tool](https://pan.baidu.com/s/1NJSugLOrEuZgHZVGLI5pmg)
 * [PDF Toolkit](https://pan.baidu.com/s/1UxSqZxELRwywmggs6XlPzw)
+* [Format Factory](https://pan.baidu.com/s/1l-HI-wE5OuBROYSzbC7PKw)
 
 Note: fetch code is 'kang'
