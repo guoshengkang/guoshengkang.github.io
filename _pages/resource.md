@@ -109,4 +109,7 @@ Outline
     * Part of Z-Library project. The world's largest free ebook library.
 * **Y2mate**
   * <https://www.y2mate.com>
-    * Y2mate allows you to convert & download video from YouTube, Facebook, Video, Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality..
+    * Y2mate allows you to convert & download video from YouTube, Facebook, Video, Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality.
+* **ColorDrop**
+  * <https://colordrop.io/>
+    * Thousands of curated colors, palettes for use in your products.
