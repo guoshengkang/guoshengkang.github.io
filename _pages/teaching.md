@@ -17,7 +17,7 @@ redirect_from:
   * [2021, Fall (2021级大数据1~3)](http://guoshengkang.github.io/teaching/2021-fall-discrete-mathematical-structures)
 * **Advanced Software Engineering**, Postgraduate, 40'
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
-* **Course Project**, Undergraduate
+* **Course Project**, Undergraduate, 32'\*0.8=26'
   * Database (2020 Fall)
   * C Programming (2020 Spring)
   * Operating System (2020 Spring)
