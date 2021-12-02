@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-* **C Programming**, Undergraduate
+* **C Programming**, Undergraduate, 32'+20'
   * [2020, Spring (2019级能化1~3&制药1~3)](http://guoshengkang.github.io/teaching/2020-spring-c-programming)
   * [2021, Spring (2020级建环1~3&环境1~3)](http://guoshengkang.github.io/teaching/2021-spring-c-programming)
 * **Foundations of Computer Science**, Undergraduate, 16'
