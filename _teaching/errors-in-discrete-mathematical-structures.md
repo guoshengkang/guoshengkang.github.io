@@ -29,10 +29,10 @@
 * 【5.1节】 
 * 【5.2节】 
 * 【5.3节】 
-* 【5.4节】 Page225, 例8中, “FGTAHDTFBOGCEHETTLHTLNSOIOCIEX”应改为“FGTAHDTFBO**NG**EHETTLHTLNSOIOCIEX”
+* 【5.4节】 Page225, 例8中, “FGTAHDTFBOGCEHETTLHTLNSOIOCIEX” 应改为 “FGTAHDTFBO**NG**EHETTLHTLNSOIOCIEX”
 
 ### 第6章 序关系与序结构
-* 【6.3节】 Page255, 例10中, "...偏序集在6.1节的例16中..."应改为"...偏序集在6.1节的例**17**中..."
+* 【6.3节】 Page255, 例10中, "...偏序集在6.1节的例16中..." 应改为 "...偏序集在6.1节的例**17**中..."
 
 
 ### 第7章 树
