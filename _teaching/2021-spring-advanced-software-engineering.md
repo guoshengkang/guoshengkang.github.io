@@ -17,5 +17,5 @@ date: 2021-03-10
 
 
 [Homework](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/2021-spring-advanced-software-engineering-HW.md)  
-**Reference Book**: Roger S. Pressman. Software Engineering: A Practitioner's Approach, 6th Edition, McGraw-Hill, 2005. [Slides](https://pan.baidu.com/s/1URrasLAXnU60C2fp4kPsEw)  
+**Reference Book**: Roger S. Pressman. Software Engineering: A Practitioner's Approach, 6th Edition, McGraw-Hill, 2005. [Slides](https://pan.baidu.com/s/1URrasLAXnU60C2fp4kPsEw), [Errata](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/errors-in-discrete-mathematical-structures.md)   
 ![Textbook](http://guoshengkang.github.io/files/2021-spring-advanced-software-engineering-教材封面.jpg)
