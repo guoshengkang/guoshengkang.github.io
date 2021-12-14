@@ -33,7 +33,7 @@
 * 【5.4节】 Page225, 例8中, “FGTAHDTFBOGCEHETTLHTLNSOIOCIEX” 应改为 “FGTAHDTFBO**NG**EHETTLHTLNSOIOCIEX”.
 
 ### 第6章 序关系与序结构
-* 【6.1节】 Page238, line6中, "...使用了n个数组(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)∈S<sup>n</sup>..." 应改为 "...使用了**n元组**(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)∈S<sup>n</sup>...".
+* 【6.1节】 Page238, line6中, "...使用了n个数组 (a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)∈S<sup>n</sup>..." 应改为 "...使用了**n元组** (a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)∈S<sup>n</sup>...".
 * 【6.3节】 Page255, 例10中, "...偏序集在6.1节的例16中..." 应改为 "...偏序集在6.1节的例**17**中...".
 
 
