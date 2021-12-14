@@ -105,7 +105,7 @@ Outline
     * diagrams.net is free online diagram software (compatible with Latex) for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
     * <https://app.diagrams.net/?mode=github>, open files form github repository
 * **Z-Library**
-  * <https://b-ok.cc/>
+  * <https://b-ok.cc/> or <https://1lib.limited> (new) or <https://singlelogin.org> (login first)
     * Part of Z-Library project. The world's largest free ebook library.
 * **Y2mate**
   * <https://www.y2mate.com>
