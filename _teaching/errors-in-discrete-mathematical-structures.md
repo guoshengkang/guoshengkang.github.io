@@ -39,7 +39,7 @@
 
 
 ### 第7章 树
-* 【7.1节】 
+* 【7.1节】Page297, 习题15中(b)的参考答案为“v<sub>6</sub>, v<sub>7</sub>, v<sub>8</sub>, v<sub>13</sub>, v<sub>14</sub>, v<sub>16</sub>, v<sub>10</sub>”，参考答案应改为“v<sub>6</sub>, v<sub>7</sub>, v<sub>8</sub>, v<sub>13</sub>, v<sub>14</sub>, v<sub>16</sub>”.
 * 【7.2节】Page305, 习题25中(a)的参考答案为“CAR”，参考答案应改为“C**E**R”.
 
 ### 第8章 图论问题
