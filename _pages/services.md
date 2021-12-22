@@ -52,7 +52,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><b>JCR Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="15"><b>International Conferences</b></td>
+    <td align="center" rowspan="16"><b>International Conferences</b></td>
     <td align="center">ICSE</td>
     <td align="center">A*</td>
     <td align="center">-</td>
@@ -132,6 +132,12 @@ Conferences and Journals that I May Pay Attention to
   </tr>
   <tr>
     <td align="center">ICA3PP</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">IJCNN</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
