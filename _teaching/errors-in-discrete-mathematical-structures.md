@@ -22,12 +22,11 @@
 * 【6.1节】Page238, line6中, "...使用了n个数组 (a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)∈S<sup>n</sup>..." 应改为 "...使用了**n元组** (a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)∈S<sup>n</sup>...".
 * 【6.3节】Page255, 例10中, "...偏序集在6.1节的例16中..." 应改为 "...偏序集在6.1节的例**17**中...".
 
-
 ### 第7章 树
 * 【7.1节】Page297, 习题15中(b)的参考答案为“v<sub>6</sub>, v<sub>7</sub>, v<sub>8</sub>, v<sub>13</sub>, v<sub>14</sub>, v<sub>16</sub>, v<sub>10</sub>”，参考答案应改为“v<sub>6</sub>, v<sub>7</sub>, v<sub>8</sub>, v<sub>13</sub>, v<sub>14</sub>, v<sub>16</sub>”.
 * 【7.2节】Page305, 习题25中(a)的参考答案为“CAR”，参考答案应改为“C**E**R”.
 * 【7.4节】Page315, 倒数第3行中, “道路 q◦p<sup>–1</sup>用R中的b连接a” 应改为 “道路 q◦p<sup>–1</sup>**在R中的连接a和b**”.
-* 
+
 ### 第8章 图论问题
 * 【8.2节】Page342, line1中有一处印刷错误, “少量的实验表明图8.26中设有任何欧拉回路” 应改为 “少量的实验表明图8.26中**没**有任何欧拉回路”.
 * 【8.2节】Page344, 例5中, "V<sub>π</sub>:  C, D, C, A, D, A, B, D, B, C" 应改为 "V<sub>π</sub>:  C, D, C, A, D, A, B, D, B, C, **D**".
