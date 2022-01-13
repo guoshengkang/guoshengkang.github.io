@@ -21,8 +21,8 @@ redirect_from:
   * [2022, Spring (2021级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
 * **Course Project**, Undergraduate, 32'\*0.8≈26'
   * Database (2020 Fall)
-  * C Programming (2020 Spring)
-  * Operating System (2020 Spring)
+  * C Programming (2021, 2022 Spring)
+  * Operating System (2021, 2022 Spring)
   * Comprehensive Practical Ability Innovation Training (2021 Fall)
 
 \*: Xiaoxiang College
@@ -38,7 +38,7 @@ redirect_from:
 |七八节<br>16:00-17:40|**【C语言程序设计A】**<br>智能材料1-2班&材料成型1-2班@八教2-2<br>1-8周|	 |  |**【C语言程序设计A实验】**<br>智能材料1-2班&材料成型1-2班@逸夫楼330<br>3-14周|	|
 |九十节<br>19:00-20:40|	|**【C语言程序设计A实验】**<br>电子科学1-4班@逸夫楼330<br>3-14周|	|	| |
 
-Plus: **C语言课程设计**-21软件2班-1周
+Plus: **C语言课程设计**-21软件2班-1周, **操作系统课程设计**-20计算机07班-17-18周
 - - -
 
 ![The First Term](http://guoshengkang.github.io/files/The_First_Term.jpg)  
