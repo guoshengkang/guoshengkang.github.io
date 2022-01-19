@@ -53,116 +53,116 @@ Conferences and Journals that I May Pay Attention to
   </tr>
   <tr>
     <td align="center" rowspan="16"><b>International Conferences</b></td>
-    <td align="center">ICSE</td>
+    <td align="center">ICSE - Sep 3</td>
     <td align="center">A*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">IJCAI</td>
+    <td align="center">IJCAI - Jan 14</td>
     <td align="center">A*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">AAAI</td>
+    <td align="center">AAAI - Sep 8</td>
     <td align="center">A*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">IEEE ICWS</td>
+    <td align="center">IEEE ICWS - Mar 1</td>
     <td align="center">B*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">ICSOC</td>
+    <td align="center">ICSOC - Aug 22</td>
     <td align="center">B*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CAiSE</td>
+    <td align="center">CAiSE - Nov 29</td>
     <td align="center">B*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">DASFAA</td>
+    <td align="center">DASFAA - Nov 7</td>
     <td align="center">B*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">IEEE SCC</td>
+    <td align="center">IEEE SCC - Mar 1</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">WISE</td>
+    <td align="center">WISE - May 7</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CoopIS</td>
+    <td align="center">CoopIS - Jul 15</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CSCWD</td>
+    <td align="center">CSCWD - Oct 31</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CollaborateCom</td>
+    <td align="center">CollaborateCom - Aug 30</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">HPCC</td>
+    <td align="center">HPCC - Sep 15</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">ICA3PP</td>
+    <td align="center">ICA3PP -  Sep 12</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">IJCNN</td>
+    <td align="center">IJCNN - Jan 31</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">BPM</td>
+    <td align="center">BPM - Mar 15</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
     <td align="center" rowspan="3"><b>Chinese Conferences</b></td>
-    <td align="center">CCF NCSC</td>
+    <td align="center">CCF NCSC - July 15</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CBPM</td>
+    <td align="center">CBPM - May 31</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">ChineseCSCW</td>
+    <td align="center">ChineseCSCW - Jun 25</td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
