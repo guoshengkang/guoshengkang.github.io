@@ -52,7 +52,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><b>JCR Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="16"><b>International Conferences</b></td>
+    <td align="center" rowspan="17"><b>International Conferences</b></td>
     <td align="center">IJCAI - Jan 14</td>
     <td align="center">A*</td>
     <td align="center">-</td>
