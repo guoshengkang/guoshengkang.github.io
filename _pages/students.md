@@ -19,6 +19,7 @@ I’m fortunate to work with the following brilliant students.
 
 Supervised & Co-supervised Students
 ------
+- **Wenqiang Zhang**, Master Student, February 2022-
 - **Bowen Liang**, Master Student, September 2021-
 - **Hangyu Cheng**, Master Student, September 2021-
 - **Xing Li**, Master Student, September 2020-
