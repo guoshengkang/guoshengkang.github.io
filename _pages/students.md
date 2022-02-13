@@ -29,10 +29,10 @@ Supervised & Co-supervised Students
 
 What’s new for students
 ------
-- 2021/11/06, one paper has been accepted by ICA3PP 2021, congratulations to Runbin Xie.
-- 2021/09/02, one paper has been accepted by CCF NCSC 2021, congratulations to Xing Li.
+- 2021/11/06, One paper has been accepted by ICA3PP 2021, congratulations to Runbin Xie.
+- 2021/09/02, One paper has been accepted by CCF NCSC 2021, congratulations to Xing Li.
 - 2021/07/09, Two papers have been accepted by IEEE ICWS 2021, congratulations to Linghang Ding and Yong Xiao.
-- 2021/05/22, One  paper has been accepted by IEEE TNSM, congratulations to Yong Xiao.
+- 2021/05/22, One paper has been accepted by IEEE TNSM, congratulations to Yong Xiao.
 
 Research outcomes obtained by students
 ------
