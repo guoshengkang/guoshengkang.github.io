@@ -95,8 +95,20 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">ISWC - Apr 28</td>
+    <td align="center">B*</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">WISE - May 7</td>
     <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+   <tr>
+    <td align="center">ICDM - Jun 10</td>
+    <td align="center">B*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
