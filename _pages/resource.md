@@ -113,3 +113,6 @@ Outline
 * **ColorDrop**
   * <https://colordrop.io/>
     * Thousands of curated colors, palettes for use in your products.
+* **BPMN.IO**
+  * <https://bpmn.io/>
+    * Web-based tooling for BPMN, DMN and Forms.
