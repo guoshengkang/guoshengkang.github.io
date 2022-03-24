@@ -11,7 +11,7 @@ redirect_from:
 * **C Programming**, Undergraduate, 32'+24'\*0.8=51.2'
   * [2020, Spring (2019级能化1~3&制药1~3)](http://guoshengkang.github.io/teaching/2020-spring-c-programming)
   * [2021, Spring (2020级建环1~3&环境1~3)](http://guoshengkang.github.io/teaching/2021-spring-c-programming)
-  * [2022, Spring (2021级智能材料1~2&材料成型1~2, 2021级电子科学1~4)](http://guoshengkang.github.io/teaching/2021-spring-c-programming)
+  * [2022, Spring (2021级智能材料1~2&材料成型1~2, 2021级电子科学1~4)](http://guoshengkang.github.io/teaching/2022-spring-c-programming)
 * **Foundations of Computer Science**, Undergraduate, 16'
   * [2020, Fall (2020级计算机<sup>\*</sup>1~4&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)
 * **Discrete Mathematical Structures**, Undergraduate, 72'
