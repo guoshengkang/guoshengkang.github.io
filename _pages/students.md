@@ -11,8 +11,7 @@ redirect_from:
 
 <font color='red'>Welcome hardworking students (MS students, undergraduate students) to join our team. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.</font>
 
-My recent research interests include (but not limited to)  the following topics:
- 
+My recent research interests include (but not limited to)  the following topics:  
 - Service Network Representation
 - Service Recommendation (Web Service, IoT Service, Manufacturing Service, etc.)
 - Self-adaptive Service Composition
