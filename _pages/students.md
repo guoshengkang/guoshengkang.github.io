@@ -11,7 +11,13 @@ redirect_from:
 
 **Welcome hardworking students (MS students, undergraduate students) to join our team. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.**
 
-My recent research inretrests include (but not limited to)  the following topics: Network Representation, Service Recommendation (Web Service, IoT Service, Manufacturing Service, etc.), Self-adaptive Service Composition, Intelligent Business Process Management (Modeling, Collaboration, Monitoring, and Mining) under Industrial Internet, Big Data in Education, and etc.  
+My recent research interests include (but not limited to)  the following topics:
+ 
+- Service Network Representation
+- Service Recommendation (Web Service, IoT Service, Manufacturing Service, etc.)
+- Self-adaptive Service Composition
+- Intelligent Business Process Management (Modeling, Collaboration, Monitoring, and Mining) under Industrial Internet
+- Educational or Medical Big Data, etc.  
 
 ------
 
@@ -22,7 +28,7 @@ Supervised & Co-supervised Students
 - **Wenqiang Zhang**, Master Student, February 2022-
 - **Bowen Liang**, Master Student, September 2021-
 - **Hangyu Cheng**, Master Student, September 2021-
-- **Xing Li**, Master Student, September 2020-
+- **Xing Li**, Master Student, September 2020-``
 - **Runbin Xie**, Master Student, September 2020-
 - **Linghang Ding**, Master Student, February 2020-
 - **Yong Xiao**, Ph.D. Student, February 2020-
