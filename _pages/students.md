@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Welcome hardworking students (MS students, undergraduate students) to join our team. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.**
+$\color{red}{**Welcome hardworking students (MS students, undergraduate students) to join our team. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.**}$
 
 My recent research interests include (but not limited to)  the following topics:
  
