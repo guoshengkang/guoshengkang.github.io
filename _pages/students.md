@@ -46,7 +46,7 @@ Research outcomes obtained by students
 - **Linghang Ding**, **Guosheng Kang**, Jianxun Liu*, Yong Xiao, Buqing Cao. QoS Prediction for Web Services via Combining Multi-component Graph Convolutional Collaborative Filtering and Deep Factorization Machine. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 551-559, 2021.  (CCF Rank B)
 - **Yong Xiao**, **Guosheng Kang**, Jianxun Liu*, Buqing Cao, Linghang Ding. WSGCN4SLP: Weighted Signed Graph Convolutional Network for Service Link Prediction. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 135-144, 2021.  (CCF Rank B)
 - **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao. LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features. **IEEE Transactions on Network and Service Management**, Vol. 18, No. 3, pp. 3858-3872, 2021.  (CCF Rank C, JCR Rank 1)
-- **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 541-548, 2020.  (CCF Rank B)
+- **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 541-548, 2020.  (CCF Rank B) [PDF](https://pan.baidu.com/s/1ajkfKAJg9-G__Y4SkNZQNQ)
 
 Awards obtained by students
 ------
