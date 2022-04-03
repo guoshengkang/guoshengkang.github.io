@@ -24,13 +24,13 @@ I’m fortunate to work with the following brilliant students.
 
 Supervised & Co-supervised Students
 ------
-- **Wenqiang Zhang**, Master Student, wqzhang2022@gmail.com, February 2022-
-- **Bowen Liang**, Master Student, bowenliang013@gmail.com, September 2021-
-- **Hangyu Cheng**, Master Student, orangechy97@gmail.com, September 2021-
-- **Xing Li**, Master Student, lijiatu12345@gmail.com, September 2020-
-- **Runbin Xie**, Master Student, robbiexiee@gmail.com, September 2020-
-- **Linghang Ding**, Master Student, linghangding@gmail.com, February 2020-
-- **Yong Xiao**, Ph.D. Student, yongx853@gmail.com, February 2020-
+- **Wenqiang Zhang**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, February 2022-
+- **Bowen Liang**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, September 2021-
+- **Hangyu Cheng**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, September 2021-
+- **Xing Li**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, September 2020-
+- **Runbin Xie**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, September 2020-
+- **Linghang Ding**, Master Student, <font color='blue'>linghangding@gmail.com</font>, February 2020-
+- **Yong Xiao**, Ph.D. Student, <font color='blue'>yongx853@gmail.com</font>, February 2020-
 
 What’s new for students
 ------
