@@ -48,6 +48,8 @@ Research outcomes obtained by students
 - **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao. LDNM: A General Web Service Classification Framework via Deep Fusion of Structured and Unstructured Features. **IEEE Transactions on Network and Service Management**, Vol. 18, No. 3, pp. 3858-3872, 2021.  (CCF Rank C, JCR Rank 1) [PDF](https://pan.baidu.com/s/13oNQ5SM5u2fPMtnxQ_4HuQ)
 - **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Rong Hu, Buqing Cao, Yingcheng Cao, Shi Min. Structure Reinforcing and Attribute Weakening Network Based API Recommendation Approach for Mashup Creation. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 541-548, 2020.  (CCF Rank B) [PDF](https://pan.baidu.com/s/1ajkfKAJg9-G__Y4SkNZQNQ)
 
+Note: fetch code is ‘kang’
+
 Awards obtained by students
 ------
 - **丁领航**. 湖南科技大学2022届校优秀毕业研究生
