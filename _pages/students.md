@@ -25,13 +25,13 @@ I’m fortunate to work with the following brilliant students.
 
 Supervised & Co-supervised Students
 ------
-- **Wenqiang Zhang**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, February 2022-
-- **Bowen Liang**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, September 2021-
-- **Hangyu Cheng**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, September 2021-
-- **Xing Li**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, September 2020-
-- **Runbin Xie**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, September 2020-
-- **Linghang Ding**, Master Student, <font color='blue'>linghangding@gmail.com</font>, February 2020-
-- **Yong Xiao**, Ph.D. Student, <font color='blue'>yongx853@gmail.com</font>, February 2020-
+- **Wenqiang Zhang (张文强)**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, 2022.02-
+- **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-
+- **Hangyu Cheng (程航宇)**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
+- **Xing Li (李兴)**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, 2020.09-
+- **Runbin Xie (谢润彬)**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, 2020.09-
+- **Linghang Ding (丁领航)**, Master Student, <font color='blue'>linghangding@gmail.com</font>, 2020.02-
+- **Yong Xiao (肖勇)**, Ph.D. Student, <font color='blue'>yongx853@gmail.com</font>, 2020.02-
 
 What’s new for students
 ------
