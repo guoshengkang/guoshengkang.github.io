@@ -14,7 +14,7 @@ Journal articles
 * Liqin Yang, **Guosheng Kang**, Liang Zhang. Medical Treatment Process Modeling Based on Process Mining and Treatment Patterns. **China Communications**,  Vol. 18, No. 12, PP. 332-349, 2021. (Best Student Paper Award in CCF NCSC 2020) [PDF](https://pan.baidu.com/s/1IkujbHtqNOfE_PjQnpOOow)
 * **Guosheng Kang**, Yong Xiao, Jianxun Liu, Yingcheng Cao, Buqing Cao, Xiangping Zhang, Linghang Ding. Tatt-BiLSTM: Web Service Classification with Topical Attention based BiLSTM. **Concurrency and Computation: Practice and Experience**, Vol. 33, No. 16, pp. 1-13, 2021. [PDF](https://pan.baidu.com/s/1EZoQc8h9M8f0ql1M9Up46w)
 * **Guosheng Kang**, Liqin Yang, Liang Zhang. Towards Configurable Modelling for Artifact-centric Business Processes. **Concurrency and Computation: Practice and Experience**, Vol. 32, No. 2, pp. 1-13, 2020. [PDF](https://pan.baidu.com/s/1jur-Rh55js3WowrI6J7OVQ)
-* **Guosheng Kang**, Liqin Yang, Liang Zhang. Verification of Behavioral Soundness for Artifact-centric Business Process Model with Synchronizations. **Future Generation Computer Systems**, Vol. 98, No. 2019, pp. 503-511, 2019.
+* **Guosheng Kang**, Liqin Yang, Liang Zhang. Verification of Behavioral Soundness for Artifact-centric Business Process Model with Synchronizations. **Future Generation Computer Systems**, Vol. 98, No. 2019, pp. 503-511, 2019. [PDF](https://pan.baidu.com/s/12PJNrlunzWvnqP_U7eTTjw)
 * **Guosheng Kang**. Correctness of Artifact-Centric Business Process Models. **International Journal of Process Integration and Management**, Vol. 8, No. 3, pp. 172-181, 2017.
 * 杨丽琴, **康国胜**, 张亮. 基于临床实践指南的诊疗过程建模方法. **计算机集成制造系统**, Vol. 23, No. 5, pp. 1040-1049, 2017.
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Buqing Cao, Yu Xu. Improved Active Web Service Recommendation Based on Usage History. **Applied Mathematics & Information Sciences**, Vol. 10, No. 3, pp. 903-913, 2016.
@@ -36,8 +36,8 @@ Journal articles
 Conference papers
 ------
 
-* **Guosheng Kang**, Jianxun Liu, Buqing Cao, Manliang Cao. NAFM: Neural and Attentional Factorization Machine for Web API Recommendation. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 330-337, 2020.
-* **Guosheng Kang**, Jianxun Liu, Buqing Cao, Yong Xiao. Diversified QoS-Centric Service Recommendation for Uncertain QoS Preferences. **IEEE International Conference on Services Computing**. IEEE Computer Society, pp. 288-295, 2020.
+* **Guosheng Kang**, Jianxun Liu, Buqing Cao, Manliang Cao. NAFM: Neural and Attentional Factorization Machine for Web API Recommendation. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 330-337, 2020. [PDF](https://pan.baidu.com/s/1Zvl47z8A-yui5nQ7mJYBFg)
+* **Guosheng Kang**, Jianxun Liu, Buqing Cao, Yong Xiao. Diversified QoS-Centric Service Recommendation for Uncertain QoS Preferences. **IEEE International Conference on Services Computing**. IEEE Computer Society, pp. 288-295, 2020. [PDF](https://pan.baidu.com/s/1C7WI83r76GlkikHsVy-XIQ)
 * Liqin Yang, **Guosheng Kang**, Weigang Cai, Qiang Zhou. An Effective Process Mining Approach against Diverse Logs Based on Case Classification. **IEEE International Congress on Big Data**. IEEE Computer Society, pp. 351-358, 2015. 
 * **Guosheng Kang**, Zhaoyang Tian, Xiao Zhang, Liang Zhang, Lixin Ma, Xiang Gao, Xiaonan Zhang, Zizhe Ding. Heterogeneous Business Process Consolidation: A Pattern-Driven Approach. **International Conference on Service Sciences**. IEEE Computer Society, pp. 136-141, 2014.
 * Haihuan Qin, **Guosheng Kang**, Lipeng Guo. Maxinstx: A Best-Effort Failure Recovery Approach for Artifact-Centric Business Processes. **International Conference on Service-Oriented Computing**. Springer, pp. 558-566, 2013.
