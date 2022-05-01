@@ -44,6 +44,7 @@ What’s new for students
 
 Research outcomes obtained by students
 ------
+- **Hangyu Cheng**, Guosheng Kang*, Jianxun Liu, Yiping Wen, Buqing Cao, Bowen Liang. Task-role Performance Evaluation via Business Process Monitoring with BPMN Extension. **International Conference on Service Science**, 2022, Accepted. (EI)
 - **Runbin Xie**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao, Yiping Wen, Jiayan Xiang. A Hybrid TLBO-TS Algorithm based Mobile Service Selection for Composite Services. **International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2021)**, Springer, pp. 237-256, 2021. (CCF Rank C) [PDF](https://pan.baidu.com/s/1WnE64CG2vURvBGQ7nt0opA)
 - **李兴**, **康国胜***, 刘建勋, 文一凭, 曹步清, 肖勇. 考虑策略优先级的业务流程协作与价值优化, **计算机集成制造系统**, 2021, Online. (EI) [PDF](https://pan.baidu.com/s/1BVIsAH2ebUM88WivUzEPnQ)
 - **Linghang Ding**, **Guosheng Kang**, Jianxun Liu*, Yong Xiao, Buqing Cao. QoS Prediction for Web Services via Combining Multi-component Graph Convolutional Collaborative Filtering and Deep Factorization Machine. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 551-559, 2021.  (CCF Rank B) [PDF](https://pan.baidu.com/s/187EL4vRPF4dtC6iYXA1gCg)
