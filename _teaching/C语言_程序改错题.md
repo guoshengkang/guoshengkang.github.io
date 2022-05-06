@@ -79,6 +79,62 @@ main()
 }
 ```
 
+
+### 【程序改错1】
+**功能：求二分之一的圆面积，函数通过形参得到圆的半径，函数返回二分之一的圆面积。**
+
+**例如：输入圆的半径值：19.527 输出为：s = 598.950017。**
+```c
+#include <stdio.h>
+#include <conio.h>
+
+/**********FOUND**********/
+double fun( r)
+{
+  double s;
+  /**********FOUND**********/
+  s=1/2*3.14159* r * r;
+  /**********FOUND**********/
+  return r;
+}
+
+main()
+{
+  float x;
+  printf ( "Enter x: ");
+  scanf ( "%f", &x );
+  printf (" s = %f\n ", fun ( x ) );
+}
+```
+
+### 【程序改错1】
+**功能：根据整型形参m，计算如下公式的值：y=1/2＋1/8＋1/18＋...＋1/2m\*m**
+```c
+#include <stdio.h>
+
+double fun(int m)   
+{
+  /**********FOUND**********/
+  double y=0
+  int i;
+  /**********FOUND**********/
+  for(i=1; i<m; i++)
+  {
+    /**********FOUND**********/
+     y=+1.0/(2*i*i); 
+  }
+  return(y);
+}
+
+main()   
+{
+  int n;   
+  printf("Enter n: ");   
+  scanf("%d", &n);   
+  printf("\nThe result is %1f\n", fun(n)); 
+}
+```
+
 ### 【程序改错1】
 **功能：利用二维数组输出如图所示的图形。**
 
