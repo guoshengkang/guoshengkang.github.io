@@ -30,6 +30,35 @@ printf("v=%d\n",v);
      printf("x=%d＼n",x);
 }
 ```
+### 【程序改错1】
+**功能：写计算级数 ex=1+x+x^2/2!+x^3/3!+ ...+x^n/n! 的值。**
+```c
+#include<stdio.h>
+main()
+{
+  int m,n;
+  float x,term,ex1,ex2;
+  printf("x,m=");
+  scanf("%f %d",&x,&m);
+  /**********FOUND**********/
+  ex1==ex2=1;
+  term=1;
+  for(n=1;n<=m;n++)
+  {
+    /**********FOUND**********/
+    term*=x%n;
+    ex1+=term;
+  }
+  ex2=term;
+  /**********FOUND**********/
+  for (n=m;n>1; n--)
+  {
+    term*=n/x;
+    ex2+=term;
+  }
+  printf("exforward=%f exbackrard=%f\n",ex1,ex2);
+}
+```
 
 ### 【程序改错1】
 **功能：利用二维数组输出如图所示的图形。**
