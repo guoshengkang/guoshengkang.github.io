@@ -28,6 +28,24 @@ printf("v=%d\n",v);
      printf("x=%d＼n",x);
 }
 ```
+
+### 【程序改错1】
+**功能：输入一个圆的半径，计算圆的周长和面积并输出。**
+```c
+#include<stdio.h>
+#define PI 3.1415926
+/**********FOUND**********/
+void maie()
+{
+  double r,l,s;
+  /**********FOUND**********/
+  scanf("%lf",r); 
+  l=2*PI*r;
+  s=PI*r*r;
+  printf("%6.2f,%6.2f\n",l,s);
+}
+```
+
 ### 【程序改错1】
 **功能：写计算级数 ex=1+x+x^2/2!+x^3/3!+ ...+x^n/n! 的值。**
 ```c
@@ -79,6 +97,33 @@ main()
 }
 ```
 
+### 【程序改错1】
+**功能：输入两个实数，按代数值由小到大输出它们,并在fun()函数中输出。（输出的数据都保留2位小数）**
+```c   
+#include <stdio.h>
+
+fun()
+{
+  /**********FOUND**********/
+  float t
+  float a, b ;
+  scanf("%f %f",&a,&b);
+  /**********FOUND**********/
+  if(a<b)
+  {
+    t=a;
+    a=b;
+    b=t;
+  }
+  /**********FOUND**********/
+  printf("%5.2f,%5.2f\n",&a,&b);
+}
+
+main()
+{
+  fun();
+}
+```
 
 ### 【程序改错1】
 **功能：求二分之一的圆面积，函数通过形参得到圆的半径，函数返回二分之一的圆面积。**
@@ -183,4 +228,37 @@ main()
   }
 }
 ```
+### 【程序改错1】
+**调用优化的sort函数，完成对数组a的冒泡降序排序。下面给定的程序存在错误，请改正。**
 
+**注意：不得增行或删行，也不得更改程序的结构。**
+
+```c
+#include<stdio.h>
+void sort(int [ ],int );
+int main()
+{
+        int  i, a[ ]={6,0,-3,9,4,-5,18,20};
+        int n=sizeof(a)/sizeof(a[0]);
+/***********FOUND***********/
+        sort(n ,a[n]);
+        for(i=0;i<n;i++)
+                printf("%d\t",a[i]);
+        printf("\n");
+        return 0;
+}
+void sort(int a[ ],int n)
+{
+        int i,j,k,swap;
+        for(i=0;i<n-1;i++)
+        {
+                swap=0;
+        /***********FOUND***********/
+                for(j=n-1;j>i;j++)
+                        if(a[j]>a[j-1])
+                                k=a[j],a[j]=a[j-1],a[j-1]=k,swap=1;
+        /***********FOUND***********/
+                if(swap)break;
+        }
+}
+```
