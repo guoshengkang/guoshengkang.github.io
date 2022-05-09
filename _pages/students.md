@@ -35,6 +35,7 @@ Supervised & Co-supervised Students
 
 What’s new for students
 ------
+- 2022/05/09, One paper has been accepted by Journal on Communications, congratulations to Linghang Ding.
 - 2022/04/27, One paper has been accepted by IJCNN 2022, congratulations to Bowen Liang.
 - 2022/04/21, One paper has been accepted by ICSS 2022, congratulations to Hangyu Cheng.
 - 2021/11/06, One paper has been accepted by ICA3PP 2021, congratulations to Runbin Xie.
@@ -44,6 +45,7 @@ What’s new for students
 
 Research outcomes obtained by students
 ------
+- 刘建勋, **丁领航**, **康国胜***, 曹步清, 肖勇. 基于特征深度融合的Web服务QoS联合预测. 2022, Accepted. (中文顶级期刊)
 - **Bowen Liang**, **Guosheng Kang***, Jianxun Liu, Buqing Cao, Jiayan Xiang. Attentional Neural Factorization Machine for Web Services Classification via Exploring Content and Structural Semantics. **International Joint Conference on Neural Networks**. 2022, Accepted. (CCF C)
 - **Hangyu Cheng**, **Guosheng Kang***, Jianxun Liu, Yiping Wen, Buqing Cao, Bowen Liang. Task-role Performance Evaluation via Business Process Monitoring with BPMN Extension. **International Conference on Service Science**. 2022, Accepted. (EI)
 - **Runbin Xie**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao, Yiping Wen, Jiayan Xiang. A Hybrid TLBO-TS Algorithm based Mobile Service Selection for Composite Services. **International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2021)**. Springer, pp. 237-256, 2021. (CCF Rank C) [PDF](https://pan.baidu.com/s/1WnE64CG2vURvBGQ7nt0opA)
