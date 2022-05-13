@@ -194,11 +194,11 @@ main()
 ```  
 
 **【程序设计】题目：从键盘输入实数x，按照所示的公式计算并输出y值：**
-$$y=\left\{\begin{matrix}
+$y=\left\{\begin{matrix}
  2+\sqrt{x}& x>7 \\
 5+3x & -7\leqslant x\leqslant 7 \\
  3x^{2}& x< -7 \\
-\end{matrix}\right.$$
+\end{matrix}\right.$
 ```c   
 #include <stdio.h>
 #include<math.h>
