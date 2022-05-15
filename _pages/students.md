@@ -35,6 +35,7 @@ Supervised & Co-supervised Students
 
 What’s new for students
 ------
+- 2022/05/15, One paper has been awarded "Best Student Paper Award" by ICSS 2022, congratulations to Hangyu Cheng.
 - 2022/05/09, One paper has been accepted by Journal on Communications, congratulations to Linghang Ding.
 - 2022/04/27, One paper has been accepted by IJCNN 2022, congratulations to Bowen Liang.
 - 2022/04/21, One paper has been accepted by ICSS 2022, congratulations to Hangyu Cheng.
@@ -59,6 +60,7 @@ Note: fetch code is ‘kang’
 
 Awards obtained by students
 ------
+- **程航宇**. ICSS2022最佳学生论文奖, 2022
 - **梁博文**(负责人), **肖勇**, **李兴**, **谢润彬**, **程航宇**, **张文强**. 关系网络信息增强的服务推荐方法研究. 2022年湖南省研究生科研创新项目, 2022-2024.
 - **丁领航**. 湖南科技大学2022届校优秀毕业研究生
 - **孙林萍**, **肖勇**(负责人), **段诗棋**. 一种深度融合结构与属性特征的学者链接预测框架. ChineseCSCW2021恒电杯大数据竞赛, 二等奖(Top3)
