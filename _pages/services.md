@@ -202,31 +202,31 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://www.computer.org/csdl/journal/tm">IEEE TMC</a></td>
     <td align="center">A*</td>
     <td align="center">2*</td>
-    <td align="center">Q1*</td>
+    <td align="center">Q2*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.computer.org/csdl/journal/sc">IEEE TSC</a></td>
     <td align="center">B*</td>
     <td align="center">2*</td>
-    <td align="center">Q1*</td>
+    <td align="center">Q2*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a></td>
     <td align="center">B*</td>
     <td align="center">2*</td>
-    <td align="center">Q1*</td>
+    <td align="center">Q3*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
-    <td align="center">Q3</td>
+    <td align="center">Q4</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnsm">IEEE TNSM</a></td>
     <td align="center">C</td>
     <td align="center">2*</td>
-    <td align="center">Q1*</td>
+    <td align="center">Q3*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.springer.com/journal/11761">SOCA</a></td>
@@ -238,13 +238,13 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">FGCS</a></td>
     <td align="center">C</td>
     <td align="center">2*</td>
-    <td align="center">Q1*</td>
+    <td align="center">Q2*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://onlinelibrary.wiley.com/journal/15320634">CCPE</a></td>
     <td align="center">C</td>
     <td align="center">4</td>
-    <td align="center">Q3</td>
+    <td align="center">Q4</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.hindawi.com/journals/wcmc/">WCMC</a></td>
@@ -262,7 +262,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://ieeeaccess.ieee.org">IEEE Access</a></td>
     <td align="center">-</td>
     <td align="center">3</td>
-    <td align="center">Q1*</td>
+    <td align="center">Q3*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR</a></td>
@@ -274,7 +274,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="http://www.cic-chinacommunications.cn/EN/volumn/home.shtml">China Communications</a></td>
     <td align="center">-</td>
     <td align="center">4</td>
-    <td align="center">Q3</td>
+    <td align="center">Q4</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ieee-iotj.org/">IEEE IoT-J</a></td>
