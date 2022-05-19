@@ -282,11 +282,17 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">1</td>
     <td align="center">Q1</td>
   </tr>
-    <tr>
+  <tr>
     <td align="center"><a href="https://www.mdpi.com/journal/applsci#">Applied Sciences</a></td>
     <td align="center">-</td>
     <td align="center">4</td>
     <td align="center">Q3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnse">TNSE</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Q2</td>
   </tr>
   <tr>
     <td align="center" rowspan="9"><b>Chinese Journals</b></td>
