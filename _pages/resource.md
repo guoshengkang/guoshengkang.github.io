@@ -74,6 +74,7 @@ Outline
   * 《Academic Writing for Engineering Publications: Guide for Non-native English Speakers》, 2020, by Zhongchao Tan, [more info](http://canapril.ca/training/)
     * [Chinese video course on bilibili](https://space.bilibili.com/673616380/)
     * [English video course on YouTube](https://www.youtube.com/channel/UC-hcoZ6zXISB75R3Il-776g/videos)
+* [High Quality Paper Writing -- Persuasive Writing with Evidence](https://pan.baidu.com/s/1RNiIGGpFXK8xf95qF7lo_g?pwd=kang), 2022, by Shui Yu from University of Technology Sydney
 
 <span id="Useful links">Useful links</span>  
 ======
