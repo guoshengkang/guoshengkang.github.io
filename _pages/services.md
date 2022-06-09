@@ -261,8 +261,8 @@ Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center"><a href="https://ieeeaccess.ieee.org">IEEE Access</a></td>
     <td align="center">-</td>
-    <td align="center">3</td>
-    <td align="center">Q3*</td>
+    <td align="center">2*</td>
+    <td align="center">Q3</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR</a></td>
@@ -279,8 +279,8 @@ Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center"><a href="https://ieee-iotj.org/">IEEE IoT-J</a></td>
     <td align="center">-</td>
-    <td align="center">1</td>
-    <td align="center">Q1</td>
+    <td align="center">1*</td>
+    <td align="center">Q1*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.mdpi.com/journal/applsci#">Applied Sciences</a></td>
@@ -292,13 +292,13 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnse">TNSE</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">Q2</td>
+    <td align="center">Q2*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ieee-itss.org/pub/t-its/">T-ITS</a></td>
-    <td align="center">B</td>
-    <td align="center">2</td>
-    <td align="center">Q1</td>
+    <td align="center">B*</td>
+    <td align="center">2*</td>
+    <td align="center">Q1*</td>
   </tr>
   <tr>
     <td align="center" rowspan="9"><b>Chinese Journals</b></td>
