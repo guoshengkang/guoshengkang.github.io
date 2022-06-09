@@ -192,7 +192,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="18"><b>International Journals</b></td>
+    <td align="center" rowspan="19"><b>International Journals</b></td>
     <td align="center"><a href="https://www.computer.org/csdl/journal/ts">IEEE TSE</a></td>
     <td align="center">A*</td>
     <td align="center">2*</td>
@@ -289,16 +289,22 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">Q3</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnse">TNSE</a></td>
+    <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnse">IEEE TNSE</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">Q2*</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://ieee-itss.org/pub/t-its/">T-ITS</a></td>
+    <td align="center"><a href="https://ieee-itss.org/pub/t-its/">IEEE T-ITS</a></td>
     <td align="center">B*</td>
     <td align="center">2*</td>
     <td align="center">Q1*</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dl.acm.org/journal/tist">ACM TIST</a></td>
+    <td align="center">-</td>
+    <td align="center">2*</td>
+    <td align="center">Q3</td>
   </tr>
   <tr>
     <td align="center" rowspan="9"><b>Chinese Journals</b></td>
