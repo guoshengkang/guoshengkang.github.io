@@ -46,7 +46,7 @@ What’s new for students
 
 Research outcomes obtained by students
 ------
-- 刘建勋, **丁领航**, **康国胜***, 曹步清, 肖勇. 基于特征深度融合的Web服务QoS联合预测. 2022, Accepted. (中文顶级期刊)
+- 刘建勋, **丁领航**, **康国胜***, 曹步清, 肖勇. 基于特征深度融合的Web服务QoS联合预测, **通信学报**. 2022, Accepted. (中文顶级期刊)
 - **Bowen Liang**, **Guosheng Kang***, Jianxun Liu, Buqing Cao, Jiayan Xiang. Attentional Neural Factorization Machine for Web Services Classification via Exploring Content and Structural Semantics. **International Joint Conference on Neural Networks**. 2022, Accepted. (CCF C)
 - **Hangyu Cheng**, **Guosheng Kang***, Jianxun Liu, Yiping Wen, Buqing Cao, Bowen Liang. Task-role Performance Evaluation via Business Process Monitoring with BPMN Extension. **International Conference on Service Science**. 2022, Accepted. (Best Student Paper Award)
 - **Runbin Xie**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao, Yiping Wen, Jiayan Xiang. A Hybrid TLBO-TS Algorithm based Mobile Service Selection for Composite Services. **International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2021)**. Springer, pp. 237-256, 2021. (CCF Rank C) [PDF](https://pan.baidu.com/s/1WnE64CG2vURvBGQ7nt0opA)
