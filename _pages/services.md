@@ -52,7 +52,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><b>JCR Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="20"><b>International Conferences</b></td>
+    <td align="center" rowspan="21"><b>International Conferences</b></td>
     <td align="center">IJCAI - Jan 14</td>
     <td align="center">A*</td>
     <td align="center">-</td>
@@ -113,6 +113,12 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">CollaborateCom - Jun 15</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">CoopIS - Jul 15</td>
     <td align="center">C</td>
     <td align="center">-</td>
@@ -125,7 +131,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CollaborateCom - Aug 30</td>
+    <td align="center">UIC - Sep 1</td>
     <td align="center">C</td>
     <td align="center">-</td>
     <td align="center">-</td>
