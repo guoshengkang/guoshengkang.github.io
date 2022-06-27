@@ -11,10 +11,10 @@ redirect_from:
 
 What’s new
 ------
-- 2021/10/29, One journal paper has been accepted by IEEE TNSM.
-- 2021/08/24, One paper has been accepted by CCF NCSC 2021.
-- 2021/05/13, One co-authored journal paper has been accepted by China Communications, congratulations to Liqin Yang.
-- 2021/03/02, One journal paper has been accepted by CCPE.
+- 2022/05/15, One paper has been awarded "Best Student Paper Award" by ICSS 2022, congratulations to Hangyu Cheng.
+- 2022/05/09, One paper has been accepted by Journal on Communications, congratulations to Linghang Ding.
+- 2022/04/27, One paper has been accepted by IJCNN 2022, congratulations to Bowen Liang.
+- 2022/04/21, One paper has been accepted by ICSS 2022, congratulations to Hangyu Cheng.
 
 Contact
 ------
