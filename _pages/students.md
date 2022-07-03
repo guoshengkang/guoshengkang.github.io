@@ -26,6 +26,7 @@ I’m fortunate to work with the following brilliant students.
 Supervised & Co-supervised Students
 ------
 - **Wenqiang Zhang (张文强)**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, 2022.02-
+  - 面向用户需求不确定场景的智能化服务推荐方法研究
 - **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-
 - **Hangyu Cheng (程航宇)**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
 - **Xing Li (李兴)**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, 2020.09-
