@@ -30,7 +30,8 @@ Supervised & Co-supervised Students
 - **Hangyu Cheng (程航宇)**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
 - **Xing Li (李兴)**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, 2020.09-
 - **Runbin Xie (谢润彬)**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, 2020.09-
-- **Linghang Ding (丁领航)**, Master Student, <font color='blue'>linghangding@gmail.com</font>, 2020.02-
+- **Linghang Ding (丁领航)**, Master Student, <font color='blue'>linghangding@gmail.com</font>, 2020.02-2022.06
+  - Thesis: 融合图神经网络和因子分解机的Web服务QoS联合预测
 - **Yong Xiao (肖勇)**, Ph.D. Student, <font color='blue'>yongx853@gmail.com</font>, 2020.02-
 
 
