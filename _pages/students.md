@@ -30,7 +30,7 @@ Supervised & Co-supervised Students
 - **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-
   - Thesis: 面向用户需求不确定场景的智能化服务推荐方法研究
 - **Hangyu Cheng (程航宇)**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
-  - Thesis: 基于BPMN扩展的业务过程智能综合建模语言
+  - Thesis: 工业网互联网环境下基于BPMN扩展的业务过程智能综合建模语言
 - **Xing Li (李兴)**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, 2020.09-
   - Thesis: 支持工业互联网的跨组织业务流程协作机制与异构信息系统集成
 - **Runbin Xie (谢润彬)**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, 2020.09-
