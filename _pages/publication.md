@@ -9,6 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal articles
 ------
+* **Guosheng Kang**. Configurable Artefact-centric Business Process Modelling with Proclets. **International Journal of Business Process Integration and Management**, Vol. 10, No. 3, pp. 201-212, 2021. PDF(https://pan.baidu.com/s/1VyEJGGtKlgMcQt2Sy1mnTQ?pwd=kang)
 * **Guosheng Kang**, Jianxun Liu, Yong Xiao, Buqing Cao, Yu Xu, Manliang Cao. Neural and Attentional Factorization Machine based Web API Recommendation for Mashup Development. **IEEE Transactions on Network and Service Management**, Vol. 18, No. 4, pp. 4183-4196, 2021. [PDF](https://pan.baidu.com/s/1eyZSWq0-dBU6rfyIx52WhQ)
 * **Guosheng Kang**, Liqin Yang, Liang Zhang, Jianxun Liu, Yiping Wen. Organization-Driven Business Process Configurable Modeling for Spatial Variability. **China Communications**, Vol. 18, No. 11, PP. 229-242, 2021. [PDF](https://pan.baidu.com/s/1HcMrxB4gXMYcq9dCoEf7dQ)
 * Liqin Yang, **Guosheng Kang**, Liang Zhang. Medical Treatment Process Modeling Based on Process Mining and Treatment Patterns. **China Communications**,  Vol. 18, No. 12, PP. 332-349, 2021. (Best Student Paper Award in CCF NCSC 2020) [PDF](https://pan.baidu.com/s/1IkujbHtqNOfE_PjQnpOOow)
