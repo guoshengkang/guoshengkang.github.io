@@ -29,15 +29,15 @@ Supervised & Co-supervised Students
 - **Yang Wang (王洋)**, Master Student, 2022.09-
 - **Zhen Wang (王祯)**, Master Student, 2022.09-
 - **Wenqiang Zhang (张文强)**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, 2022.02-
-  - Thesis: 工业网互联网环境下面向生产要素需求的服务推荐方法研究
+  - Thesis: 工业网互联网环境下面向生产要素需求的服务推荐方法
 - **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-
-  - Thesis: 面向用户需求不确定场景的智能化服务推荐方法研究
+  - Thesis: 面向用户需求不确定场景的智能化服务推荐方法
 - **Hangyu Cheng (程航宇)**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
   - Thesis: BPMN-II: 工业网互联网环境下基于BPMN扩展的业务过程智能综合建模语言
 - **Xing Li (李兴)**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, 2020.09-
-  - Thesis: 支持工业互联网的跨组织业务流程协作机制与异构信息系统集成
+  - Thesis: 支持工业互联网的跨域业务流程协作机制
 - **Runbin Xie (谢润彬)**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, 2020.09-
-  - Thesis: 工业互联网环境下时空感知的生产要素服务组合优化方法研究
+  - Thesis: 工业互联网环境下时空感知的生产要素服务组合优化方法
 - **Linghang Ding (丁领航)**, Master Student, <font color='blue'>linghangding@gmail.com</font>, 2020.02-2022.06
   - Thesis: [融合图神经网络和因子分解机的Web服务QoS联合预测](https://pan.baidu.com/s/1PRh8HBjLDAsDNQpsBNyiqA?pwd=kang)
 - **Yong Xiao (肖勇)**, Ph.D. Student, <font color='blue'>yongx853@gmail.com</font>, 2020.02-
