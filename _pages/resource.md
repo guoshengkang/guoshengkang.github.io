@@ -43,6 +43,8 @@ Outline
     * <https://c.beijingbang.top>
 * **Academic House**
   * <http://sci.xueshuwu.cn>
+* **Semantic Scholar**
+  * <https://www.semanticscholar.org>
 * **SCI-HUB**
   * <https://tool.yovisun.com/scihub/>
     * Sci.Hub is a site to download reference papers and journal articles for free. Just paste the DOI of the journal article you want, and ScienceHub will fetch the PDF for you for free.
