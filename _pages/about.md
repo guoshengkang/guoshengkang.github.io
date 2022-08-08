@@ -11,7 +11,7 @@ redirect_from:
 
 What’s new
 ------
-- 2022/08/08, One paper has been accepted by TNSM, congratulations to Guosheng Kang.
+- 2022/08/07, One paper has been accepted by TNSM, congratulations to Guosheng Kang.
 - 2022/05/15, One paper has been awarded "Best Student Paper Award" by ICSS 2022, congratulations to Hangyu Cheng.
 - 2022/05/09, One paper has been accepted by Journal on Communications, congratulations to Linghang Ding.
 - 2022/04/27, One paper has been accepted by IJCNN 2022, congratulations to Bowen Liang.
