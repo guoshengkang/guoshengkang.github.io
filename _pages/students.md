@@ -25,7 +25,7 @@ I’m fortunate to work with the following brilliant students.
 
 Supervised & Co-supervised Students
 ------
-- **Weike Zhou (周维克)**, Master Student, 2022.09-
+- **Weike Zhou (周维克)**, Master Student, <font color='blue'>lilvicky.0408@gmail.com</font>, 2022.09-
 - **Yang Wang (王洋)**, Master Student, <font color='blue'>brownyangw@gmail.com</font>, 2022.09-
 - **Zhen Wang (王祯)**, Master Student, <font color='blue'>luckyzhen19@gmail.com</font>, 2022.09-
 - **Wenqiang Zhang (张文强)**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, 2022.02-
