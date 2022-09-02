@@ -387,4 +387,5 @@ Conferences and Journals that I May Pay Attention to
   </tr>
 </table>
 
-[Upcoming Conferences](http://www.conferencelist.info/upcoming.html)
+- [Upcoming Conferences](http://www.conferencelist.info/upcoming.html)
+- [Conference Partner](https://www.myhuiban.com/)
