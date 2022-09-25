@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2022/09/25, Two papers have been accepted by CBPM 2022, congratulations to Runbin Xie and Wenqiang Zhang.
 - 2022/08/10, One paper has been accepted by ChinaService 2022, congratulations to Hangyu Cheng.
 - 2022/08/07, One paper has been accepted by TNSM, congratulations to Guosheng Kang.
 - 2022/05/15, One paper has been awarded "Best Student Paper Award" by ICSS 2022, congratulations to Hangyu Cheng.
