@@ -63,7 +63,7 @@ date: 2021-09-10
 
 * [Homework](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/2021-fall-discrete-mathematical-structures-HW.md)  
 * **Textbook**
-  * Bernard Kolman, Robert Busby, Sharon Cutler Ross. Discrete Mathematical Structures[M] (6th Edition). Pearson, 2009. [pdf](https://pan.baidu.com/s/1GqlOvWpghCkHLEddAmHShA), [Slides](https://pan.baidu.com/s/1xM7PZ4Kh25ojoO39kwMIOA), [Errata](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/errors-in-discrete-mathematical-structures.md)  
-  * Bernard Kolman, Robert Busby, Sharon Cutler Ross. Discrete Mathematical Structures: Pearson New International Edition[M] (6th Edition). Pearson, 2013. [pdf](https://pan.baidu.com/s/1CdISYnIbjFyGu3LCYCIVeA)
+  * Bernard Kolman, Robert Busby, Sharon Cutler Ross. Discrete Mathematical Structures[M] (6th Edition). Pearson, 2009. [pdf](https://pan.baidu.com/s/1GqlOvWpghCkHLEddAmHShA), [Slides](https://pan.baidu.com/s/1eslyGW24R0dw77MhygtxCg), [Errata](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/errors-in-discrete-mathematical-structures.md)  
+  * Bernard Kolman, Robert Busby, Sharon Cutler Ross. Discrete Mathematical Structures: Pearson New International Edition[M] (6th Edition). Pearson, 2013. [pdf](https://pan.baidu.com/s/1QooN-9q2GAIBek8vUONVWA)
 
 ![Textbook](http://guoshengkang.github.io/files/2021_Fall_Discrete_Mathematical_Structures-教材封面1.jpg)&nbsp;![Textbook](http://guoshengkang.github.io/files/2021_Fall_Discrete_Mathematical_Structures-教材封面2.jpg)
