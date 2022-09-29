@@ -1,5 +1,5 @@
 ---
-title: "Discrete Mathematical Structures (2021, Fall)"
+title: "Discrete Mathematical Structures (Fall)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall-discrete-mathematical-structures
