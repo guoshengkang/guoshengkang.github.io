@@ -2,7 +2,7 @@
 title: "Discrete Mathematical Structures (2021, Fall)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-fall-discrete-mathematical-structures
+permalink: /teaching/fall-discrete-mathematical-structures
 venue: "HNUST"
 date: 2021-09-10
 ---
