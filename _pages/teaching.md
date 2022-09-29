@@ -16,7 +16,7 @@ redirect_from:
   * [2020, Fall (2020级计算机<sup>\*</sup>1~4&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)
 * [**Discrete Mathematical Structures**](http://guoshengkang.github.io/teaching/fall-discrete-mathematical-structures), Undergraduate, 72'
   * 2021, Fall (2021级大数据1~3)
-  * 2022, Fall (2021级软件1~3)
+  * 2022, Fall (2022级软件1~3)
 * **Advanced Software Engineering**, Postgraduate, 40'
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
   * [2022, Spring (2021级研究生)](http://guoshengkang.github.io/teaching/2022-spring-advanced-software-engineering)
