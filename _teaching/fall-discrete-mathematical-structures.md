@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall-discrete-mathematical-structures
 venue: "HNUST"
-date: 2021-09-10
 ---
 * **Chapter 1. Fundamentals**
   * 1.1 Sets and Subsets
