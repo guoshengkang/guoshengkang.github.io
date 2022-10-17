@@ -179,13 +179,13 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CAiSE - Nov 29</td>
+    <td align="center">DASFAA - Nov 7</td>
     <td align="center">B*</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">DASFAA - Nov 7</td>
+    <td align="center">CAiSE - Nov 29</td>
     <td align="center">B*</td>
     <td align="center">-</td>
     <td align="center">-</td>
