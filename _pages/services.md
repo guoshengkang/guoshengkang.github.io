@@ -210,7 +210,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="23"><b>International Journals</b></td>
+    <td align="center" rowspan="24"><b>International Journals</b></td>
     <td align="center"><a href="https://www.computer.org/csdl/journal/ts">IEEE TSE</a></td>
     <td align="center">A*</td>
     <td align="center">2*</td>
@@ -341,6 +341,12 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks">DCN</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">Q1</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.springer.com/journal/11280">WWWJ</a></td>
