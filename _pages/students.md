@@ -46,7 +46,7 @@ Supervised & Co-supervised Students
 
 Research outcomes obtained by students
 ------
-- Hangyu Cheng, Guosheng Kang, Jianxun Liu, Yiping Wen, Buqing Cao. BPMN++: Comprehensive Business Process Modeling for Industrial Internet Application. ISPA 2022, Accepted.
+- **Hangyu Cheng**, **Guosheng Kang***, Jianxun Liu, Yiping Wen, Buqing Cao. BPMN++: Comprehensive Business Process Modeling for Industrial Internet Application. ISPA 2022, Accepted.
 - **程航宇**，**康国胜***，刘建勋，文一凭，曹步清，王祯. 基于BPMN的业务流程建模元素扩展机制, 计算机集成制造系统, Accepted.
 - **谢润彬**，康国胜，刘建勋*，文一凭，丁领航. 工业互联网环境下位置感知的生产要素服务组合优化，CBPM 2022，Accepted
 - **张文强**，**康国胜***，刘建勋，文一凭，丁领航. 工业互联网环境下面向生产要素需求的服务推荐，CBPM 2022，Accepted
