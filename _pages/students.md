@@ -48,7 +48,7 @@ Research outcomes obtained by students
 ------
 - Hangyu Cheng, Guosheng Kang, Jianxun Liu, Yiping Wen, Buqing Cao. BPMN++: Comprehensive Business Process Modeling for Industrial Internet Application. ISPA 2022, Accepted.
 - **程航宇**，**康国胜***，刘建勋，文一凭，曹步清，王祯. 基于BPMN的业务流程建模元素扩展机制, 计算机集成制造系统, Accepted.
-- **谢润彬**，**康国胜，刘建勋*，文一凭，丁领航. 工业互联网环境下位置感知的生产要素服务组合优化，CBPM 2022，Accepted
+- **谢润彬**，康国胜，刘建勋*，文一凭，丁领航. 工业互联网环境下位置感知的生产要素服务组合优化，CBPM 2022，Accepted
 - **张文强**，**康国胜***，刘建勋，文一凭，丁领航. 工业互联网环境下面向生产要素需求的服务推荐，CBPM 2022，Accepted
 - 刘建勋, **丁领航**, **康国胜***, 曹步清, 肖勇. 基于特征深度融合的Web服务QoS联合预测, **通信学报**, Vol. 43, No. 7, pp. 215-226, 2022. (中文顶级期刊) [PDF](https://pan.baidu.com/s/1RPOQUsQtpkCdAmk56IqIHA?pwd=kang)
 - **Bowen Liang**, **Guosheng Kang***, Jianxun Liu, Buqing Cao, Jiayan Xiang. Attentional Neural Factorization Machine for Web Services Classification via Exploring Content and Structural Semantics. **International Joint Conference on Neural Networks**. IEEE Computer Society, 2022. (CCF C) [PDF](https://pan.baidu.com/s/1K-Z13WYHR2sae-TRRfFPUw?pwd=kang)
