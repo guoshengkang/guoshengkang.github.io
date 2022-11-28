@@ -393,7 +393,7 @@ Conferences and Journals that I May Pay Attention to
   </tr>
    <tr>
     <td align="center"><a href="http://www.aas.net.cn/">自动化学报</a></td>
-    <td align="center">A</td>
+    <td align="center">A*</td>
     <td align="center">顶级*</td>
     <td align="center">-</td>
   </tr>
