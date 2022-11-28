@@ -361,7 +361,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">Q4</td>
   </tr>
   <tr>
-    <td align="center" rowspan="9"><b>Chinese Journals</b></td>
+    <td align="center" rowspan="10"><b>Chinese Journals</b></td>
     <td align="center"><a href="http://cjc.ict.ac.cn/">计算机学报</a></td>
     <td align="center">A*</td>
     <td align="center">顶级*</td>
@@ -388,6 +388,12 @@ Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center"><a href="http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml">通信学报</a></td>
     <td align="center">B</td>
+    <td align="center">顶级*</td>
+    <td align="center">-</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="http://www.aas.net.cn/">自动化学报</a></td>
+    <td align="center">-</td>
     <td align="center">顶级*</td>
     <td align="center">-</td>
   </tr>
