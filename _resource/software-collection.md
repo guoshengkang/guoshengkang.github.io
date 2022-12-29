@@ -30,5 +30,6 @@ permalink: /resource/software-collection
 * [WinPE.exe + WinX64.iso (Compact) + Activator tool](https://pan.baidu.com/s/1NJSugLOrEuZgHZVGLI5pmg)
 * [PDF Toolkit](https://pan.baidu.com/s/1UxSqZxELRwywmggs6XlPzw)
 * [Format Factory](https://pan.baidu.com/s/1l-HI-wE5OuBROYSzbC7PKw)
+* [Notepad++ 8.4.4](https://pan.baidu.com/s/1wZislAvf1Hi86ZqwpIhjLA)
 
 Note: fetch code is 'kang'
