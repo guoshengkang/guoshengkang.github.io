@@ -9,7 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal articles
 ------
-* **Guosheng Kang**, Jianxun Liu, Yong Xiao, Yingcheng Cao, Buqing Cao, and Min Shi. Web Services Clustering via Exploring Unified Content and Structural Semantic Representation. **IEEE Transactions on Network and Service Management**, 2022. DOI: 10.1109/TNSM.2022.3197725
+* **Guosheng Kang**, Jianxun Liu, Yong Xiao, Yingcheng Cao, Buqing Cao, and Min Shi. Web Services Clustering via Exploring Unified Content and Structural Semantic Representation. **IEEE Transactions on Network and Service Management**, Vol. 19, No. 4, pp. 4082 - 4096, 2022. [PDF](https://pan.baidu.com/s/1EMRHb3bk1g2SOv9iBMJDtg?pwd=kang)
 * **Guosheng Kang**. Configurable Artefact-centric Business Process Modelling with Proclets. **International Journal of Business Process Integration and Management**, Vol. 10, No. 3, pp. 201-212, 2021. [PDF](https://pan.baidu.com/s/1VyEJGGtKlgMcQt2Sy1mnTQ?pwd=kang)
 * **Guosheng Kang**, Jianxun Liu, Yong Xiao, Buqing Cao, Yu Xu, Manliang Cao. Neural and Attentional Factorization Machine based Web API Recommendation for Mashup Development. **IEEE Transactions on Network and Service Management**, Vol. 18, No. 4, pp. 4183-4196, 2021. [PDF](https://pan.baidu.com/s/1eyZSWq0-dBU6rfyIx52WhQ)
 * **Guosheng Kang**, Liqin Yang, Liang Zhang, Jianxun Liu, Yiping Wen. Organization-Driven Business Process Configurable Modeling for Spatial Variability. **China Communications**, Vol. 18, No. 11, PP. 229-242, 2021. [PDF](https://pan.baidu.com/s/1HcMrxB4gXMYcq9dCoEf7dQ)
