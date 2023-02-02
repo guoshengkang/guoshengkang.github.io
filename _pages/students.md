@@ -49,9 +49,9 @@ Supervised & Co-supervised Students
 
 Research outcomes obtained by students
 ------
-- **Yang Wang**, Jiayan Xiang, Hangyu Cheng, Wanjun Chen, Yong Xiao, **Guosheng Kang***. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. **CSCWD 2023**,  Accepted. (CCF C)
-- **Jiayan Xiang**, Wanjun Chen, Yang Wang, Bowen Liang, Zihao Liu, **Guosheng Kang***. Interactive Web API Recommendation for Mashup Development based on Light Neural Graph Collaborative Filtering. **CSCWD 2023**,  Accepted. (CCF C)
-- **Hangyu Cheng**, **Guosheng Kang***, Jianxun Liu, Yiping Wen, Buqing Cao. BPMN++: Comprehensive Business Process Modeling for Industrial Internet Application. **ISPA 2022**, Accepted. (CCF C)
+- **Yang Wang**, Jiayan Xiang, Hangyu Cheng, Wanjun Chen, Yong Xiao, **Guosheng Kang***. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. **International Conference on Computer Supported Cooperative Work in Design**. 2023,  Accepted. (CCF C)
+- **Jiayan Xiang**, Wanjun Chen, Yang Wang, Bowen Liang, Zihao Liu, **Guosheng Kang***. Interactive Web API Recommendation for Mashup Development based on Light Neural Graph Collaborative Filtering. **International Conference on Computer Supported Cooperative Work in Design**. 2023,  Accepted. (CCF C)
+- **Hangyu Cheng**, **Guosheng Kang***, Jianxun Liu, Yiping Wen, Buqing Cao. BPMN++: Comprehensive Business Process Modeling for Industrial Internet Application. **International Symposium on Parallel and Distributed Processing with Applications**. 2022,  Accepted. (CCF C)
 - **程航宇**，**康国胜***，刘建勋，文一凭，曹步清，王祯. 基于BPMN的业务流程建模元素扩展机制, **计算机集成制造系统**, Accepted.
 - **谢润彬**，**康国胜**，刘建勋*，文一凭，丁领航. 工业互联网环境下位置感知的生产要素服务组合优化，**计算机集成制造系统**，Accepted
 - **张文强**，**康国胜***，刘建勋，文一凭，丁领航. 工业互联网环境下面向生产要素需求的服务推荐，**计算机集成制造系统**，Accepted
