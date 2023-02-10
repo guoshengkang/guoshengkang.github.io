@@ -39,7 +39,7 @@ redirect_from:
 |七八节<br>16:00-17:40|	|	 |  |	|**【C语言程序设计A】**<br>22建环1~3班@**一教208**<br>1~8周|
 |九十节<br>19:00-20:40|	|**【C语言程序设计A】**<br>22建环1~3班@**一教108**<br>1~8周|  |	| |
 
-Plus: **数据库系统课程设计**-21软件3班-16~17周
+Plus: **C语言课程设计**-22软件3班-第1周-逸夫楼222
 - - -
 
 ![The First Term](http://guoshengkang.github.io/files/The_First_Term.jpg)  
