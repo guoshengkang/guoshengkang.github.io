@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2023/02/14, One paper has been accepted by Electronics, congratulations to Jiayan Xiang.
 - 2023/02/01, Two paper have been accepted by CSCWD 2023, congratulations to Yang Wang and Jiayan Xiang.
 - 2022/11/07, One paper has been accepted by ISPA 2022, congratulations to Hangyu Cheng.
 - 2022/09/25, Two papers have been accepted by CBPM 2022, congratulations to Runbin Xie and Wenqiang Zhang.
