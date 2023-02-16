@@ -49,6 +49,7 @@ Supervised & Co-supervised Students
 
 Research outcomes obtained by students
 ------
+- **Jiayan Xiang**, **Guosheng Kang***, Hangyu Cheng, Jianxun Liu, Yiping Wen, Junhua Xu. Scalable and Optimal QoS-Aware Manufacturing Service Composition via Business Process Decomposition. **Electronics**, Vol. 12, No. 4, pp. 991-1008, 2023.  (SCI, JCR Rank 3) [PDF](https://www.mdpi.com/2079-9292/12/4/991)
 - **Yang Wang**, Jiayan Xiang, Hangyu Cheng, Wanjun Chen, Yong Xiao, **Guosheng Kang***. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. **International Conference on Computer Supported Cooperative Work in Design**. 2023,  Accepted. (CCF C)
 - **Jiayan Xiang**, Wanjun Chen, Yang Wang, Bowen Liang, Zihao Liu, **Guosheng Kang***. Interactive Web API Recommendation for Mashup Development based on Light Neural Graph Collaborative Filtering. **International Conference on Computer Supported Cooperative Work in Design**. 2023,  Accepted. (CCF C)
 - **Hangyu Cheng**, **Guosheng Kang***, Jianxun Liu, Yiping Wen, Buqing Cao. BPMN++: Comprehensive Business Process Modeling for Industrial Internet Application. **International Symposium on Parallel and Distributed Processing with Applications**. 2022,  Accepted. (CCF C)
