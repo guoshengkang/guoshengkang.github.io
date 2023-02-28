@@ -27,7 +27,7 @@ Contact
 ------
 * **QQ**: 275145504
 * **Email**: guoshengkang@gmail.com
-* **Address**: Room 627, Shaw Building, South Campus, Hunan University of Science and Technology, No.2 Taoyuan Road, Xiangtan, Hunan, China (411201)
+* **Address**: Room 408-3, Shaw Building, South Campus, Hunan University of Science and Technology, No.2 Taoyuan Road, Xiangtan, Hunan, China (411201)
 
 <center><a href="http://www.hnust.edu.cn/"  title="HNUST"><img src="http://guoshengkang.github.io/images/HNUST-logo.png" /></a>&ensp;<a href="http://www.fudan.edu.cn"  title="FUDAN"><img src="http://guoshengkang.github.io/images/FUDAN-logo.png" /></a></center>
 &nbsp;
