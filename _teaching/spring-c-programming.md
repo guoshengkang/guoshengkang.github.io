@@ -34,6 +34,7 @@ venue: "HNUST"
 ## Textbook
 - 蒋清明, 向德生. C语言程序设计教程[M] (第二版). 中国矿业出版社, 2019. [Slides](https://pan.baidu.com/s/1X3Z4MwTHYvXXaz3jQI7tvA?pwd=kang) 
 - C语言教材1-7章+附录. [PDF](https://pan.baidu.com/s/1-QGIzcuiCNtn3r0YQyOUnA?pwd=kang) 
+
 ![Textbook](http://guoshengkang.github.io/files/2021_Spring_C_Programming-教材封面.jpg)
 
 ## Advanced
