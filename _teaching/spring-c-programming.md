@@ -28,6 +28,7 @@ venue: "HNUST"
 - [Visual Studio 2010 Express (online version)](https://pan.baidu.com/s/1jH0P9Gf2ytXe8xYI_USZ0w)  
 - [Visual Studio 2010 Express (offline version)](https://pan.baidu.com/s/15lRW7kBWRW-wuTHCiL1qLA?pwd=kang) 
 - [VC++ 6.0](https://pan.baidu.com/s/1NcCRISpTVGwLjgNIJV4Fkg?pwd=kang)
+- [Code::Blocks](http://www.codeblocks.org/downloads/binaries/)
 - [CP Editor](https://cpeditor.org/)
 - [Online Programming](https://lightly.teamcode.com/c)
 
