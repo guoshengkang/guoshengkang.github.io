@@ -24,7 +24,7 @@ venue: "HNUST"
   - Correction
   - Programming
 
-## Software
+## IDE
 - [Visual Studio 2010 Express (online version)](https://pan.baidu.com/s/1jH0P9Gf2ytXe8xYI_USZ0w)  
 - [Visual Studio 2010 Express (offline version)](https://pan.baidu.com/s/15lRW7kBWRW-wuTHCiL1qLA?pwd=kang) 
 - [VC++ 6.0](https://pan.baidu.com/s/1NcCRISpTVGwLjgNIJV4Fkg?pwd=kang)
