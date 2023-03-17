@@ -49,7 +49,7 @@ Supervised & Co-supervised Students
 
 Research outcomes obtained by students
 ------
-- Jianxun Liu, **Linghang Ding**, **Guosheng Kang***, Yong Xiao, Buqing Cao. Joint QoS Prediction for Web Services based on Deep Fusion of Features. **IEEE Transactions on Network and Service Management**, 2023. DOI: 10.1109/TNSM.2023.3255253  (CCF Rank C) 
+-  **Linghang Ding**, Jianxun Liu, **Guosheng Kang**, Yong Xiao, Buqing Cao. Joint QoS Prediction for Web Services based on Deep Fusion of Features. **IEEE Transactions on Network and Service Management**, 2023. DOI: 10.1109/TNSM.2023.3255253  (CCF Rank C) 
 - Jianxun Liu, **Runbin Xie**, **Guosheng Kang***, Yiping Wen. Spatial-Temporal Aware Service Composition for Production Factors under Industrial Internet. **Concurrency and Computation: Practice and Experience**, 2023. DOI: 10.1002/cpe.7689 (CCF C)
 - **Jiayan Xiang**, **Guosheng Kang***, Hangyu Cheng, Jianxun Liu, Yiping Wen, Junhua Xu. Scalable and Optimal QoS-Aware Manufacturing Service Composition via Business Process Decomposition. **Electronics**, Vol. 12, No. 4, pp. 991-1008, 2023.  (SCI, JCR Rank 3) [PDF](https://www.mdpi.com/2079-9292/12/4/991)
 - **Yang Wang**, Jiayan Xiang, Hangyu Cheng, Wanjun Chen, Yong Xiao, **Guosheng Kang***. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. **International Conference on Computer Supported Cooperative Work in Design**. 2023,  Accepted. (CCF C)
