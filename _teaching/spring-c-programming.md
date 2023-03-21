@@ -44,3 +44,4 @@ venue: "HNUST"
 - [nowcoder](https://www.nowcoder.com/exam/oj?page=1&tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=290)
 - LeetCode 101: A LeetCode Grinding Guide (C++ Version) [PDF](https://pan.baidu.com/s/1veqtjN6X8GLRYK0s9bNbBQ?pwd=kang)
 - [Visualize code execution to learn Python, Java, C, C++, and JavaScript online](https://pythontutor.com/)
+- [ChatGPT for C Programming](https://open-gpt.app/app/clfajpeni0000mo08j0ylisxq)
