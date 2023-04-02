@@ -17,7 +17,8 @@ My recent research interests include (but not limited to)  the following topics:
 - Self-adaptive Service Composition
 - Intelligent Business Process Management (Modeling, Collaboration, Monitoring, and Mining) under Industrial Internet
 - Data Mining & Machine Learning
-- Educational or Medical Big Data, etc.  
+- Educational or Medical Big Data
+- Power Data Analysis
 
 ------
 
