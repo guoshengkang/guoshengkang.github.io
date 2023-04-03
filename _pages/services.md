@@ -374,9 +374,9 @@ Conferences and Journals that I May Pay Attention to
   </tr>
   <tr>
     <td align="center"><a href="https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence">TAI</a></td>
-    <td align="center">C</td>
-    <td align="center">1</td>
-    <td align="center">Q2</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center" rowspan="10"><b>Chinese Journals</b></td>
