@@ -31,6 +31,8 @@ Reviewer
   * [IEEE ACCESS](https://ieeeaccess.ieee.org)
   * [CCOS](https://www.tandfonline.com/toc/ccos20/current)
   * [COIN](https://onlinelibrary.wiley.com/journal/14678640)
+  * [Processes](https://www.mdpi.com/journal/processes)
+  * [Applied Sciences](https://www.mdpi.com/journal/applsci)
 * **Conferences**
   * BPM
   * APBPM
