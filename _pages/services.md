@@ -33,6 +33,8 @@ Reviewer
   * [COIN](https://onlinelibrary.wiley.com/journal/14678640)
   * [Processes](https://www.mdpi.com/journal/processes)
   * [Applied Sciences](https://www.mdpi.com/journal/applsci)
+  * [Electronics](https://www.mdpi.com/journal/electronics)
+  * [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394)
 * **Conferences**
   * BPM
   * APBPM
