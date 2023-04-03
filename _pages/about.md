@@ -15,14 +15,6 @@ What’s new
 - 2023/02/25, One paper has been accepted by CCPE, congratulations to Runbin Xie.
 - 2023/02/14, One paper has been accepted by Electronics, congratulations to Jiayan Xiang.
 - 2023/02/01, Two paper have been accepted by CSCWD 2023, congratulations to Yang Wang and Jiayan Xiang.
-- 2022/11/07, One paper has been accepted by ISPA 2022, congratulations to Hangyu Cheng.
-- 2022/09/25, Two papers have been accepted by CBPM 2022, congratulations to Runbin Xie and Wenqiang Zhang.
-- 2022/08/10, One paper has been accepted by ChinaService 2022, congratulations to Hangyu Cheng.
-- 2022/08/07, One paper has been accepted by TNSM, congratulations to Guosheng Kang.
-- 2022/05/15, One paper has been awarded "Best Student Paper Award" by ICSS 2022, congratulations to Hangyu Cheng.
-- 2022/05/09, One paper has been accepted by Journal on Communications, congratulations to Linghang Ding.
-- 2022/04/27, One paper has been accepted by IJCNN 2022, congratulations to Bowen Liang.
-- 2022/04/21, One paper has been accepted by ICSS 2022, congratulations to Hangyu Cheng.
 
 Contact
 ------
