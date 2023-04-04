@@ -24,7 +24,7 @@ redirect_from:
 * **Course Project**, Undergraduate, 32'\*0.8≈26'
   * Database (2020/2022 Fall)
   * C Programming (2021/2022/2023 Spring)
-  * Operating System (2021/2022 Spring)
+  * Operating System (2021/2022/2023 Spring)
   * Comprehensive Practical Ability Innovation Training (2021 Fall)
 
 \*: Xiaoxiang College
