@@ -105,8 +105,6 @@ void main()
 
 
 
-
-
     /**********  End  **********/
 
     printf("fahr = %d, celsius = %d\n", fahr, celsius); 
@@ -114,7 +112,7 @@ void main()
 ```
 > **答案**  
 > fahr=150;  
-> celsius= 
+> celsius= 5.0/9.0*(fahr-32);
 
 ### <span id="控制结构">控制结构</span> 
 
