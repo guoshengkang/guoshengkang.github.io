@@ -19,7 +19,7 @@ venue: "HNUST"
 ## Exercise
 - [Homework and Answer](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/spring-c-programming-HW&Ans.md) 
 - [Experiments](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/spring-c-programming-EXP.md)  
-- [Tests](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/spring-c-programming-TEST.md)
+- [Tests](https://github.com/IntelligentServiceLab/C-Programming/blob/main/comprehensive-EXP.md)
   - Completion
   - Correction
   - Programming
