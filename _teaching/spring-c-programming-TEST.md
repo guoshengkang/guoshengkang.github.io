@@ -112,6 +112,9 @@ void main()
     printf("fahr = %d, celsius = %d\n", fahr, celsius); 
 }
 ```
+> **答案**  
+> fahr=150;  
+> celsius= 
 
 ### <span id="控制结构">控制结构</span> 
 
