@@ -29,7 +29,7 @@ double y,z;
            printf("z=【?】",z);
         }
 ```
-**答案**  
+> **答案**  
 > #include<math.h>  
 > %d%ld  
 > %ld  
