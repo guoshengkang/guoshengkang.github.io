@@ -35,6 +35,7 @@ Reviewer
   * [Applied Sciences](https://www.mdpi.com/journal/applsci)
   * [Electronics](https://www.mdpi.com/journal/electronics)
   * [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394)
+  * [IJCS](https://onlinelibrary.wiley.com/journal/10991131)
 * **Conferences**
   * BPM
   * APBPM
