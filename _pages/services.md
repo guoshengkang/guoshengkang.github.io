@@ -107,7 +107,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CIKM - Jun 10</td>
+    <td align="center">CIKM - Jun 3</td>
     <td align="center">B*</td>
     <td align="center">-</td>
   </tr>
@@ -281,12 +281,12 @@ Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center"><a href="https://www.mdpi.com/journal/electronics">Electronics</a></td>
     <td align="center">-</td>
-    <td align="center">4</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.mdpi.com/journal/applsci#">Applied Sciences</a></td>
     <td align="center">-</td>
-    <td align="center">3</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnse">IEEE TNSE</a></td>
