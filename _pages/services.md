@@ -106,7 +106,22 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
-   <tr>
+  <tr>
+    <td align="center">CIKM - Jun 10</td>
+    <td align="center">B*</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">APWeb - Jun 10</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">WAIM - Jun 10</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">ICDM - Jun 10</td>
     <td align="center">B*</td>
     <td align="center">-</td>
@@ -175,21 +190,6 @@ Conferences and Journals that I May Pay Attention to
     <td align="center" rowspan="3"><b>Chinese Conferences</b></td>
     <td align="center">CBPM - May 31</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">CIKM - Jun 10</td>
-    <td align="center">B*</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">APWeb - Jun 10</td>
-    <td align="center">C</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">WAIM - Jun 10</td>
-    <td align="center">C</td>
     <td align="center">-</td>
   </tr>
   <tr>
