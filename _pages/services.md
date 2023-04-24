@@ -401,6 +401,8 @@ Conferences and Journals that I May Pay Attention to
   </tr>
 </table>
 
+[<<中科院文献情报中心期刊分区表>>](https://www.fenqubiao.com/)
+
 Call For Papers
 ------
 - [Upcoming Conferences](http://www.conferencelist.info/upcoming.html)
