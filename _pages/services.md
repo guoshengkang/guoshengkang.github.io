@@ -203,7 +203,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="29"><b>International Journals</b></td>
+    <td align="center" rowspan="31"><b>International Journals</b></td>
     <td align="center"><a href="https://www.computer.org/csdl/journal/ts">IEEE TSE</a></td>
     <td align="center">A*</td>
     <td align="center">2*</td>
@@ -316,7 +316,17 @@ Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center"><a href="https://www.ieeesmc.org/publications/transactions-on-smc-systems/">IEEE TSMC</a></td>
     <td align="center">B</td>
-    <td align="center">-</td>
+    <td align="center">1</td>
+  </tr>
+  <tr>
+  <td align="center"><a href="https://www.ieee-ras.org/publications/t-ase">IEEE TASAE</a></td>
+    <td align="center">B</td>
+    <td align="center">1</td>
+  </tr>
+  <tr>
+  <td align="center"><a href="https://rs.ieee.org/transactions-on-reliability.html">IEEE TR</a></td>
+    <td align="center">C</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks">DCN</a></td>
