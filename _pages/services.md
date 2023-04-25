@@ -203,7 +203,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="31"><b>International Journals</b></td>
+    <td align="center" rowspan="32"><b>International Journals</b></td>
     <td align="center"><a href="https://www.computer.org/csdl/journal/ts">IEEE TSE</a></td>
     <td align="center">A*</td>
     <td align="center">2*</td>
