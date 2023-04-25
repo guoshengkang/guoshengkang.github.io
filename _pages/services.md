@@ -255,13 +255,13 @@ Conferences and Journals that I May Pay Attention to
   </tr>
   <tr>
     <td align="center"><a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></td>
-    <td align="center">-</td>
+    <td align="center">C</td>
     <td align="center">1*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ieeeaccess.ieee.org">IEEE Access</a></td>
     <td align="center">-</td>
-    <td align="center">2*</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR</a></td>
@@ -311,7 +311,7 @@ Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center"><a href="https://cis.ieee.org/publications/t-emerging-topics-in-ci">IEEE TETCI</a></td>
     <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.ieeesmc.org/publications/transactions-on-smc-systems/">IEEE TSMC</a></td>
