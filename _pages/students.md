@@ -43,7 +43,7 @@ Supervised & Co-supervised Students
   - Thesis: 支持工业互联网的跨域业务流程协作机制
 - **Runbin Xie (谢润彬)**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, 2020.09-
   - Thesis: 工业互联网环境下时空感知的生产要素服务组合优化方法
-- **Linghang Ding (丁领航)**, Master Student, <font color='blue'>linghangding@gmail.com</font>, 2020.02-2022.06
+- **Linghang Ding ([丁领航](https://disanyuezhang.github.io/))**, Master Student, <font color='blue'>linghangding@gmail.com</font>, 2020.02-2022.06
   - Thesis: [融合图神经网络和因子分解机的Web服务QoS联合预测](https://pan.baidu.com/s/1PRh8HBjLDAsDNQpsBNyiqA?pwd=kang)
 - **Yong Xiao (肖勇)**, Ph.D. Student, <font color='blue'>yongx853@gmail.com</font>, 2020.02-
   - Thesis: 面向智能软件开发的服务发现关键技术研究
