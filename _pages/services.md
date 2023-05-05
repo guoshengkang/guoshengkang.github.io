@@ -61,7 +61,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">A*</td>
     <td align="center">-</td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">IJCNN - Jan 31</td>
     <td align="center">C</td>
     <td align="center">-</td>
