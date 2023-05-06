@@ -49,7 +49,7 @@ Supervised & Co-supervised Students
   - Thesis: 面向智能软件开发的服务发现关键技术研究
 
 
-Research outcomes obtained by students
+Research Outcomes Obtained by Students
 ------
 -  **Linghang Ding**, Jianxun Liu, **Guosheng Kang**, Yong Xiao, Buqing Cao. Joint QoS Prediction for Web Services based on Deep Fusion of Features. **IEEE Transactions on Network and Service Management**, 2023. DOI: 10.1109/TNSM.2023.3255253  (CCF Rank C) [PDF](https://pan.baidu.com/s/1vC9NR6LQiqdt0iiP4KNYhg?pwd=kang)
 - Jianxun Liu, **Runbin Xie**, **Guosheng Kang***, Yiping Wen. Spatial-Temporal Aware Service Composition for Production Factors under Industrial Internet. **Concurrency and Computation: Practice and Experience**, Vol. 35, No. 12, pp. 1-16, 2023. (CCF C) [PDF](https://pan.baidu.com/s/1DGzn2zUwIwfFM76CeechSA?pwd=kang)
@@ -72,7 +72,7 @@ Research outcomes obtained by students
 
 Note: fetch code is ‘kang’
 
-Awards obtained by master students
+Awards Obtained by Master Students
 ------
 - **王洋(负责人)**, **肖勇**, **周维克**, **王祯**, **梁博文**, **程航宇**, **李兴**. 基于多视图的Web服务聚类. 2023年湖南省研究生科研创新项目, 2023-2025.
 - **周维克**, **张文强**, **李兴**. 业务流程协作系统. 第一届湖南省研究生计算机创新大赛三等奖, 2022.11
@@ -85,7 +85,7 @@ Awards obtained by master students
 - **肖勇**(负责人), **龙腾**, **谢润彬**, **朱志峰**, **简巍**. 面向社交网络的关系链接预测系统. 第二届湖南省研究生人工智能创新大赛省三等奖, 2021
 - **肖勇**. 湖南科技大学2021年度研究生校长奖
 
-Awards obtained by master students
+Awards obtained by Undergraduate Students
 ------
 - **郑世君**, **戴诗海**, **毛棱**, **汤继桂**, **汤艳**. 湖南省第二届大学生化学化工虚拟仿真竞赛三等奖, 2022.7
 - **袁珍珍**(负责人), **聂艺洋**, **谢易酌**, **项佳艳**, **王琛琪**. 基于AI技术的社区化养成系桌面可视化陪伴型虚拟宠物. 2022年大学生创新训练项目, 校级, S202210534105, 2022.6-2023.5
