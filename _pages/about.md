@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2023/05/06, One paper has been accepted by Engineering Reports, congratulations to Bowen Liang.
 - 2023/03/08, One paper has been accepted by TNSM, congratulations to Linghang Ding.
 - 2023/02/25, One paper has been accepted by CCPE, congratulations to Runbin Xie.
 - 2023/02/14, One paper has been accepted by Electronics, congratulations to Jiayan Xiang.
