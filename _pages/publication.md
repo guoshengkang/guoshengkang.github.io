@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my papers on my <a href="https://scholar.google.com.hk/citations?user=dGw4VPoAAAAJ&hl=en">Google Scholar profile</a> or <a href="https://dblp.org/pers/hd/k/Kang:Guosheng">DBLP</a>, however, it may not be up to date.
 
-Journal articles
+Journal Articles
 ------
 * **Guosheng Kang**, Jianxun Liu, Yong Xiao, Yingcheng Cao, Buqing Cao, and Min Shi. Web Services Clustering via Exploring Unified Content and Structural Semantic Representation. **IEEE Transactions on Network and Service Management**, Vol. 19, No. 4, pp. 4082 - 4096, 2022. [PDF](https://pan.baidu.com/s/1EMRHb3bk1g2SOv9iBMJDtg?pwd=kang)
 * **Guosheng Kang**. Configurable Artefact-centric Business Process Modelling with Proclets. **International Journal of Business Process Integration and Management**, Vol. 10, No. 3, pp. 201-212, 2021. [PDF](https://pan.baidu.com/s/1VyEJGGtKlgMcQt2Sy1mnTQ?pwd=kang)
@@ -35,7 +35,7 @@ Journal articles
 
 [//]: # * 禹蒲阳, **康国胜**. 可信计算的研究与发展. **计算机技术与发展**, Vol. 21, No. 8, pp. 233-236, 2011.
 
-Conference papers
+Conference Papers
 ------
 
 * **Guosheng Kang**, Jianxun Liu, Buqing Cao, Manliang Cao. NAFM: Neural and Attentional Factorization Machine for Web API Recommendation. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 330-337, 2020. [PDF](https://pan.baidu.com/s/1Zvl47z8A-yui5nQ7mJYBFg)
