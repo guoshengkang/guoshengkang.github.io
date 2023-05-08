@@ -20,7 +20,8 @@ Research projects (in Chinese)
 
 Engineering projects
 ------
-* [BPMN++](https://github.com/IntelligentServiceLab/BPMN-Plus-Plus): An extended BPMN modeling tool
+* [CollaborateBPM](https://github.com/IntelligentServiceLab/CollaborateBPM): An open collaboration platform for cross-organizational business processes
+* [BPMN++](https://github.com/IntelligentServiceLab/BPMN-Plus-Plus): An extended BPMN modeling tool for Industrial Internet Application
 * [WeChat Helper](https://github.com/guoshengkang/wechat-helper): Group to send messages to the selected members of a certain WeChat group
 * [Wechat Friend Analysis](https://github.com/guoshengkang/wechat-friend-analysis): To know more about your Wechat frinds by data analysis and mining
 * [Bible Word Statistics](https://github.com/guoshengkang/Bible-Word-Statistics): To know what each book of Bible is generally talking about by statistics of keywords 
