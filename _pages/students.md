@@ -37,10 +37,10 @@ Supervised & Co-supervised Students
   - Thesis: 工业网互联网环境下面向生产要素需求的服务推荐方法
 - **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-
   - Thesis: 面向用户需求不确定场景的智能化服务推荐方法
-- **Hangyu Cheng (程航宇)**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
+- **Hangyu Cheng ([程航宇](https://hangyucheng.github.io))**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
   - Thesis: BPMN++: 基于BPMN扩展的工业互联网业务过程建模
 - **Xing Li (李兴)**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, 2020.09-
-  - Thesis: 支持工业互联网的跨域业务流程协作机制
+  - Thesis: 跨组织业务流程开放协作机制与价值优化
 - **Runbin Xie (谢润彬)**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, 2020.09-
   - Thesis: 工业互联网环境下时空感知的生产要素服务组合优化方法
 - **Linghang Ding ([丁领航](https://disanyuezhang.github.io/))**, Master Student, <font color='blue'>linghangding@gmail.com</font>, 2020.02-2022.06
