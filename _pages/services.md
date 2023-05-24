@@ -409,7 +409,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center"><a href="http://www.cims-journal.cn/CN/volumn/home.shtml">计算机集成制造系统</a></td>
+    <td align="center"><a href="http://www.cims-journal.cn/CN/1006-5911/home.shtml">计算机集成制造系统</a></td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
