@@ -55,7 +55,7 @@ Conferences and Journals that I May Pay Attention to
 ------
 <table width="100%" align="center" frame="void">
   <tr>
-    <td align="center">Type</td>
+    <td align="center"><b>Type</b></td>
     <td align="center"><b>C/J Name</b></td>
     <td align="center"><b>CCF Rank</b></td>
     <td align="center"><b>CAS Rank</b></td>
