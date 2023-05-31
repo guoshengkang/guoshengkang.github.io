@@ -78,3 +78,5 @@ Outline
     * Web-based tooling for BPMN, DMN and Forms.
 * **ChatGPT**
   * <https://bzsln.cn/chatapp/>
+* **ESODA**
+  * <http://www.esoda.org/>
