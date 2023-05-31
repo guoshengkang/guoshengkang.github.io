@@ -77,4 +77,4 @@ Outline
   * <https://bpmn.io/>
     * Web-based tooling for BPMN, DMN and Forms.
 * **ChatGPT**
-  * https://bzsln.cn/chatapp/
+  * <https://bzsln.cn/chatapp/>
