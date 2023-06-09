@@ -51,6 +51,7 @@ Supervised & Co-supervised Students
 
 Research Outcomes Obtained by Students
 ------
+- **Guosheng Kang**, **Bowen Liang**, Junhua Xu, Jianxun Liu, Yiping Wen, Yun Kang. QoS-Centric Diversified Web Service Recommendation Based on Personalized Determinantal Point Process. **Electronics**, Vol.12, No. 12, pp. 2575-2592, 2023.(SCI, JCR Rank 3) [PDF](https://www.mdpi.com/2079-9292/12/12/2575)
 - Jianxun Liu, **Runbin Xie**, **Guosheng Kang***, Yiping Wen. Spatial-Temporal Aware Service Composition for Production Factors under Industrial Internet. **Concurrency and Computation: Practice and Experience**, Vol. 35, No. 12, pp. 1-16, 2023. (CCF C) [PDF](https://pan.baidu.com/s/1DGzn2zUwIwfFM76CeechSA?pwd=kang)
 - **Jiayan Xiang**, **Guosheng Kang***, Hangyu Cheng, Jianxun Liu, Yiping Wen, Junhua Xu. Scalable and Optimal QoS-Aware Manufacturing Service Composition via Business Process Decomposition. **Electronics**, Vol. 12, No. 4, pp. 991-1008, 2023.  (SCI, JCR Rank 3) [PDF](https://www.mdpi.com/2079-9292/12/4/991)
 - **Yang Wang**, Jiayan Xiang, Hangyu Cheng, Wanjun Chen, Yong Xiao, **Guosheng Kang***. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, pp. 1716-1721, 2023.  (CCF Rank C) [PDF](https://pan.baidu.com/s/1Cgt0D59JV7t262kb9wyGCg?pwd=kang)
