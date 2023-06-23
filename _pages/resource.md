@@ -32,6 +32,7 @@ Outline
 * [High Quality Paper Writing -- Persuasive Writing with Evidence](https://pan.baidu.com/s/1RNiIGGpFXK8xf95qF7lo_g?pwd=kang), 2022, by Shui Yu from University of Technology Sydney
 * [Suggestions on Writing a Dissertation](https://pan.baidu.com/s/1JOLcxQYAf8W4cjO7nUv0ag?pwd=kang) (in Chinese), by Guosheng Kang and Yong Xiao
 * [Suggestions on Making a PPT](https://pan.baidu.com/s/1KgL-a4acl_T8-WXvTERwwQ?pwd=kang) (in Chinese), by Guosheng Kang and Linghang Ding
+* [Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
 <span id="Useful links">Useful links</span>  
 ======
