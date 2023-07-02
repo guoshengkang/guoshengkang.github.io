@@ -25,8 +25,6 @@ Contact
 * **Address**: Room 408-3, Shaw Building, South Campus, Hunan University of Science and Technology, No.2 Taoyuan Road, Xiangtan, Hunan, China (411201)
 
 <center><a href="http://www.hnust.edu.cn/"  title="HNUST"><img src="http://guoshengkang.github.io/images/HNUST-logo.png" /></a>&ensp;<a href="http://www.fudan.edu.cn"  title="FUDAN"><img src="http://guoshengkang.github.io/images/FUDAN-logo.png" /></a></center>
-&nbsp;
-<center><a href="https://clustrmaps.com/site/1at7r"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=G3R-0ZMJGUroyPesuxdgM1JhsiWFXX-6XTZTBS1DMoU&cl=ffffff" width="300"/></a></center>
 
 ------
 > "Excellence is not about what they do, but about who they are." —— Unknown  
