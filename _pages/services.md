@@ -194,7 +194,7 @@ Conferences and Journals that I May Pay Attention to
   </tr>
   <tr>
     <td align="center" rowspan="3"><b>Chinese Conferences</b></td>
-    <td align="center">CBPM - May 31</td>
+    <td align="center"><a href="http://www.cbpm.org.cn/">CBPM</a>- May 31</td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
