@@ -73,7 +73,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">IEEE ICWS - Mar 1</td>
+    <td align="center">[IEEE ICWS](http://conferences.computer.org/icws/) - Mar 1</td>
     <td align="center">B*</td>
     <td align="center">-</td>
   </tr>
