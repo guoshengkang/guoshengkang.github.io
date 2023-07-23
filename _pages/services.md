@@ -78,7 +78,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">IEEE SCC - Mar 1</td>
+    <td align="center"><a href="http://conferences.computer.org/scc/">IEEE SCC</a>- Mar 1</td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
