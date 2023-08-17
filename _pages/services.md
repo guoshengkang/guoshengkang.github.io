@@ -210,7 +210,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="32"><b>International Journals</b></td>
+    <td align="center" rowspan="33"><b>International Journals</b></td>
     <td align="center"><a href="https://www.computer.org/csdl/journal/ts">IEEE TSE</a></td>
     <td align="center">A*</td>
     <td align="center">2*</td>
@@ -368,6 +368,11 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence">IEEE TAI</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a></td>
+    <td align="center">-</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td align="center" rowspan="10"><b>Chinese Journals</b></td>
