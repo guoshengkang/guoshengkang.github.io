@@ -25,6 +25,7 @@ Reviewer
 * **Journals**
   * [IEEE TSC](https://www.computer.org/csdl/journal/sc)
   * [IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
+  * [IEEE TCE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
   * [CCPE](https://onlinelibrary.wiley.com/journal/15320634)
   * [ACM TIST](https://tist.acm.org/)
   * [SUPE](https://www.springer.com/computer/swe/journal/11227)
