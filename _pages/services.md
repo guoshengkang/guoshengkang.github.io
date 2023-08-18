@@ -340,6 +340,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">C</td>
     <td align="center">2</td>
   </tr>
+  <tr>
   <td align="center"><a href="https://www.computer.org/csdl/journal/su">IEEE TSUSC</a></td>
     <td align="center">C</td>
     <td align="center">2</td>
