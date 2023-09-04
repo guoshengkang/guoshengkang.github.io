@@ -28,7 +28,7 @@ I’m fortunate to work with the following brilliant students.
 Supervised & Co-supervised Students
 ------
 - **Weike Zhou (周维克)**, Master Student, <font color='blue'>lilvicky.0408@gmail.com</font>, 2022.09-
-  - Thesis: 基于BPMN扩展的业务流程智能协作
+  - Thesis: 面向在线教育的服务推荐方法研究
 - **Yang Wang (王洋)**, Master Student, <font color='blue'>brownyangw@gmail.com</font>, 2022.09-
   - Thesis: 面向ProgrammableWeb的服务生态系统动态演化分析
 - **Zhen Wang (王祯)**, Master Student, <font color='blue'>luckyzhen19@gmail.com</font>, 2022.09-
