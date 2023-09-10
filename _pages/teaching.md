@@ -27,6 +27,7 @@ redirect_from:
   * C Programming (2021/2022/2023 Spring)
   * Operating System (2021/2022/2023 Spring)
   * Comprehensive Practical Ability Innovation Training (2021 Fall)
+  * Production Practice (2023 Fall)
 
 \*: Xiaoxiang College
 - - -
