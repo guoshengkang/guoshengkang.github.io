@@ -14,7 +14,7 @@ redirect_from:
   * 2022, Spring (2021级智能材料1~2&材料成型1~2, 2021级电子科学1~4)
   * 2023, Spring (2022级机设1~5, 2022级建环1~3)  
 * **Foundations of Computer Science**, Undergraduate, 16'
-  * [2020, Fall (2020级计算机<sup>\*</sup>1~4&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)
+  * [2020, Fall (2020级计算机<sup>\*</sup>1~4&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)  
   * [2023, Fall (2022级重修班级]
 * [**Discrete Mathematical Structures**](http://guoshengkang.github.io/teaching/fall-discrete-mathematical-structures), Undergraduate, 72'
   * 2021, Fall (2021级大数据1~3)
