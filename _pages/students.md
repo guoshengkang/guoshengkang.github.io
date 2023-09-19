@@ -27,6 +27,12 @@ I’m fortunate to work with the following brilliant students.
 
 Supervised & Co-supervised Students
 ------
+- **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-
+  - Thesis: 面向复杂性状的多基因评分预测方法研究
+- **Jianhua Feng (封建华)**, Master Student, <font color='blue'>fengjianhua411@gmail.com</font>, 2023.09-
+  - Thesis: RESTful API服务发现方法研究
+- **Zhuo Chen (陈卓)**, Master Student, <font color='blue'></font>, 2023.09-
+  - Thesis: 
 - **Weike Zhou (周维克)**, Master Student, <font color='blue'>lilvicky.0408@gmail.com</font>, 2022.09-
   - Thesis: 面向在线教育的服务推荐方法研究
 - **Yang Wang (王洋)**, Master Student, <font color='blue'>brownyangw@gmail.com</font>, 2022.09-
