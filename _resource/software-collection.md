@@ -16,7 +16,7 @@ permalink: /resource/software-collection
 * [Microsoft .NET Framework 4.6.exe](https://pan.baidu.com/s/1ULsqVNvmLhQ4WtaGbGMPdw)
 * [Notepad++ 8.4.4](https://pan.baidu.com/s/1wZislAvf1Hi86ZqwpIhjLA)
 * [Office 2016](https://pan.baidu.com/s/1oK1jzLB4Ys6Gq2Z3YXTJXA)
-* [PDF Toolkit——PDF Shaper](https://pan.baidu.com/s/1UxSqZxELRwywmggs6XlPzw)
+* [PDF Toolkit—PDF Shaper](https://pan.baidu.com/s/1UxSqZxELRwywmggs6XlPzw)
 * [SciHub 9](https://pan.baidu.com/s/1GHd03ovdOd2HiXm6_Y9yfw?pwd=kang)
 * [Signal (Android)](https://pan.baidu.com/s/1Lb3NcUZr3dzyhrrhVeUJGA)
 * [Signal (MAC)](https://pan.baidu.com/s/1LLffB-VT2u4tl_nHvMxSqQ)
