@@ -31,5 +31,6 @@ permalink: /resource/software-collection
 * [PDF Toolkit](https://pan.baidu.com/s/1UxSqZxELRwywmggs6XlPzw)
 * [Format Factory](https://pan.baidu.com/s/1l-HI-wE5OuBROYSzbC7PKw)
 * [Notepad++ 8.4.4](https://pan.baidu.com/s/1wZislAvf1Hi86ZqwpIhjLA)
+* [iLovePDF](https://www.ilovepdf.com/)
 
 Note: fetch code is 'kang'
