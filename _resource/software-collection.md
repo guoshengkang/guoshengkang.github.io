@@ -11,7 +11,7 @@ permalink: /resource/software-collection
 * [FlashPad](https://pan.baidu.com/s/1kuPjMnPxD18DRb6y7vFSoA)
 * [Format Factory](https://pan.baidu.com/s/1l-HI-wE5OuBROYSzbC7PKw)
 * [ILovePDF](https://www.ilovepdf.com/)
-* [HEU_KMS_Activator24.6](https://pan.baidu.com/s/1opOSDswwQ8euceHEkUk3Xg?pwd=kang)(Win+Office Activator)
+* [HEU_KMS_Activator24.6 (Win+Office Activator)](https://pan.baidu.com/s/1opOSDswwQ8euceHEkUk3Xg?pwd=kang)
 * [MicroKMS_v20.09.12.exe (Office Activator)](https://pan.baidu.com/s/1BX82BN0loIEf9fCnmcgrbQ)
 * [Microsoft .NET Framework 4.6.exe](https://pan.baidu.com/s/1ULsqVNvmLhQ4WtaGbGMPdw)
 * [Notepad++ 8.4.4](https://pan.baidu.com/s/1wZislAvf1Hi86ZqwpIhjLA)
