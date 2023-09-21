@@ -43,6 +43,7 @@ Work Experience
 
 Awards
 ======
+* Endeavor Scholar of Hunan University of Science and Technology, 2022-2023
 * First prize of the award for outstanding Ph.D. students at Fudan University, 2014
 * Second prize of the award for outstanding Ph.D. students at Fudan University, 2013
 * Excellent master's thesis of Hunan province, 2013
