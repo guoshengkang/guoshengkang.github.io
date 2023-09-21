@@ -13,7 +13,7 @@ Education
 * **Ph.D., in Computing Science, [Fudan University](http://www.fudan.edu.cn)**
   * **Year**: 2020
   * **Doctoral Thesis**: Artifact-centric Business Process Modeling and Verification ([以Artifact为中心的业务流程建模及其验证](http://guoshengkang.github.io/files/DoctoralThesis.pdf)) [Slides](http://guoshengkang.github.io/files/DoctoralThesis_Slides.pdf)
-  * **Supervisor**: [Prof. Liang Zhang](http://homepage.fudan.edu.cn/lzhang/)
+  * **Supervisor**: [Prof. Liang Zhang](https://baike.baidu.com/item/%E5%BC%A0%E4%BA%AE/3205641?fr=ge_ala)
 * **M.S., in Computer Science, [Hunan University of Science and Technology](http://www.hnust.edu.cn/)**
   * **Year**: 2011
   * **Master Thesis**: Research on Global Optimal Web Service Selection Model and Algorithm ([全局优化Web服务选择模型及算法研究](http://guoshengkang.github.io/files/MasterThesis.pdf))
