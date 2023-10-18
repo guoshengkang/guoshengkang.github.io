@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [**C Programming**](http://guoshengkang.github.io/teaching/spring-c-programming), Undergraduate, 32'+24'\*0.8=51.2'
+* [**C Programming**](http://guoshengkang.github.io/teaching/spring-c-programming), Undergraduate, 32'+24'
   * 2020, Spring (2019级能化1~3&制药1~3)
   * 2021, Spring (2020级建环1~3&环境1~3)
   * 2022, Spring (2021级智能材料1~2&材料成型1~2, 2021级电子科学1~4)
@@ -22,7 +22,7 @@ redirect_from:
 * **Advanced Software Engineering**, Postgraduate, 40'
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
   * [2022, Spring (2021级研究生)](http://guoshengkang.github.io/teaching/2022-spring-advanced-software-engineering)
-* **Course Project**, Undergraduate, 32'\*0.8≈26'
+* **Course Project**, Undergraduate, 20'/40'
   * Database (2020/2022 Fall)
   * C Programming (2021/2022/2023 Spring)
   * Operating System (2021/2022/2023 Spring)
