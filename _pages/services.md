@@ -215,7 +215,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="37"><b>International Journals</b></td>
+    <td align="center" rowspan="38"><b>International Journals</b></td>
     <td align="center"><a href="https://www.computer.org/csdl/journal/ts">IEEE TSE</a></td>
     <td align="center">A*</td>
     <td align="center">2*</td>
@@ -284,6 +284,11 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="http://www.cic-chinacommunications.cn/EN/volumn/home.shtml">China Communications</a></td>
     <td align="center">-</td>
     <td align="center">4</td> 
+  </tr>
+  <tr>
+    <td align="center"><a href="http://hcisj.com/">HCIS</a></td>
+    <td align="center">-</td>
+    <td align="center">1*</td> 
   </tr>
   <tr>
     <td align="center"><a href="https://ieee-iotj.org/">IEEE IoT-J</a></td>
