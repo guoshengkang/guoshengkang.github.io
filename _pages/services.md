@@ -216,11 +216,6 @@ Conferences and Journals that I May Pay Attention to
   </tr>
   <tr>
     <td align="center" rowspan="38"><b>International Journals</b></td>
-    <td align="center"><a href="https://www.computer.org/csdl/journal/ts">IEEE TSE</a></td>
-    <td align="center">A*</td>
-    <td align="center">2*</td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
@@ -234,6 +229,11 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://www.springer.com/journal/10489">APIN</a></td>
     <td align="center">C</td>
     <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.mdpi.com/journal/applsci#">Applied Sciences</a></td>
+    <td align="center">-</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td align="center"><a href="https://onlinelibrary.wiley.com/journal/15320634">CCPE</a></td>
@@ -256,6 +256,11 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">1</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://www.mdpi.com/journal/electronics">Electronics</a></td>
+    <td align="center">-</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">FGCS</a></td>
     <td align="center">C</td>
     <td align="center">2*</td>
@@ -264,6 +269,11 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="http://hcisj.com/">HCIS</a></td>
     <td align="center">-</td>
     <td align="center">1*</td> 
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.computer.org/csdl/journal/ts">IEEE TSE</a></td>
+    <td align="center">A*</td>
+    <td align="center">2*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.computer.org/csdl/journal/tm">IEEE TMC</a></td>
@@ -301,13 +311,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">B*</td>
     <td align="center">2*</td>
   </tr>
-
-
   <tr>
-    <td align="center"><a href="https://www.springer.com/journal/11761">SOCA</a></td>
-    <td align="center">C</td>
-    <td align="center">-</td>
-  </tr>
   <tr>
     <td align="center"><a href="https://www.hindawi.com/journals/wcmc/">WCMC</a></td>
     <td align="center">C</td>
@@ -349,16 +353,6 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">1*</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.mdpi.com/journal/electronics">Electronics</a></td>
-    <td align="center">-</td>
-    <td align="center">3</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.mdpi.com/journal/applsci#">Applied Sciences</a></td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnse">IEEE TNSE</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -367,11 +361,6 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://ieee-itss.org/pub/t-its/">IEEE T-ITS</a></td>
     <td align="center">B*</td>
     <td align="center">2*</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.inderscience.com/jhome.php?jcode=ijwgs">IJWGS</a></td>
-    <td align="center">-</td>
-    <td align="center">4</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE TCSS</a></td>
@@ -402,6 +391,15 @@ Conferences and Journals that I May Pay Attention to
   <td align="center"><a href="https://www.computer.org/csdl/journal/su">IEEE TSUSC</a></td>
     <td align="center">C</td>
     <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.inderscience.com/jhome.php?jcode=ijwgs">IJWGS</a></td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+  </tr>
+  <td align="center"><a href="https://www.springer.com/journal/11761">SOCA</a></td>
+    <td align="center">C</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.springer.com/journal/11280">WWWJ</a></td>
