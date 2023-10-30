@@ -300,23 +300,6 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
     <td align="center">3</td>
   </tr>
-
-  <tr>
-    <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR</a></td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a></td>
-    <td align="center">B*</td>
-    <td align="center">2*</td>
-  </tr>
-  <tr>
-  <tr>
-    <td align="center"><a href="https://www.hindawi.com/journals/wcmc/">WCMC</a></td>
-    <td align="center">C</td>
-    <td align="center">3</td>
-  </tr>
   <tr>
     <td align="center"><a href="https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence">IEEE TAI</a></td>
     <td align="center">-</td>
@@ -393,10 +376,21 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR</a></td>
+    <td align="center">-</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.inderscience.com/jhome.php?jcode=ijwgs">IJWGS</a></td>
     <td align="center">-</td>
     <td align="center">4</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a></td>
+    <td align="center">B*</td>
+    <td align="center">2*</td>
+  </tr>
+  <tr>
   <td align="center"><a href="https://www.springer.com/journal/11761">SOCA</a></td>
     <td align="center">C</td>
     <td align="center">-</td>
@@ -405,6 +399,11 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://www.springer.com/journal/11280">WWWJ</a></td>
     <td align="center">B*</td>
     <td align="center">4</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.hindawi.com/journals/wcmc/">WCMC</a></td>
+    <td align="center">C</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td align="center" rowspan="10"><b>Chinese Journals</b></td>
