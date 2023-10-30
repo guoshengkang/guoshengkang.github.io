@@ -221,6 +221,51 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2*</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
+    <td align="center">B*</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dl.acm.org/journal/tist">ACM TIST</a></td>
+    <td align="center">C</td>
+    <td align="center">2*</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.springer.com/journal/10489">APIN</a></td>
+    <td align="center">C</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://onlinelibrary.wiley.com/journal/15320634">CCPE</a></td>
+    <td align="center">C</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.cic-chinacommunications.cn/EN/volumn/home.shtml">China Communications</a></td>
+    <td align="center">-</td>
+    <td align="center">4</td> 
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks">DCN</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a></td>
+    <td align="center">C</td>
+    <td align="center">1</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">FGCS</a></td>
+    <td align="center">C</td>
+    <td align="center">2*</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://hcisj.com/">HCIS</a></td>
+    <td align="center">-</td>
+    <td align="center">1*</td> 
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.computer.org/csdl/journal/tm">IEEE TMC</a></td>
     <td align="center">A*</td>
     <td align="center">2*</td>
@@ -230,40 +275,10 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">A*</td>
     <td align="center">2*</td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a></td>
-    <td align="center">B*</td>
-    <td align="center">2*</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
-    <td align="center">B*</td>
-    <td align="center">3</td>
-  </tr>
-  <tr>
+    <tr>
     <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnsm">IEEE TNSM</a></td>
     <td align="center">C</td>
     <td align="center">2*</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.springer.com/journal/11761">SOCA</a></td>
-    <td align="center">C</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">FGCS</a></td>
-    <td align="center">C</td>
-    <td align="center">2*</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://onlinelibrary.wiley.com/journal/15320634">CCPE</a></td>
-    <td align="center">C</td>
-    <td align="center">4</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.hindawi.com/journals/wcmc/">WCMC</a></td>
-    <td align="center">C</td>
-    <td align="center">3</td>
   </tr>
   <tr>
     <td align="center"><a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></td>
@@ -275,20 +290,58 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
     <td align="center">3</td>
   </tr>
+
   <tr>
     <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR</a></td>
     <td align="center">-</td>
     <td align="center">4</td>
   </tr>
   <tr>
-    <td align="center"><a href="http://www.cic-chinacommunications.cn/EN/volumn/home.shtml">China Communications</a></td>
+    <td align="center"><a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a></td>
+    <td align="center">B*</td>
+    <td align="center">2*</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"><a href="https://www.springer.com/journal/11761">SOCA</a></td>
+    <td align="center">C</td>
     <td align="center">-</td>
-    <td align="center">4</td> 
   </tr>
   <tr>
-    <td align="center"><a href="http://hcisj.com/">HCIS</a></td>
+    <td align="center"><a href="https://www.hindawi.com/journals/wcmc/">WCMC</a></td>
+    <td align="center">C</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence">IEEE TAI</a></td>
     <td align="center">-</td>
-    <td align="center">1*</td> 
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a></td>
+    <td align="center">-</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tmlcn">IEEE TMLCN</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076">IEEE TLT</a></td>
+    <td align="center">-</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13">IEEE TE</a></td>
+    <td align="center">-</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="IEEE Transactions on Neural Networks and Learning Systems">IEEE TNNLS</a></td>
+    <td align="center">-</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ieee-iotj.org/">IEEE IoT-J</a></td>
@@ -316,9 +369,9 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2*</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://dl.acm.org/journal/tist">ACM TIST</a></td>
-    <td align="center">C</td>
-    <td align="center">2*</td>
+    <td align="center"><a href="https://www.inderscience.com/jhome.php?jcode=ijwgs">IJWGS</a></td>
+    <td align="center">-</td>
+    <td align="center">4</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE TCSS</a></td>
@@ -351,59 +404,9 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks">DCN</a></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://www.springer.com/journal/11280">WWWJ</a></td>
     <td align="center">B*</td>
     <td align="center">4</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.inderscience.com/jhome.php?jcode=ijwgs">IJWGS</a></td>
-    <td align="center">-</td>
-    <td align="center">4</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.springer.com/journal/10489">APIN</a></td>
-    <td align="center">C</td>
-    <td align="center">3</td>
-  </tr>
-   <tr>
-    <td align="center"><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a></td>
-    <td align="center">C</td>
-    <td align="center">1</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence">IEEE TAI</a></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30">IEEE TCE</a></td>
-    <td align="center">-</td>
-    <td align="center">2</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tmlcn">IEEE TMLCN</a></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076">IEEE TLT</a></td>
-    <td align="center">-</td>
-    <td align="center">2</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13">IEEE TE</a></td>
-    <td align="center">-</td>
-    <td align="center">3</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="IEEE Transactions on Neural Networks and Learning Systems">IEEE TNNLS</a></td>
-    <td align="center">-</td>
-    <td align="center">1</td>
   </tr>
   <tr>
     <td align="center" rowspan="10"><b>Chinese Journals</b></td>
