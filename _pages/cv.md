@@ -23,7 +23,7 @@ Education
   * **Senior Thesis**: To Solve the Discrete Format of a Type of Elliptic Differential Equations ([一类椭圆型偏微分方程离散格式的求解](http://guoshengkang.github.io/files/SeniorThesis.pdf))
   * **Supervisor**: [Min Tang](http://math.hnust.edu.cn/pub/sxxy/szdw/jsjs/105553.htm)
 
-Work Experience
+Working Experience
 ======
 * 2020.2-Now: Lecturer
   * School of Coputer Science and Engineering at Hunan University of Science and Technology
