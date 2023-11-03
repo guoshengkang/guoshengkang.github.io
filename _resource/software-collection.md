@@ -4,6 +4,7 @@ collection: resource
 permalink: /resource/software-collection
 ---
 * [Clover (WIN)](https://pan.baidu.com/s/1CqVd2JLbECoFH_3UiNyxPw)
+* [CareUEyes](https://pan.baidu.com/s/1io28HDZK8bMtb-KgU7OXAg)  
 * [Draw.io-13.3.9-windows-installer](https://pan.baidu.com/s/1SoGCHMEdU7YHLX13XbG0vA)
 * [EVCapture_4.1.7](https://pan.baidu.com/s/1-lfw9hUgvXmxaldynDuo0g)
 * [Endnote X9](https://pan.baidu.com/s/1rXHrNLKQRERX6Gmv1UmeSw)
