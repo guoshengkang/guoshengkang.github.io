@@ -10,6 +10,7 @@ permalink: /resource/software-collection
 * [Enigma (all versions)](https://eg.im/download)
 * [FlashPad](https://pan.baidu.com/s/1kuPjMnPxD18DRb6y7vFSoA)
 * [Format Factory](https://pan.baidu.com/s/1l-HI-wE5OuBROYSzbC7PKw)
+* [Freeplane](https://pan.baidu.com/s/18Xfa9NMj37XoGNNu3eRjdw?pwd=kang)
 * [ILovePDF](https://www.ilovepdf.com/)
 * [HEU_KMS_Activator24.6 (Win+Office Activator)](https://pan.baidu.com/s/1opOSDswwQ8euceHEkUk3Xg?pwd=kang)
 * [MicroKMS_v20.09.12.exe (Office Activator)](https://pan.baidu.com/s/1BX82BN0loIEf9fCnmcgrbQ)
