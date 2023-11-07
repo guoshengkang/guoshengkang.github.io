@@ -184,7 +184,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">CSCWD - Oct 31</td>
+    <td align="center"><a href="http://2024.cscwd.org/">CSCWD</a> - Oct 31</td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
