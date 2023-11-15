@@ -60,6 +60,10 @@ Outline
       * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
   * **ESODA**
     * <http://www.esoda.org/>
+      * Collocations 
+  * **WikiDiff**
+    * <https://wikidiff.com/>
+      * Synonym discrimination
 * **Online LaTeX Editor**
   * <https://www.overleaf.com/>
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
