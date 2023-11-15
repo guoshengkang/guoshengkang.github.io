@@ -54,9 +54,12 @@ Outline
 * **Elsevier JournalFinder**
   * <https://journalfinder.elsevier.com/>
     * Enter title and abstract of your paper to easily find Elsevier journals that could be best suited for publishing.
-* **Grammarly**
-  * <https://www.grammarly.com/>
-    * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
+* **Writing**
+  * **Grammarly**
+    * <https://www.grammarly.com/>
+      * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
+  * **ESODA**
+    * <http://www.esoda.org/>
 * **Online LaTeX Editor**
   * <https://www.overleaf.com/>
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
@@ -80,8 +83,6 @@ Outline
     * Web-based tooling for BPMN, DMN and Forms.
 * **ChatGPT**
   * <https://bzsln.cn/chatapp/>
-* **ESODA**
-  * <http://www.esoda.org/>
 * **Distill**
   * <https://distill.pub/>
     * Machine learning research should be clear, dynamic and vivid. Distill is here to help.
