@@ -66,6 +66,8 @@ Outline
       * Synonym discrimination
   * **Academic Phrasebank**
     * <https://www.phrasebank.manchester.ac.uk/>
+  * **DeepL**
+    * <https://www.deepl.com/>
 * **Online LaTeX Editor**
   * <https://www.overleaf.com/>
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
