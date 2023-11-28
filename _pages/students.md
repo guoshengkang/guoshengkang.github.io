@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<font color='red'>Welcome hardworking students (MS students, undergraduate students) to join our team——<a href="https://intelligentservicelab.github.io">Intelligent Service Lab</a>. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.</font>
+<font color='red'>Welcome hardworking students (MS students, undergraduate students) to join our team——<a href="https://intelligentservicelab.github.io">iServiceLab</a>. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.</font>
 
 My recent research interests include (but not limited to)  the following topics:  
 - Service Network Representation
