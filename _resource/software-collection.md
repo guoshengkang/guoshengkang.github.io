@@ -25,6 +25,7 @@ permalink: /resource/software-collection
 * [Signal (MAC)](https://pan.baidu.com/s/1LLffB-VT2u4tl_nHvMxSqQ)
 * [Signal (WIN)](https://pan.baidu.com/s/1b_qnt7tVQYDLSb1VrYORQw)
 * [Signal (iPhone)](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
+* [ShareX](https://pan.baidu.com/s/1eMTK81wigg0KcVij_WCt6g?pwd=kang)
 * [Texmaker 5.1.2](https://pan.baidu.com/s/1V1pYDfJGAxceG2UEzcdx3w)
 * [Typora (WIN & MAC)](https://pan.baidu.com/s/14iZiv4YMg5dSz2tcx7wfsA)
 * [Visio 2016](https://pan.baidu.com/s/1ZNlo6SD09g9Ko0JY7EFXmg)
