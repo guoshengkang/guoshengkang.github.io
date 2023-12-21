@@ -9,7 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal Articles
 ------
-* **Guosheng Kang**, Linghang Ding, Jianxun Liu, Buqing Cao, and Yu Xu. Web API Recommendation based on Self-Attentional Neural Factorization Machines with Domain Interactions. **IEEE Transactions on Network Science and Engineering**, Vol. 10, No. 6, pp. 3953 - 3963, 2023.
+* **Guosheng Kang**, Linghang Ding, Jianxun Liu, Buqing Cao, and Yu Xu. Web API Recommendation based on Self-Attentional Neural Factorization Machines with Domain Interactions. **IEEE Transactions on Network Science and Engineering**, Vol. 10, No. 6, pp. 3953 - 3963, 2023. [PDF](https://pan.baidu.com/s/1yrk-Pyn3pSlB9zfXv7-Q5g?pwd=kang)
 * **Guosheng Kang**, Jianxun Liu, Yong Xiao, Yingcheng Cao, Buqing Cao, and Min Shi. Web Services Clustering via Exploring Unified Content and Structural Semantic Representation. **IEEE Transactions on Network and Service Management**, Vol. 19, No. 4, pp. 4082 - 4096, 2022. [PDF](https://pan.baidu.com/s/1EMRHb3bk1g2SOv9iBMJDtg?pwd=kang)
 * **Guosheng Kang**. Configurable Artefact-centric Business Process Modelling with Proclets. **International Journal of Business Process Integration and Management**, Vol. 10, No. 3, pp. 201-212, 2021. [PDF](https://pan.baidu.com/s/1VyEJGGtKlgMcQt2Sy1mnTQ?pwd=kang)
 * **Guosheng Kang**, Jianxun Liu, Yong Xiao, Buqing Cao, Yu Xu, Manliang Cao. Neural and Attentional Factorization Machine based Web API Recommendation for Mashup Development. **IEEE Transactions on Network and Service Management**, Vol. 18, No. 4, pp. 4183-4196, 2021. [PDF](https://pan.baidu.com/s/1eyZSWq0-dBU6rfyIx52WhQ)
