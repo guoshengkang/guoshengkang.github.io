@@ -217,7 +217,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="38"><b>International Journals</b></td>
+    <td align="center" rowspan="40"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
@@ -233,9 +233,14 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">3</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.mdpi.com/journal/applsci#">Applied Sciences</a></td>
+    <td align="center"><a href="https://www.mdpi.com/journal/applsci#">Applied Sciences (OA)</a></td>
     <td align="center">-</td>
     <td align="center">4</td>
+  </tr>
+  <tr>
+  <td align="center"><a href="https://www.sciopen.com/journal/2096-0654">BDMA (OA)</a></td>
+    <td align="center">-</td>
+    <td align="center">1*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://onlinelibrary.wiley.com/journal/15320634">CCPE</a></td>
@@ -243,12 +248,12 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">4</td>
   </tr>
   <tr>
-    <td align="center"><a href="http://www.cic-chinacommunications.cn/EN/volumn/home.shtml">China Communications</a></td>
+    <td align="center"><a href="http://www.cic-chinacommunications.cn/EN/home">China Communications</a></td>
     <td align="center">-</td>
     <td align="center">4</td> 
   </tr>
   <tr>
-    <td align="center"><a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks">DCN</a></td>
+    <td align="center"><a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks">DCN (OA)</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
@@ -258,7 +263,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">1</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.mdpi.com/journal/electronics">Electronics</a></td>
+    <td align="center"><a href="https://www.mdpi.com/journal/electronics">Electronics (OA)</a></td>
     <td align="center">-</td>
     <td align="center">3</td>
   </tr>
@@ -268,7 +273,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2*</td>
   </tr>
   <tr>
-    <td align="center"><a href="http://hcisj.com/">HCIS</a></td>
+    <td align="center"><a href="http://hcisj.com/">HCIS (OA)</a></td>
     <td align="center">-</td>
     <td align="center">1*</td> 
   </tr>
@@ -378,7 +383,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR</a></td>
+    <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR (OA)</a></td>
     <td align="center">-</td>
     <td align="center">4</td>
   </tr>
@@ -396,6 +401,11 @@ Conferences and Journals that I May Pay Attention to
   <td align="center"><a href="https://www.springer.com/journal/11761">SOCA</a></td>
     <td align="center">C</td>
     <td align="center">-</td>
+  </tr>
+  <tr>
+  <td align="center"><a href="https://www.sciopen.com/journal/1007-0214">TST (OA)</a></td>
+    <td align="center">-</td>
+    <td align="center">1*</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.springer.com/journal/11280">WWWJ</a></td>
