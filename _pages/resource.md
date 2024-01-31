@@ -38,37 +38,28 @@ Outline
 <span id="Useful links">Useful links</span>  
 ======
 * **Searching**
-  * **Google Mirror**
-    * <http://ac.scmor.com>
+  * **[Google Mirror](http://ac.scmor.com)**
     * Other back-ups
       * <http://so.hiqq.com.cn/>
       * <https://xs.glgooo.top/>
       * <https://f.glgooo.top/>
       * <https://c.beijingbang.top>
-  * **Academic House**
-    * <http://sci.xueshuwu.cn>
-  * **Semantic Scholar**
-    * <https://www.semanticscholar.org>
-  * **SCI-HUB**
-    * <https://tool.yovisun.com/scihub/>
-      * Sci.Hub is a site to download reference papers and journal articles for free. Just paste the DOI of the journal article you want, and ScienceHub will fetch the PDF for you for free.
-  * **Elsevier JournalFinder**
-    * <https://journalfinder.elsevier.com/>
-      * Enter title and abstract of your paper to easily find Elsevier journals that could be best suited for publishing.
+  * **[Academic House](http://sci.xueshuwu.cn)**
+  * **[Semantic Scholar](https://www.semanticscholar.org)**
+  * **[SCI-HUB](https://tool.yovisun.com/scihub/)**
+    * Sci.Hub is a site to download reference papers and journal articles for free. Just paste the DOI of the journal article you want, and ScienceHub will fetch the PDF for you for free.
+  * **[Elsevier JournalFinder](https://journalfinder.elsevier.com/)**
+    * Enter title and abstract of your paper to easily find Elsevier journals that could be best suited for publishing.
 * **Writing**
-  * **Grammarly**
-    * <https://www.grammarly.com/>
-      * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
-  * **ESODA**
-    * <http://www.esoda.org/>
-      * Collocations 
-  * **WikiDiff**
-    * <https://wikidiff.com/>
-      * Synonym discrimination
-  * **Academic Phrasebank**
-    * <https://www.phrasebank.manchester.ac.uk/>
-  * **DeepL**
-    * <https://www.deepl.com/>
+  * **[Grammarly](https://www.grammarly.com/)**
+    * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
+  * **[ESODA](http://www.esoda.org/)**
+    * Collocations 
+  * **[WikiDiff](https://wikidiff.com/)**
+    * Synonym discrimination
+  * **[Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)**
+  * **[DeepL](https://www.deepl.com/)**
+  * **[IEEE Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)**
 * **Latex**
   * **Online LaTeX Editor**
     * <https://www.overleaf.com/>
