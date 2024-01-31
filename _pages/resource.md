@@ -1,4 +1,4 @@
----
+![image](https://github.com/guoshengkang/guoshengkang.github.io/assets/18052080/4355d9ed-e141-4cbf-b4fb-39e0b4f2c90f)![image](https://github.com/guoshengkang/guoshengkang.github.io/assets/18052080/447cf712-2767-4eb7-a466-03d428454021)---
 layout: archive
 permalink: /resource/
 author_profile: true
@@ -38,6 +38,8 @@ Outline
 <span id="Useful links">Useful links</span>  
 ======
 * **Searching**
+  * **[AMiner](https://www.aminer.cn)**
+  * ****
   * **[Google Mirror](http://ac.scmor.com)**
     * Other back-ups
       * <http://so.hiqq.com.cn/>
