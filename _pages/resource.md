@@ -67,29 +67,21 @@ Outline
   * **Online Latex Formula Editor**
     * <https://www.latexlive.com/home>
 * **Drawing**
-  * **Draw.io - Diagrams.net**
-    * <https://draw.io> or <https://www.diagrams.net/>
-      * diagrams.net is free online diagram software (compatible with Latex) for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+  * **[Draw.io](https://draw.io) - [Diagrams.net](https://www.diagrams.net/)**
+    * diagrams.net is free online diagram software (compatible with Latex) for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
       * <https://app.diagrams.net/?mode=github>, open files form github repository
-  * **ColorDrop**
-    * <https://colordrop.io/>
-      * Thousands of curated colors, palettes for use in your products.
-  * **BPMN.IO**
-    * <https://bpmn.io/>
-      * Web-based tooling for BPMN, DMN and Forms.
-  * **RemoveBG**
-    * <https://www.remove.bg/>
-      * Remove image background.
+  * **[ColorDrop](https://colordrop.io/)**
+    * Thousands of curated colors, palettes for use in your products.
+  * **[BPMN.IO](https://bpmn.io/)**
+    * Web-based tooling for BPMN, DMN and Forms.
+  * **[RemoveBG](https://www.remove.bg/)**
+    * Remove image background.
 * **Downloading**
-  * **Y2mate**
-    * <https://www.y2mate.com>
-      * Y2mate allows you to convert & download video from YouTube, Facebook, Video, Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality.
-  * **Z-Library**
-    * <https://b-ok.cc/> or <https://1lib.limited> (new) or <https://singlelogin.org> (login first)
-      * Part of Z-Library project. The world's largest free ebook library.
+  * **[Y2mate](https://www.y2mate.com)**
+    * Y2mate allows you to convert & download video from YouTube, Facebook, Video, Dailymotion, Youku, etc. to Mp3, Mp4 in HD quality.
+  * **[Z-Library](https://z-lib.id/)**
+    * Part of Z-Library project. The world's largest free ebook library.
 * **Others**
-  * **ChatGPT**
-    * <https://bzsln.cn/chatapp/>
-  * **Distill**
-    * <https://distill.pub/>
-      * Machine learning research should be clear, dynamic and vivid. Distill is here to help.
+  * **[ChatGPT](https://bzsln.cn/chatapp/)**
+  * **[Distill](https://distill.pub/)**
+    * Machine learning research should be clear, dynamic and vivid. Distill is here to help.
