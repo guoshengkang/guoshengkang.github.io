@@ -28,6 +28,7 @@ Reviewer
   * [IEEE TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
   * [IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
   * [IEEE TCE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
+  * [ACM TORS](https://dl.acm.org/journal/tors)
   * [CCPE](https://onlinelibrary.wiley.com/journal/15320634)
   * [ACM TIST](https://tist.acm.org/)
   * [SUPE](https://www.springer.com/computer/swe/journal/11227)
