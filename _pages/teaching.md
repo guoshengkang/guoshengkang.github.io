@@ -12,7 +12,8 @@ redirect_from:
   * 2020, Spring (2019级能化1~3&制药1~3)
   * 2021, Spring (2020级建环1~3&环境1~3)
   * 2022, Spring (2021级智能材料1~2&材料成型1~2, 2021级电子科学1~4)
-  * 2023, Spring (2022级机设1~5, 2022级建环1~3)  
+  * 2023, Spring (2022级机设1~5, 2022级建环1~3)
+  * 2024, Spring (2023级建环1~3)
 * **Foundations of Computer Science**, Undergraduate, 16'
   * [2020, Fall (2020级计算机01~04&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)  
   * 2023, Fall (2022级重修班级, 2023级计科01~02班)
@@ -24,7 +25,7 @@ redirect_from:
   * [2022, Spring (2021级研究生)](http://guoshengkang.github.io/teaching/2022-spring-advanced-software-engineering)
 * **Course Project**, Undergraduate, 20'/40'
   * Database (2020/2022 Fall)
-  * C Programming (2021/2022/2023 Spring)
+  * C Programming (2021/2022/2023/2024 Spring)
   * Operating System (2021/2022/2023 Spring)
   * Comprehensive Practical Ability Innovation Training (2021 Fall)
   * Production Practice (2023 Fall)
