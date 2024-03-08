@@ -31,6 +31,7 @@ Reviewer
   * [IEEE TCE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
   * [ACM TORS](https://dl.acm.org/journal/tors)
   * [ACM TIST](https://tist.acm.org/)
+  * [ACM TKDD](https://dl.acm.org/journal/tkdd)
   * [CCPE](https://onlinelibrary.wiley.com/journal/15320634)
   * [SUPE](https://www.springer.com/computer/swe/journal/11227)
   * [JDSN](https://journals.sagepub.com/home/dsn)
