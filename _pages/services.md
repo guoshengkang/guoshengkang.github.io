@@ -33,21 +33,23 @@ Reviewer
   * [ACM TIST](https://tist.acm.org/)
   * [ACM TKDD](https://dl.acm.org/journal/tkdd)
   * [CCPE](https://onlinelibrary.wiley.com/journal/15320634)
-  * [SUPE](https://www.springer.com/computer/swe/journal/11227)
   * [JDSN](https://journals.sagepub.com/home/dsn)
   * [SWEVO](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)
   * [STVR](https://onlinelibrary.wiley.com/journal/10991689)
+  * [SUPE](https://www.springer.com/computer/swe/journal/11227)
   * [JISYS](https://onlinelibrary.wiley.com/journal/1098111x)
   * [IET Software](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4124007)
-  * [EXSY](https://onlinelibrary.wiley.com/journal/14680394)
   * [IEEE ACCESS](https://ieeeaccess.ieee.org)
+  * [IJCS](https://onlinelibrary.wiley.com/journal/10991131)
   * [CCOS](https://www.tandfonline.com/toc/ccos20/current)
   * [COIN](https://onlinelibrary.wiley.com/journal/14678640)
+  * [NILE](https://www.tandfonline.com/toc/nile20/current)
   * [Processes](https://www.mdpi.com/journal/processes)
   * [Applied Sciences](https://www.mdpi.com/journal/applsci)
   * [Electronics](https://www.mdpi.com/journal/electronics)
   * [Expert Systems](https://onlinelibrary.wiley.com/journal/14680394)
-  * [IJCS](https://onlinelibrary.wiley.com/journal/10991131)
+  * [EXSY](https://onlinelibrary.wiley.com/journal/14680394)
+
 * **Conferences**
   * BPM
   * APBPM
