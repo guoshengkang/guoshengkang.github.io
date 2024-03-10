@@ -62,6 +62,7 @@ Outline
   * **[DeepL](https://www.deepl.com/)**
   * **[IEEE Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)**
   * **[IEEE Conference Templates](https://www.ieee.org/conferences/publishing/templates.html)**
+  * **[Citexs](https://www.citexs.com/)**
 * **Latex**
   * **[OverLeaf: Online LaTeX Editor](https://www.overleaf.com/)**
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
