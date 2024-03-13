@@ -223,7 +223,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="42"><b>International Journals</b></td>
+    <td align="center" rowspan="43"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
@@ -242,6 +242,11 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><a href="https://dl.acm.org/journal/tkdd">ACM TKDD</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dl.acm.org/journal/tmis">ACM TMIS</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.springer.com/journal/10489">APIN</a></td>
