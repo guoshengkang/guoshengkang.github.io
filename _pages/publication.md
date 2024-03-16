@@ -9,6 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal Articles
 ------
+* **Guosheng Kang**, **Hangyu Cheng**\*, Jianxun Liu*, Yiping Wen, Buqing Cao, Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. **IEEE Transactions on Automation Science and Engineering**, 2024. DOI: 10.1109/TASE.2024.3354929
 * **Guosheng Kang**, Linghang Ding, Jianxun Liu, Buqing Cao, and Yu Xu. Web API Recommendation based on Self-Attentional Neural Factorization Machines with Domain Interactions. **IEEE Transactions on Network Science and Engineering**, Vol. 10, No. 6, pp. 3953 - 3963, 2023. [PDF](https://pan.baidu.com/s/1yrk-Pyn3pSlB9zfXv7-Q5g?pwd=kang)
 * **Guosheng Kang**, **Bowen Liang**, Linghang Ding*, Jianxun Liu, Buqing Cao, Yun Kang. QoS-Aware Web Service Recommendation via Exploring Users' Personalized Diversity Preferences. **Engineering Reports**, Vol. 6, No. 1, pp. 1-16, 2024. [PDF](https://onlinelibrary.wiley.com/doi/10.1002/eng2.12695)
 * **Guosheng Kang**, **Bowen Liang**, Junhua Xu*, Jianxun Liu, Yiping Wen, Yun Kang. QoS-Centric Diversified Web Service Recommendation Based on Personalized Determinantal Point Process. **Electronics**, Vol.12, No. 12, pp. 2575-2592, 2023.(SCI, JCR Rank 3) [PDF](https://www.mdpi.com/2079-9292/12/12/2575)
@@ -48,6 +49,9 @@ Journal Articles
 
 Conference Papers
 ------
+* **Weike Zhou**, **Xiaokang Zhou**, Jing He, Yamei Nie, Qiqi Chen, **Guosheng Kang***. Online Course Recommendation by Exploring User Interaction and Course Description. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, Accepted, 2024. 
+- **Lihong Zhang**, Jing He, Yamei Nie, Xiaokang Zhou, Qiqi Chen, **Guosheng Kang***. JMF-SS: Joint Matrix Factorization for Web API Recommendation with Mashup-Mashup Similarities and API-API Similarities. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, Accepted, 2024. 
+* **Wanjun Chen**, QiqiChen, Jiexun Shen, **Guosheng Kang***, Jianxun Liu, Buqing Cao, Lihong Zhang. Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, Accepted, 2024. 
 * **Yang Wang**, Zhenzhen Yuan, **Guosheng Kang***, Jianxun Liu, Buqing Cao, Yong Xiao. Graph-based Multi-view Clustering for Web services. International Symposium on Parallel and Distributed Processing with Applications. IEEE Computer Society, 2023.  (CCF Rank C)
 * **Yang Wang**, Jiayan Xiang, Hangyu Cheng, Wanjun Chen, Yong Xiao, **Guosheng Kang***. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, pp. 1716-1721, 2023.  (CCF Rank C) [PDF](https://pan.baidu.com/s/1Cgt0D59JV7t262kb9wyGCg?pwd=kang)
 * **Jiayan Xiang**, Wanjun Chen, Yang Wang, Bowen Liang, Zihao Liu, **Guosheng Kang***. Interactive Web API Recommendation for Mashup Development based on Light Neural Graph Collaborative Filtering. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, pp. 1926-1931, 2023.  (CCF Rank C) [PDF](https://pan.baidu.com/s/1P786Pj5IuhK_eDe7B6E3sQ?pwd=kang)
