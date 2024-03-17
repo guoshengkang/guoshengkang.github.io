@@ -28,7 +28,7 @@ I’m fortunate to work with the following brilliant students.
 Supervised & Co-supervised Students
 ------
 - **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-
-  - Thesis: 面向复杂性状的多基因评分预测方法研究
+  - Thesis: 基于对比学习和多任务学习的服务推荐方法研究
 - **Jianhua Feng (封建华)**, Master Student, <font color='blue'>fengjianhua411@gmail.com</font>, 2023.09-
   - Thesis: RESTful API服务发现方法研究
 - **Zhuo Chen (陈卓)**, Master Student, <font color='blue'>cz2424895@gmail.com</font>, 2023.09-
@@ -44,7 +44,7 @@ Supervised & Co-supervised Students
 - **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-
   - Thesis: 面向用户需求不确定场景的智能化服务推荐方法
 - **Hangyu Cheng ([程航宇](https://hangyucheng.github.io))**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
-  - Thesis: BPMN++: 基于BPMN扩展的工业互联网业务过程建模
+  - Thesis: 基于BPMN扩展的业务过程建模
 - **Xing Li (李兴)**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, 2020.09-2023.06
   - Thesis: 跨组织业务流程开放协作建模与推荐方法研究
 - **Runbin Xie (谢润彬)**, Master Student, <font color='blue'>robbiexiee@gmail.com</font>, 2020.09-2023.06
