@@ -27,7 +27,7 @@ redirect_from:
   * Database (2020/2022 Fall)
   * C Programming (2021/2022/2023/2024 Spring)
   * Operating System (2021/2022/2023 Spring)
-  * Comprehensive Practical Ability Innovation Training (2021 Fall)
+  * Comprehensive Practical Ability Innovation Training (2021 Fall, 2024 Spring)
   * Production Practice (2023 Fall)
 
 - - -
