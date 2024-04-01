@@ -9,7 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal Articles
 ------
-* **Guosheng Kang**, **Hangyu Cheng**\*, Jianxun Liu*, Yiping Wen, Buqing Cao, Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. **IEEE Transactions on Automation Science and Engineering**, 2024. DOI: 10.1109/TASE.2024.3354929
+* **Guosheng Kang**, **Hangyu Cheng**\*, Jianxun Liu*, Yiping Wen, Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. **IEEE Transactions on Automation Science and Engineering**, 2024. DOI: 10.1109/TASE.2024.3354929
 * **Guosheng Kang**, Linghang Ding, Jianxun Liu, Buqing Cao, and Yu Xu. Web API Recommendation based on Self-Attentional Neural Factorization Machines with Domain Interactions. **IEEE Transactions on Network Science and Engineering**, Vol. 10, No. 6, pp. 3953 - 3963, 2023. [PDF](https://pan.baidu.com/s/1yrk-Pyn3pSlB9zfXv7-Q5g?pwd=kang)
 * **Guosheng Kang**, **Bowen Liang**, Linghang Ding*, Jianxun Liu, Buqing Cao, Yun Kang. QoS-Aware Web Service Recommendation via Exploring Users' Personalized Diversity Preferences. **Engineering Reports**, Vol. 6, No. 1, pp. 1-16, 2024. [PDF](https://onlinelibrary.wiley.com/doi/10.1002/eng2.12695)
 * **Guosheng Kang**, **Bowen Liang**, Junhua Xu*, Jianxun Liu, Yiping Wen, Yun Kang. QoS-Centric Diversified Web Service Recommendation Based on Personalized Determinantal Point Process. **Electronics**, Vol.12, No. 12, pp. 2575-2592, 2023.(SCI, JCR Rank 3) [PDF](https://www.mdpi.com/2079-9292/12/12/2575)
