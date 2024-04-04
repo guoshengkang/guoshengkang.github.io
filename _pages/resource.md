@@ -84,6 +84,6 @@ Outline
     * Part of Z-Library project. The world's largest free ebook library.
 * **Others**
   * **[Paper with Code](https://paperswithcode.com/)** 
-  * **[ChatGPT](https://bzsln.cn/chatapp/)**
+  * **[ChatGPT](https://openai.com/blog/chatgpt)**
   * **[Distill](https://distill.pub/)**
     * Machine learning research should be clear, dynamic and vivid. Distill is here to help.
