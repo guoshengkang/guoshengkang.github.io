@@ -63,6 +63,12 @@ Outline
   * **[IEEE Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)**
   * **[IEEE Conference Templates](https://www.ieee.org/conferences/publishing/templates.html)**
   * **[Citexs](https://www.citexs.com/)**
+  * EndNote Styles
+    * [IEEE Conferences](http://guoshengkang.github.io/resources/IEEE Conferences.ens)
+    * [SpringerBasicNumber](http://guoshengkang.github.io/resources/SpringerBasicNumber.ens)
+    * [Inderscience](http://guoshengkang.github.io/resources/Inderscience.ens)
+    * [NSFC](http://guoshengkang.github.io/resources/NSFC.ens)
+    * [NSSFC](http://guoshengkang.github.io/resources/NSSFC.ens)
 * **Latex**
   * **[OverLeaf: Online LaTeX Editor](https://www.overleaf.com/)**
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
