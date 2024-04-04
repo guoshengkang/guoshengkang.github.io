@@ -64,7 +64,7 @@ Outline
   * **[IEEE Conference Templates](https://www.ieee.org/conferences/publishing/templates.html)**
   * **[Citexs](https://www.citexs.com/)**
   * EndNote Styles
-    * [IEEE Conferences](http://guoshengkang.github.io/resources/IEEE Conferences.ens)
+    * [IEEE Conferences](http://guoshengkang.github.io/resources/IEEE_Conferences.ens)
     * [SpringerBasicNumber](http://guoshengkang.github.io/resources/SpringerBasicNumber.ens)
     * [Inderscience](http://guoshengkang.github.io/resources/Inderscience.ens)
     * [NSFC](http://guoshengkang.github.io/resources/NSFC.ens)
