@@ -346,7 +346,7 @@ Conferences and Journals that I May Pay Attention to
   <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076">IEEE TLT</a></td>
     <td align="center">-</td>
-    <td align="center">2</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13">IEEE TE</a></td>
