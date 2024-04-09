@@ -91,5 +91,6 @@ Outline
 * **Others**
   * **[Paper with Code](https://paperswithcode.com/)** 
   * **[ChatGPT](https://openai.com/blog/chatgpt)**
+  * **[学术AI](https://chat.uaskgpt.com/)**
   * **[Distill](https://distill.pub/)**
     * Machine learning research should be clear, dynamic and vivid. Distill is here to help.
