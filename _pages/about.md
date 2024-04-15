@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2024/04/15, One paper has been accepted by CCF ICSS 2024, congratulations to **Wen Li**.
 - 2024/01/31, Three papers have been accepted by CSCWD 2024, congratulations to **Weike Zhou**, **Wanjun Chen** and **Lihong Zhang**.
 - 2024/01/11, One paper has been accepted by TASE, congratulations to **Hangyu Cheng**.
 - 2023/10/18, One paper has been accepted by ISPA 2023, congratulations to **Yang Wang**.
