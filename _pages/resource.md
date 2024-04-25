@@ -49,6 +49,8 @@ Outline
   * **[Semantic Scholar](https://www.semanticscholar.org)**
   * **[SCI-HUB](https://tool.yovisun.com/scihub/)**
     * Sci.Hub is a site to download reference papers and journal articles for free. Just paste the DOI of the journal article you want, and ScienceHub will fetch the PDF for you for free.
+  * **[IEEE Publication Recommender](https://publication-recommender.ieee.org)**
+    * Enter keywords, key phrases, or article title, or extract keywords from your article to find the best match for publishing from IEEE periodicals or conferences.
   * **[Elsevier JournalFinder](https://journalfinder.elsevier.com/)**
     * Enter title and abstract of your paper to easily find Elsevier journals that could be best suited for publishing.
 * **Writing**
