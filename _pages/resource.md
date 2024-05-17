@@ -73,12 +73,14 @@ Outline
     * [NSSFC](http://guoshengkang.github.io/resources/NSSFC.ens)
 * **Latex**
   * **[OverLeaf: Online LaTeX Editor](https://www.overleaf.com/)**
-    * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more
+    * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
   * **[Online Latex Formula Editor](https://www.latexlive.com/home)**
+  * **[TexMath ](https://johnmacfarlane.net/texmath)**
+    * A Web server that converts between TeX, MathML, OMML, eqn, and typst formats for mathematical formulas.
 * **Drawing**
   * **[Draw.io](https://draw.io) - [Diagrams.net](https://www.diagrams.net/)**
     * diagrams.net is free online diagram software (compatible with Latex) for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
-      * <https://app.diagrams.net/?mode=github>, open files form github repository
+      * <https://app.diagrams.net/?mode=github>, open files form github repository.
   * **[ColorDrop](https://colordrop.io/)**
     * Thousands of curated colors, palettes for use in your products.
   * **[BPMN.IO](https://bpmn.io/)**
