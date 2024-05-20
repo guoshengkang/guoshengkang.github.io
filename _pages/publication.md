@@ -49,6 +49,7 @@ Journal Articles
 
 Conference Papers
 ------
+* **Qiqi Chen**, **Guosheng Kang***, Yamei Nie, Jianxun Liu, Buqing Cao. A General Complementary API Recommendation Framework based on Learning Model. **IEEE International Conference on Web Services**. IEEE Computer Society, 2024.
 * **Weike Zhou**, **Xiaokang Zhou**, Jing He, Yamei Nie, Qiqi Chen, **Guosheng Kang***. Online Course Recommendation by Exploring User Interaction and Course Description. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, Accepted, 2024. 
 - **Lihong Zhang**, Jing He, Yamei Nie, Xiaokang Zhou, Qiqi Chen, **Guosheng Kang***. JMF-SS: Joint Matrix Factorization for Web API Recommendation with Mashup-Mashup Similarities and API-API Similarities. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, Accepted, 2024. 
 * **Wanjun Chen**, QiqiChen, Jiexun Shen, **Guosheng Kang***, Jianxun Liu, Buqing Cao, Lihong Zhang. Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, Accepted, 2024. 
@@ -73,7 +74,7 @@ Conference Papers
 
 Patents
 ------
-* **康国胜**, 李文, 陈琪琪, 聂雅梅. 一种基于学习模型的Web API功能互补推荐方法, 2024.05.17, 发明专利, 申请号: 202410617641.5
+* **康国胜**, 李文, 陈琪琪, 聂雅梅. 一种基于学习模型的Web API功能互补推荐方法, 2024.05.17, 发明专利, 申请号: 2024106176415
 * **康国胜**, 梁博文, 聂雅梅, 肖勇. 一种融合文本表征和网络表征的Web API推荐方法, 2024.01.05, 发明专利, 申请号: 202410022026X
 * **康国胜**, 刘建勋, 张文强. 一种工业互联网环境下面向生产要素需求的服务推荐方法, 2022.09.21, 发明专利, 申请号: 202211151517.1
 * **康国胜**, 刘建勋, 谢润彬. 一种面向服务组合的移动服务选择优化方法, 2021.10.22, 发明专利, 申请号: 202111231786.4
