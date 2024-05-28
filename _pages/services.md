@@ -364,7 +364,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">3</td>
   </tr>
   <tr>
-    <td align="center"><a href="IEEE Transactions on Neural Networks and Learning Systems">IEEE TNNLS</a></td>
+    <td align="center"><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE TNNLS</a></td>
     <td align="center">-</td>
     <td align="center">1</td>
   </tr>
