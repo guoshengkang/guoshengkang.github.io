@@ -11,11 +11,11 @@ redirect_from:
 
 What’s new
 ------
-- 2024/06/21, One paper has been accepted by TNSM, congratulations to **Yang Wang**.
+- 2024/06/21, One paper has been accepted by IEEE TNSM, congratulations to **Yang Wang**.
 - 2024/05/14, One paper has been accepted by IEEE ICWS 2024, congratulations to **Qiqi Chen**.
 - 2024/04/15, One paper has been accepted by CCF ICSS 2024, congratulations to **Wen Li**.
 - 2024/01/31, Three papers have been accepted by CSCWD 2024, congratulations to **Weike Zhou**, **Wanjun Chen** and **Lihong Zhang**.
-- 2024/01/11, One paper has been accepted by TASE, congratulations to **Hangyu Cheng**.
+- 2024/01/11, One paper has been accepted by IEEE TASE, congratulations to **Hangyu Cheng**.
 - 2023/10/18, One paper has been accepted by ISPA 2023, congratulations to **Yang Wang**.
 - 2023/05/20, One paper has been accepted by Electronics, congratulations to **Bowen Liang**.
 - 2023/05/06, One postgraduate scientific research innovation project of Hunan province is approved, congratulations to **Yang Wang**.
