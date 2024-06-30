@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2024/06/30, One paper has been accepted by IEEE TNSM, congratulations to **Bowen Liang**.
 - 2024/06/21, One paper has been accepted by IEEE TNSM, congratulations to **Yang Wang**.
 - 2024/05/14, One paper has been accepted by IEEE ICWS 2024, congratulations to **Qiqi Chen**.
 - 2024/04/15, One paper has been accepted by CCF ICSS 2024, congratulations to **Wen Li**.
