@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2024/07/11, One paper has been accepted by IEEE SMC 2024, congratulations to **Huiyu Zhai**.
 - 2024/06/30, One paper has been accepted by IEEE TNSM, congratulations to **Bowen Liang**.
 - 2024/06/21, One paper has been accepted by IEEE TNSM, congratulations to **Yang Wang**.
 - 2023/06/12, One postgraduate scientific research innovation project of Hunan province is approved, congratulations to **Hongshuai Ren**.
