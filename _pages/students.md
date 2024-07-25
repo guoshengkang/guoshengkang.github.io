@@ -39,11 +39,11 @@ Supervised & Co-supervised Students
   - Thesis: 面向ProgrammableWeb的服务生态系统动态演化分析
 - **Zhen Wang (王祯)**, Master Student, <font color='blue'>luckyzhen19@gmail.com</font>, 2022.09-
   - Thesis: 基于BPMN扩展的业务流程智能监控
-- **Wenqiang Zhang (张文强)**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, 2022.02-
+- **Wenqiang Zhang (张文强)**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, 2022.02-2024.06
   - Thesis: 工业互联网环境下面向生产要素的服务推荐方法
-- **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-
-  - Thesis: 面向用户需求不确定场景的智能化服务推荐方法
-- **Hangyu Cheng (程航宇)**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-
+- **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-2024.06
+  - Thesis: 融合文本和网络结构信息的服务分类与推荐
+- **Hangyu Cheng (程航宇)**, Master Student, <font color='blue'>orangechy97@gmail.com</font>, 2021.09-2024.06
   - Thesis: 基于BPMN扩展的业务流程建模及其应用
 - **Xing Li (李兴)**, Master Student, <font color='blue'>lijiatu12345@gmail.com</font>, 2020.09-2023.06
   - Thesis: 跨组织业务流程开放协作建模与推荐方法研究
