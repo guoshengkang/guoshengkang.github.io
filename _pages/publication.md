@@ -51,6 +51,7 @@ Journal Articles
 
 Conference Papers
 ------
+* **Huiyu Zhai**, Mo Chen, Xingxing Yang*, **Guosheng Kang**. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. **IEEE International Conference on Systems, Man, and Cybernetics**. IEEE Computer Society, 2024.
 * **Qiqi Chen**, **Guosheng Kang***, Yamei Nie, Jianxun Liu, Buqing Cao. A General Complementary API Recommendation Framework based on Learning Model. **IEEE International Conference on Web Services**. IEEE Computer Society, 2024.
 * **Weike Zhou**, **Xiaokang Zhou**, Jing He, Yamei Nie, Qiqi Chen, **Guosheng Kang***. Online Course Recommendation by Exploring User Interaction and Course Description. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, pp. 2973-2979, 2024. [PDF](https://pan.baidu.com/s/1raCmJUzBsKEjye_LYDP1Hg?pwd=kang)
 - **Lihong Zhang**, Jing He, Yamei Nie, Xiaokang Zhou, Qiqi Chen, **Guosheng Kang***. JMF-SS: Joint Matrix Factorization for Web API Recommendation with Mashup-Mashup Similarities and API-API Similarities. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, pp. 1219-1224, 2024. [PDF](https://pan.baidu.com/s/1ts72nKPp9OFyear1M_25gg?pwd=kang)
