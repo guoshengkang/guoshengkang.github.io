@@ -17,9 +17,9 @@ Journal Articles
 * **Guosheng Kang**, **Bowen Liang**, Junhua Xu*, Jianxun Liu, Yiping Wen, Yun Kang. QoS-Centric Diversified Web Service Recommendation Based on Personalized Determinantal Point Process. **Electronics**, Vol.12, No. 12, pp. 2575-2592, 2023.(SCI, JCR Rank 3) [PDF](https://www.mdpi.com/2079-9292/12/12/2575)
 * **Jiayan Xiang**, **Guosheng Kang***, Hangyu Cheng, Jianxun Liu, Yiping Wen, Junhua Xu. Scalable and Optimal QoS-Aware Manufacturing Service Composition via Business Process Decomposition. **Electronics**, Vol. 12, No. 4, pp. 991-1008, 2023.  (SCI, JCR Rank 3) [PDF](https://www.mdpi.com/2079-9292/12/4/991)
 * Jianxun Liu, **Runbin Xie**, **Guosheng Kang***, Yiping Wen. Spatial-Temporal Aware Service Composition for Production Factors under Industrial Internet. **Concurrency and Computation: Practice and Experience**, Vol. 35, No. 12, pp. 1-16, 2023. (CCF C) [PDF](https://pan.baidu.com/s/1DGzn2zUwIwfFM76CeechSA?pwd=kang)
-* **程航宇**，**康国胜***，刘建勋，文一凭，曹步清，王祯. 基于BPMN的业务流程建模元素扩展机制, **计算机集成制造系统**, 2023, 网络首发.
-* **谢润彬**，**康国胜**，刘建勋*，文一凭，丁领航. 工业互联网环境下位置感知的生产要素服务组合优化，**计算机集成制造系统**, 2023, 网络首发.
-* **张文强**，**康国胜***，刘建勋，文一凭，丁领航. 工业互联网环境下面向生产要素需求的服务推荐，**计算机集成制造系统**, 2023, 网络首发.
+* **程航宇**，**康国胜***，刘建勋，文一凭，曹步清，王祯. 基于BPMN的业务流程建模元素扩展机制, **计算机集成制造系统**, 2024, 网络首发.
+* **谢润彬**，**康国胜**，刘建勋*，文一凭，丁领航. 工业互联网环境下位置感知的生产要素服务组合优化，**计算机集成制造系统**, Vol. 30, No. 8, pp. 2923-2935, 2024.
+* **张文强**，**康国胜***，刘建勋，文一凭，丁领航. 工业互联网环境下面向生产要素需求的服务推荐，**计算机集成制造系统**, Vol. 30, No. 8, pp. 2844-2853, 2024.
 * 刘建勋, **丁领航**, **康国胜***, 曹步清, 肖勇. 基于特征深度融合的Web服务QoS联合预测, **通信学报**, Vol. 43, No. 7, pp. 215-226, 2022. (中文顶级期刊) [PDF](https://pan.baidu.com/s/1RPOQUsQtpkCdAmk56IqIHA?pwd=kang)
 * **Guosheng Kang**, Jianxun Liu, Yong Xiao, Yingcheng Cao, Buqing Cao, and Min Shi. Web Services Clustering via Exploring Unified Content and Structural Semantic Representation. **IEEE Transactions on Network and Service Management**, Vol. 19, No. 4, pp. 4082 - 4096, 2022. [PDF](https://pan.baidu.com/s/1EMRHb3bk1g2SOv9iBMJDtg?pwd=kang)
 * **李兴**, **康国胜***, 刘建勋, 文一凭, 曹步清, 肖勇. 考虑策略优先级的业务流程协作与价值优化, **计算机集成制造系统**, Vol. 28, No. 10, pp. 3276-3283, 2022. (EI) [PDF](https://pan.baidu.com/s/1u8aZTRu3grMxiFkso85cQA)
