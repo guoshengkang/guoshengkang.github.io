@@ -10,7 +10,7 @@ redirect_from:
 
 Membership
 ------
-* [CCF](https://www.ccf.org.cn/)
+* [CCF Senior Member](https://www.ccf.org.cn/)
 * [CCF TCSC](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCSC/)
 * [IEEE](https://www.ieee.org/)
 * [ACM](https://www.acm.org/)
