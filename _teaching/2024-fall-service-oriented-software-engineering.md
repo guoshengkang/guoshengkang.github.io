@@ -2,8 +2,8 @@
 title: "Service-Oriented Software Engineering (2024, Fall)"
 collection: teaching
 type: "Postgraduate course"
-baseurl: /guoshengkang
-permalink: /teaching/2024-fall-service-oriented-software-engineering
+baseurl: "/guoshengkang"
+permalink:" /teaching/2024-fall-service-oriented-software-engineering"
 venue: "HNUST"
 date: 2024-09-30
 ---
