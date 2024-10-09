@@ -16,5 +16,5 @@ date: 2024-09-30
 * Chapter 8: Advanced Topics
 * Chapter 9: Microservices
 
-**Reference Book**: Roger S. Pressman. Software Engineering: A Practitioner's Approach, 6th Edition, McGraw-Hill, 2005. [Slides](https://pan.baidu.com/s/1HN58IC9znGtXPRKMnhN7dw)  
-![Textbook](http://guoshengkang.github.io/files/2021-spring-advanced-software-engineering-教材封面.jpg)
+**Reference Book**: 尹建伟, 王忠杰. 服务计算十件, 2022. [Slides](https://pan.baidu.com/s/1HN58IC9znGtXPRKMnhN7dw)  
+![Textbook](http://guoshengkang.github.io/files/2024-fall-service-oriented-software-engineering-教材封面.jpg)
