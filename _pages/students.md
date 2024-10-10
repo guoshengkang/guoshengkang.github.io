@@ -27,7 +27,7 @@ I’m fortunate to work with the following brilliant students.
 
 Supervised & Co-supervised Students
 ------
-- **Yan Li (李岩)**, Master Student, <font color='blue'>jiaweichen0031@gmail.com</font>, 2024.09-
+- **Yan Li (李岩)**, Master Student, <font color='blue'>sgly33@gmail.com</font>, 2024.09-
   - Thesis: 待定
 - **Guotai He (贺国泰)**, Master Student, <font color='blue'>guotaihe3@gmail.com</font>, 2024.09-
   - Thesis: 待定
