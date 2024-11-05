@@ -34,7 +34,7 @@ Supervised & Co-supervised Students
 - **Jiawei Chen (谌佳伟)**, Master Student, <font color='blue'>jiaweichen0031@gmail.com</font>, 2024.09-
   - Thesis: 待定
 - **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-
-  - Thesis: 基于多视图对比学习的服务推荐方法研究
+  - Thesis: 基于对比学习的Web服务表征方法研究
 - **Jianhua Feng (封建华)**, Master Student, <font color='blue'>fengjianhua411@gmail.com</font>, 2023.09-
   - Thesis: RESTful API服务发现方法研究
 - **Zhuo Chen (陈卓)**, Master Student, <font color='blue'>cz2424895@gmail.com</font>, 2023.09-
