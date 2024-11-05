@@ -44,7 +44,7 @@ Supervised & Co-supervised Students
 - **Yang Wang (王洋)**, Master Student, <font color='blue'>brownyangw@gmail.com</font>, 2022.09-
   - Thesis: 面向ProgrammableWeb的服务生态系统动态演化分析
 - **Zhen Wang (王祯)**, Master Student, <font color='blue'>luckyzhen19@gmail.com</font>, 2022.09-
-  - Thesis: 基于BPMN扩展的业务流程智能监控
+  - Thesis: 基于BPMN扩展的业务流程监控建模及其应用
 - **Wenqiang Zhang (张文强)**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, 2022.02-2024.06
   - Thesis: 工业互联网环境下面向生产要素的服务推荐方法
 - **Bowen Liang (梁博文)**, Master Student, <font color='blue'>bowenliang013@gmail.com</font>, 2021.09-2024.06
