@@ -16,5 +16,5 @@ date: 2024-09-30
 * Chapter 8: Advanced Topics
 * Chapter 9: Microservices
 
-**Reference Book**: 尹建伟, 王忠杰. 服务计算十件, 2022. [Slides](https://pan.baidu.com/s/1HN58IC9znGtXPRKMnhN7dw)  
+**Reference Book**: 尹建伟, 王忠杰. 服务计算十件, 2022. [Slides](https://pan.baidu.com/s/1U0_1blaO_LvtzM5oFeScag?)  
 ![Textbook](http://guoshengkang.github.io/files/2024-fall-service-oriented-software-engineering-教材封面.jpg)
