@@ -30,15 +30,15 @@ Supervised & Co-supervised Students
 - **Yan Li (李岩)**, Master Student, <font color='blue'>sgly33@gmail.com</font>, 2024.09-
   - Thesis: 待定
 - **Guotai He (贺国泰)**, Master Student, <font color='blue'>guotaihe3@gmail.com</font>, 2024.09-
-  - Thesis: 待定
+  - Thesis: 配电网故障智能恢复方法研究
 - **Jiawei Chen (谌佳伟)**, Master Student, <font color='blue'>jiaweichen0031@gmail.com</font>, 2024.09-
   - Thesis: 待定
 - **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-
   - Thesis: 基于对比学习的Web服务表征方法研究
 - **Jianhua Feng (封建华)**, Master Student, <font color='blue'>fengjianhua411@gmail.com</font>, 2023.09-
-  - Thesis: RESTful API服务发现方法研究
+  - Thesis: 基于异构网络表征学习的Web服务推荐方法研究
 - **Zhuo Chen (陈卓)**, Master Student, <font color='blue'>cz2424895@gmail.com</font>, 2023.09-
-  - Thesis: 配电网故障智能恢复方法研究
+  - Thesis: 基于大语言模型的Web服务推荐方法研究
 - **Weike Zhou (周维克)**, Master Student, <font color='blue'>lilvicky.0408@gmail.com</font>, 2022.09-
   - Thesis: 面向在线教育的课程推荐方法研究
 - **Yang Wang (王洋)**, Master Student, <font color='blue'>brownyangw@gmail.com</font>, 2022.09-
