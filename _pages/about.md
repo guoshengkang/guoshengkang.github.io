@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2024/12/09, One paper has been accepted by IEEE TNSM, congratulations to **Hongshuai Ren**.
 - 2024/09/28, One paper has been accepted by IEEE TAI, congratulations to **Yang Wang**.
 - 2024/09/05, One paper has been accepted by ACML 2024, congratulations to **Huiyu Zhai**.
 - 2024/08/22, One paper has been accepted by IEEE ISPA 2024, congratulations to **Jiexun Shen**.
