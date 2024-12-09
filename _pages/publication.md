@@ -9,6 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal Articles
 ------
+* **Guosheng Kang**, **Hongshuai Ren**, Wanjun Chen, Jianxun Liu, Buqing Cao, Yu Xu. * **Guosheng Kang**, **Yang Wang**, Jianxun Liu, Buqing Cao, Yong Xiao*, Yu Xu. Evolution of Web API Cooperation Network via Exploring Community Structure and Popularity. **IEEE Transactions on Network and Service Management**, 2024. DOI: 10.1109/TNSM.2024.3515103
 * **Guosheng Kang**, **Yang Wang**, Jianxun Liu, Buqing Cao, Yong Xiao*, Yu Xu. Evolution of Web API Cooperation Network via Exploring Community Structure and Popularity. **IEEE Transactions on Artificial Intelligence**, 2024. DOI: 10.1109/TAI.2024.3472614
 * **Guosheng Kang**, **Bowen Liang**, Jianxun Liu*, Yiping Wen, Yong Xiao, Hejing Nie. Web API Recommendation via Leveraging Content and Network Semantics. **IEEE Transactions on Network and Service Management**, 2024. DOI: 10.1109/TNSM.2024.3422233
 * **Guosheng Kang**, **Hangyu Cheng**\*, Jianxun Liu*, Yiping Wen, Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. **IEEE Transactions on Automation Science and Engineering**, 2024. DOI: 10.1109/TASE.2024.3354929
