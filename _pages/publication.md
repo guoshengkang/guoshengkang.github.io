@@ -10,7 +10,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 Journal Articles
 ------
 * **Guosheng Kang**, **Hongshuai Ren**, Wanjun Chen, Jianxun Liu, Buqing Cao, Yu Xu. Web API Recommendation via Exploring Textual and Structural Semantics with Contrastive Learning and Joint Training. **IEEE Transactions on Network and Service Management**, 2024. DOI: 10.1109/TNSM.2024.3515103
-* **Guosheng Kang**, **Yang Wang**, Jianxun Liu, Buqing Cao, Yong Xiao*, Yu Xu. Evolution of Web API Cooperation Network via Exploring Community Structure and Popularity. **IEEE Transactions on Artificial Intelligence**, 2024. DOI: 10.1109/TAI.2024.3472614
+* **Guosheng Kang**, **Yang Wang**, Jianxun Liu, Buqing Cao, Yong Xiao*, Yu Xu. Evolution of Web API Cooperation Network via Exploring Community Structure and Popularity. **IEEE Transactions on Artificial Intelligence**, Vol. 5, No. 12, pp. 6659-6671, 2024. [PDF]()
 * **Guosheng Kang**, **Bowen Liang**, Jianxun Liu*, Yiping Wen, Yong Xiao, Hejing Nie. Web API Recommendation via Leveraging Content and Network Semantics. **IEEE Transactions on Network and Service Management**, 2024. DOI: 10.1109/TNSM.2024.3422233
 * **Guosheng Kang**, **Hangyu Cheng**\*, Jianxun Liu*, Yiping Wen, Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. **IEEE Transactions on Automation Science and Engineering**, 2024. DOI: 10.1109/TASE.2024.3354929
 * **Guosheng Kang**, **Yang Wang**, Hongshuai Ren, Buqing Cao*, Jianxun Liu, Yiping Wen. KS-GNN: Keyword Search via Graph Neural Network for Web API Recommendation. **IEEE Transactions on Network and Service Management**, Vol. 21, No. 5, pp. 5464-5474, 2024. [PDF](https://pan.baidu.com/s/1BWwYL6Pa7inGBWUCweLqIA?pwd=kang)
