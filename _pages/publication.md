@@ -10,7 +10,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 Journal Articles
 ------
 * **Guosheng Kang**, **Hongshuai Ren**, Wanjun Chen, Jianxun Liu, Buqing Cao, Yu Xu. Web API Recommendation via Exploring Textual and Structural Semantics with Contrastive Learning and Joint Training. **IEEE Transactions on Network and Service Management**, 2024. DOI: 10.1109/TNSM.2024.3515103
-* **Guosheng Kang**, **Hangyu Cheng**\*, Jianxun Liu*, Yiping Wen, Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. **IEEE Transactions on Automation Science and Engineering**, 2024. DOI: 10.1109/TASE.2024.3354929
+* **Guosheng Kang**, **Hangyu Cheng**\*, Jianxun Liu*, Yiping Wen, Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. **IEEE Transactions on Automation Science and Engineering**,  Vol. 22, No. 1, pp. 813-829, 2025. [PDF](https://pan.baidu.com/s/1OhD_fkrtUc8Ni_GeBaNynQ?pwd=kang)
 * **程航宇**，**康国胜***，刘建勋，文一凭，曹步清，王祯. 基于BPMN的业务流程建模元素扩展机制, **计算机集成制造系统**, Vol. 31, No. 1, pp. 3548-3556, 2025.
 * **Guosheng Kang**, **Bowen Liang**, Jianxun Liu*, Yiping Wen, Yong Xiao, Hejing Nie. Web API Recommendation via Leveraging Content and Network Semantics. **IEEE Transactions on Network and Service Management**, Vol. 21, No. 6, pp. 5977-5991, 2024. [PDF](https://pan.baidu.com/s/1ET5nxLmZvL6XLULX1NRQOw?pwd=kang)
 * **Guosheng Kang**, **Yang Wang**, Jianxun Liu, Buqing Cao, Yong Xiao*, Yu Xu. Evolution of Web API Cooperation Network via Exploring Community Structure and Popularity. **IEEE Transactions on Artificial Intelligence**, Vol. 5, No. 12, pp. 6659-6671, 2024. [PDF](https://pan.baidu.com/s/1JJRFT8dl1N9tuh9onBNYOQ?pwd=kang)
