@@ -57,5 +57,5 @@ Supervised & Co-supervised Students
   - Thesis: 工业互联网环境下时空感知的生产要素服务组合优化方法
 - **Linghang Ding (丁领航)**, Master Student, <font color='blue'>linghangding@gmail.com</font>, 2020.02-2022.06
   - Thesis: 融合图神经网络和因子分解机的Web服务QoS联合预测
-- **Yong Xiao (肖勇)**, Ph.D. Student, <font color='blue'>yongx853@gmail.com</font>, 2020.02-
-  - Thesis: 面向智能软件开发的服务发现关键技术研究
+- **Yong Xiao (肖勇)**, Ph.D. Student, <font color='blue'>yongx853@gmail.com</font>, 2020.02-2024.12
+  - Thesis: 面向Web服务表征的特征增强若干方法研究
