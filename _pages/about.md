@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2025/02/05, One paper has been accepted by CSCWD 2025, congratulations to **Jiayi Zhong** and **Yaling Tang**.
 - 2024/12/09, One paper has been accepted by IEEE TNSM, congratulations to **Hongshuai Ren**.
 - 2024/09/28, One paper has been accepted by IEEE TAI, congratulations to **Yang Wang**.
 - 2024/09/05, One paper has been accepted by ACML 2024, congratulations to **Huiyu Zhai**.
