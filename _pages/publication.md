@@ -9,6 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal Articles
 ------
+* **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao. Group Feature Aggregation for Web Service Recommendations. **IEEE Transactions on Network and Service Management**, 2024. DOI: 10.1109/TNSM.2024.3444275
 * **Guosheng Kang**, **Hongshuai Ren**, Wanjun Chen, Jianxun Liu, Buqing Cao, Yu Xu. Web API Recommendation via Exploring Textual and Structural Semantics with Contrastive Learning and Joint Training. **IEEE Transactions on Network and Service Management**, 2024. DOI: 10.1109/TNSM.2024.3515103
 * **Guosheng Kang**, **Hangyu Cheng**\*, Jianxun Liu*, Yiping Wen, Jun Peng. Business Process Modeling for Industrial Internet Application via BPMN Extension. **IEEE Transactions on Automation Science and Engineering**,  Vol. 22, No. 1, pp. 813-829, 2025. [PDF](https://pan.baidu.com/s/1OhD_fkrtUc8Ni_GeBaNynQ?pwd=kang)
 * **程航宇**，**康国胜***，刘建勋，文一凭，曹步清，王祯. 基于BPMN的业务流程建模元素扩展机制, **计算机集成制造系统**, Vol. 31, No. 1, pp. 3548-3556, 2025.
