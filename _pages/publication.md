@@ -54,6 +54,7 @@ Journal Articles
 
 Conference Papers
 ------
+- **Jiayi Zhong**, **Yaling Tang**, Jiawei Chen, Xiaokang Zhou, Xiaocong Xiao*, **Guosheng Kang***. Collaboration-Aware Service Composition Optimization for Production Factors Under Industrial Internet. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, 2025, Accepted.
 * **Jiexun Shen**, Dongfan Li, Wanjun Chen, Yong Xiao, **Guosheng Kang**, Jianxun Liu, Zhenlian Peng. Multi-view Hypergraph-based Self-supervised Learning Model for Web API Recommendation. **International Symposium on Parallel and Distributed Processing with Applications**. IEEE Computer Society, 2024.
 * **Huiyu Zhai**, Guang Jin, Xingxing Yang, **Guosheng Kang**. ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba. **The 16th Asian Conference on Machine Learning**. Springer, 2024.
 * **Huiyu Zhai**, Mo Chen, Xingxing Yang*, **Guosheng Kang**. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. **IEEE International Conference on Systems, Man, and Cybernetics**. IEEE Computer Society, pp. 3287-3292, 2024. [PDF](https://pan.baidu.com/s/138oSDFpIWjVdlLJ-6eZt9Q?pwd=kang)
