@@ -76,6 +76,8 @@ Outline
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
   * **[Online Latex Formula Editor](https://www.latexlive.com/home)**
     * Latex formula editor.
+  * **[SimpleTex](https://simpletex.cn/)**
+    * An AI-driven intelligent and user-friendly formula/document recognition and editing software platform.
   * **[TexMath ](https://johnmacfarlane.net/texmath)**
     * A Web server that converts between TeX, MathML, OMML, eqn, and typst formats for mathematical formulas.
 * **Drawing**
