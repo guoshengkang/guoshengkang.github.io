@@ -14,23 +14,28 @@ redirect_from:
   * 2022, Spring (2021级智能材料1~2&材料成型1~2, 2021级电子科学1~4)
   * 2023, Spring (2022级机设1~5, 2022级建环1~3)
   * 2024, Spring (2023级建环1~3)
+  * 2025, Spring (2024级智能制造1~4)
 * **Foundations of Computer Science**, Undergraduate, 16'
   * [2020, Fall (2020级计算机01~04&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)  
   * 2023, Fall (2022级重修班级, 2023级计科01~02班)
+  * 2024, Fall (2024级软件1~4)
 * [**Discrete Mathematical Structures**](http://guoshengkang.github.io/teaching/fall-discrete-mathematical-structures), Undergraduate, 72'
   * 2021, Fall (2021级大数据1~3)
   * 2022, Fall (2022级软件1~3)
+  * 2024, Fall (2024级软件1~4)
 * **Advanced Software Engineering**, Postgraduate, 40'
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
   * [2022, Spring (2021级研究生)](http://guoshengkang.github.io/teaching/2022-spring-advanced-software-engineering)
+  * [2025, Spring (2021级研究生)](http://guoshengkang.github.io/teaching/2022-spring-advanced-software-engineering)
 * **Software Service Engineering and Software Project Management**+**Service-Oriented Software Engineering**, Postgraduate, 32'
   * [2024, Fall(2024级学硕+2024级博士)](http://guoshengkang.github.io/teaching/2024-fall-service-oriented-software-engineering)
 * **Course Project**, Undergraduate, 20'/40'
-  * Database (2020/2022 Fall)
-  * C Programming (2021/2022/2023/2024 Spring)
+  * Database (2020/2022/2024 Fall)
+  * C Programming (2021/2022/2023/2024/2025 Spring)
+  * Data Structure (2025 Spring)
   * Operating System (2021/2022/2023 Spring)
-  * Comprehensive Practical Ability Innovation Training (2021 Fall, 2024 Spring)
-  * Production Practice (2023 Fall)
+  * Comprehensive Practical Ability Innovation Training (2021/2024 Fall, 2024 Spring, 2025 Spring)
+  * Production Practice (2023/2024 Fall)
 
 - - -
 
