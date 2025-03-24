@@ -6,14 +6,16 @@ permalink: /teaching/2025-spring-advanced-software-engineering
 venue: "HNUST"
 date: 2025-03-24
 ---
-* Chapter 1: Review
-* Chapter 2: Project Management Concepts
-* Chapter 3: Software Process and Project Metrics
-* Chapter 4: Software Project Planning
-* Chapter 5&7: Software Quality Management and Quality Assurance
-* Chapter 6: Software Configuration Management
-* Chapter 8: Software Requirements Engineering
-* Chapter 9: Software Design Engineering
+* Lecture 1: Introduction to Software Engineering
+* Lecture 2: Software Process
+* Lecture 3: Version and Development Task Management
+* Lecture 4: High-Quality Coding
+* Lecture 5: Software Design
+* Lecture 6: Software Reuse
+* Lecture 7: Software Architecture
+* Lecture 8: Software Requirements
+* Lecture 9: Software Testing
+* Lecture 10: Software Integration and Release
 
  
 **Reference Book**: 彭鑫, 游依勇, 赵文耘. 现在软件工程基础, 清华大学出版社, 2022. [Slides](https://pan.baidu.com/s/1HN58IC9znGtXPRKMnhN7dw)  
