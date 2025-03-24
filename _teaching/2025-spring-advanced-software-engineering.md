@@ -1,8 +1,8 @@
 ---
-title: "Advanced Software Engineering (2025, Spring)"
+title: "Modern Software Engineering (2025, Spring)"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/2025-spring-advanced-software-engineering
+permalink: /teaching/2025-spring-modern-software-engineering
 venue: "HNUST"
 date: 2025-03-24
 ---
@@ -18,5 +18,5 @@ date: 2025-03-24
 * Lecture 10: Software Integration and Release
 
  
-**Reference Book**: 彭鑫, 游依勇, 赵文耘. 现在软件工程基础, 清华大学出版社, 2022. [Slides](https://pan.baidu.com/s/1HN58IC9znGtXPRKMnhN7dw)  
+**Reference Book**: 彭鑫, 游依勇, 赵文耘. 现在软件工程基础, 清华大学出版社, 2022. [Slides](https://pan.baidu.com/s/1B160_m-r57mrxvAOO3pCkA?)  
 ![Textbook](http://guoshengkang.github.io/files/2025-spring-advanced-software-engineering-教材封面.jpg)
