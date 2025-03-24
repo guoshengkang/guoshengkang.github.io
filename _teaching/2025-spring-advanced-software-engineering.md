@@ -19,4 +19,4 @@ date: 2025-03-24
 
  
 **Reference Book**: 彭鑫, 游依勇, 赵文耘. 现在软件工程基础, 清华大学出版社, 2022. [Slides](https://pan.baidu.com/s/1HN58IC9znGtXPRKMnhN7dw)  
-![Textbook](http://guoshengkang.github.io/files/2021-spring-advanced-software-engineering-教材封面.jpg)
+![Textbook](http://guoshengkang.github.io/files/2025-spring-advanced-software-engineering-教材封面.jpg)
