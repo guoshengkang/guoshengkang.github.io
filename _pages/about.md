@@ -11,7 +11,7 @@ redirect_from:
 
 What’s new
 ------
-- 2025/04/01, One paper has been accepted by CCPE, congratulations to **Jiayu Li** and **Qingping Li**.
+- 2025/04/01, One paper has been accepted by IJCNN, congratulations to **Jiayu Li** and **Qingping Li**.
 - 2025/03/28, One paper has been accepted by CCPE, congratulations to **Jiawei Chen** and **Jiayi Zhong**.
 - 2025/03/22, One paper has been accepted by CCPE, congratulations to **Zhen Wang**.
 - 2025/03/13, One paper has been accepted by JIT, congratulations to **Weike Zhou**.
