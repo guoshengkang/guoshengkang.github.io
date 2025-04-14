@@ -55,6 +55,7 @@ Journal Articles
 
 Conference Papers
 ------
+- **Jiayu Li**, **Qingping Li**, Yan Li, Xin Ai, Jie Chen, Jiayan Xiang, **Guosheng Kang***. CS-LightGCL: Composition-Supervised LightGCL for Interactive Web API Recommendation.  **International Joint Conference on Neural Networks**. IEEE Computer Society, 2025, Accepted.
 - **Jiayi Zhong**, **Yaling Tang**, Jiawei Chen, Xiaokang Zhou, Xiaocong Xiao*, **Guosheng Kang***. Collaboration-Aware Service Composition Optimization for Production Factors Under Industrial Internet. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, 2025, Accepted.
 * **Jiexun Shen**, Dongfan Li, Wanjun Chen, Yong Xiao*, **Guosheng Kang***, Jianxun Liu, Zhenlian Peng. Multi-view Hypergraph-based Self-supervised Learning Model for Web API Recommendation. **International Symposium on Parallel and Distributed Processing with Applications**. IEEE Computer Society, pp. 637-644, 2024. [PDF](https://pan.baidu.com/s/1IArrvQ_rZJv_eiMVOBVpuw?pwd=kang)
 * **Huiyu Zhai**, Guang Jin, Xingxing Yang, **Guosheng Kang**. ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba. **The 16th Asian Conference on Machine Learning**. Springer, 2024.
