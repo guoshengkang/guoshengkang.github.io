@@ -9,6 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal Papers
 ------
+* **Guosheng Kang***, **Zhen Wang**, Hangyu Cheng, Jianxun Liu, Yiping Wen, Jun Peng. Modeling Multilevel Business Process Monitoring via BPMN Extension. **Concurrency and Computation: Practice and Experience**, 2025. DOI: 10.1002/cpe.70074
 * **Jiawei Chen**, **Jiayi Zhong**, **Guosheng Kang***, Jianxun Liu, Yiping Wen. Variantrank: Business Process Event Log Sampling Based on Importance of Trace Variants. **Concurrency and Computation: Practice and Experience**, Vol. 37, No. 9-11, pp. 1-11, 2025. DOI: 10.1002/cpe.70092
 * **Guosheng Kang**, **Hongshuai Ren**, Wanjun Chen, Jianxun Liu*, Buqing Cao, Yu Xu. Web API Recommendation via Exploring Textual and Structural Semantics with Contrastive Learning and Joint Training. **IEEE Transactions on Network and Service Management**, 2024. DOI: 10.1109/TNSM.2024.3515103
 * **Yong Xiao**, Jianxun Liu*, **Guosheng Kang**, Buqing Cao. Group Feature Aggregation for Web Service Recommendations. **IEEE Transactions on Network and Service Management**,  Vol. 22, No. 1, pp. 45-57, 2025. [PDF](https://pan.baidu.com/s/1bBA6HwwGl-I-PmsSBUjIUA?pwd=kang)
