@@ -56,6 +56,8 @@ Outline
 * **Writing**
   * **[Grammarly](https://www.grammarly.com/)**
     * Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant
+  * **[QuiBot](https://quillbot.com/)**
+    * Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more. 
   * **[ESODA](http://www.esoda.org/)**
     * Collocations 
   * **[WikiDiff](https://wikidiff.com/)**
