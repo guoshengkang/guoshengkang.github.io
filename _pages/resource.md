@@ -74,7 +74,7 @@ Outline
     * [NSFC](http://guoshengkang.github.io/resources/NSFC.ens)
     * [NSSFC](http://guoshengkang.github.io/resources/NSSFC.ens)
 * **Latex**
-  * **[OverLeaf: Online LaTeX Editor](https://www.overleaf.com/)**
+  * **[OverLeaf: Online LaTeX Editor](https://www.overleaf.com/)**, [Chinese Version](https://cn.overleaf.com)
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
   * **[Online Latex Formula Editor](https://www.latexlive.com/home)**
     * Latex formula editor.
