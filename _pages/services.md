@@ -71,7 +71,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center"><b>CAS Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="27"><b>International Conferences</b></td>
+    <td align="center" rowspan="28"><b>International Conferences</b></td>
     <td align="center">IJCAI - Jan 14</td>
     <td align="center">A*</td>
     <td align="center">-</td>
@@ -118,6 +118,11 @@ Conferences and Journals that I May Pay Attention to
   </tr>
   <tr>
     <td align="center">WISE - May 7</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">ICONIP - May 15</td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
