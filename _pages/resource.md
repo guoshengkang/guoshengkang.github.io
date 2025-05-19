@@ -76,6 +76,8 @@ Outline
 * **Latex**
   * **[OverLeaf: Online LaTeX Editor](https://www.overleaf.com/)**, [Chinese Version](https://cn.overleaf.com)
     * An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more.
+  * **[OnlineLatex](https://www.onlinelatex.com)**
+    * An online laTeX platform for academic writing, which is developed as a customized fork of the open-source code from Overleaf Community Edition.
   * **[Online Latex Formula Editor](https://www.latexlive.com/home)**
     * Latex formula editor.
   * **[SimpleTex](https://simpletex.cn/)**
