@@ -228,7 +228,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="52"><b>International Journals</b></td>
+    <td align="center" rowspan="51"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
@@ -414,7 +414,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">1</td>
   </tr>
   <tr>
-  <td align="center"><a href="https://www.ieee-ras.org/publications/t-ase">IEEE TASAE</a></td>
+  <td align="center"><a href="https://www.ieee-ras.org/publications/t-ase">IEEE T-ASE</a></td>
     <td align="center">B</td>
     <td align="center">1</td>
   </tr>
@@ -424,10 +424,6 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2</td>
   </tr>
   <tr>
-  <td align="center"><a href="https://www.computer.org/csdl/journal/su">IEEE TSUSC</a></td>
-    <td align="center">C</td>
-    <td align="center">2</td>
-  </tr>
   <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411">IEEE TSG</a></td>
     <td align="center">-</td>
@@ -450,7 +446,7 @@ Conferences and Journals that I May Pay Attention to
   </tr>
   <tr>
     <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR (OA)</a></td>
-    <td align="center">-</td>
+    <td align="center">C</td>
     <td align="center">4</td>
   </tr>
   <tr>
