@@ -416,7 +416,7 @@ Conferences and Journals that I May Pay Attention to
   <tr>
   <td align="center"><a href="https://www.ieee-ras.org/publications/t-ase">IEEE T-ASE</a></td>
     <td align="center">B</td>
-    <td align="center">1</td>
+    <td align="center">2</td>
   </tr>
   <tr>
   <td align="center"><a href="https://rs.ieee.org/transactions-on-reliability.html">IEEE TR</a></td>
