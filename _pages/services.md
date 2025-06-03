@@ -409,7 +409,7 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.ieeesmc.org/publications/transactions-on-smc-systems/">IEEE TSMC</a></td>
+    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021">IEEE TSMC</a></td>
     <td align="center">B</td>
     <td align="center">1</td>
   </tr>
