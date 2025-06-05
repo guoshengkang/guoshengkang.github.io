@@ -490,11 +490,6 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">4</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.hindawi.com/journals/wcmc/">WCMC</a></td>
-    <td align="center">C</td>
-    <td align="center">3</td>
-  </tr>
-  <tr>
     <td align="center" rowspan="10"><b>Chinese Journals</b></td>
     <td align="center"><a href="http://cjc.ict.ac.cn/">计算机学报</a></td>
     <td align="center">A*</td>
