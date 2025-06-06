@@ -16,3 +16,15 @@
 - 百度之星·程序设计大赛
 - 全国大学生计算机系统能力大赛
 - 全球校园人工智能算法精英大赛
+- [华为ICT大赛](https://e.huawei.com/cn/talent/ict-academy/#/home)
+- [全国大学生信息安全竞赛](http://www.ciscn.cn/)
+- [海峡两岸暨港澳地区大学生计算机创新作品赛](www.hncf.org)
+- [湖南省大学生计算机程序设计竞赛(应用开发类竞赛)](https://hnmachvi.csu.edu.cn/Hncr/index/)
+- [节能减排](http://www.jienengjianpai.org/)
+- [“创青春”全国大学生创业大赛](https://fjx.5idream.net/login)
+- [湖南省大学生物联网应用创新设计大赛(创意赛)](http://hiotf.org.cn/HNWLWXH/)
+- [全国大学生物联网设计竞赛(华为杯)](https://iot.sjtu.edu.cn/news.aspx?info_lb=36&flag=2)
+- [ICAN大学生创新创业大赛](http://www.g-ican.com/home/index)
+- [中国机器人及人工智能大赛](https://www.caairobot.com/)
+- [阿里云天池](https://tianchi.aliyun.com/university/student_competition)
+- [全国大学生算法设计与编程挑战赛](https://www.saikr.com/vse/adpc/2025/spring?ces=XB21209)
