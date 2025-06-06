@@ -227,7 +227,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="53"><b>International Journals</b></td>
+    <td align="center" rowspan="52"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
