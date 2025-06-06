@@ -60,9 +60,8 @@ Reviewer
   * IEEE BigData
   * CCF NCSC
 
-Conferences and Journals that I May Pay Attention to
+Conferences and Journals
 ------
-
 <table width="100%" align="center" frame="void">
   <tr>
     <td align="center"><b>Type</b></td>
@@ -429,7 +428,6 @@ Conferences and Journals that I May Pay Attention to
     <td align="center">2</td>
   </tr>
   <tr>
-  <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411">IEEE TSG</a></td>
     <td align="center">-</td>
     <td align="center">1</td>
@@ -546,6 +544,6 @@ Conferences and Journals that I May Pay Attention to
 [<<中科院文献情报中心期刊分区表>>](https://www.fenqubiao.com/)
 
 Call For Papers
-------
+--------
 - [Upcoming Conferences](http://www.conferencelist.info/upcoming.html)
 - [Conference Partner](https://www.myhuiban.com/)
