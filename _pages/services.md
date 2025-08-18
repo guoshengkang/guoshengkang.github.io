@@ -227,7 +227,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="52"><b>International Journals</b></td>
+    <td align="center" rowspan="53"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
@@ -461,6 +461,11 @@ Conferences and Journals
     <td align="center"><a href="https://www.inderscience.com/jhome.php?jcode=ijwgs">IJWGS</a></td>
     <td align="center">-</td>
     <td align="center">4</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/information-systems">INFOSYS</a></td>
+    <td align="center">B</td>
+    <td align="center">3</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a></td>
