@@ -343,11 +343,6 @@ Conferences and Journals
     <td align="center">1*</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://ieeeaccess.ieee.org">IEEE Access</a></td>
-    <td align="center">-</td>
-    <td align="center">3</td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence">IEEE TAI</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
@@ -369,6 +364,11 @@ Conferences and Journals
   </tr>
   <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13">IEEE TE</a></td>
+    <td align="center">-</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17">IEEE TEM</a></td>
     <td align="center">-</td>
     <td align="center">3</td>
   </tr>
