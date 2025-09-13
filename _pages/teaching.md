@@ -19,7 +19,9 @@ redirect_from:
   * [2020, Fall (2020级计算机01~04&软件1~3)](http://guoshengkang.github.io/teaching/2020-fall-foundations-of-computer-science)  
   * 2023, Fall (2022级重修班级, 2023级计科01~02班)
   * 2024, Fall (2024级软件1~4)
-  * 2025, Fall (2025级重修班级, 2025级计科9~12班)
+  * 2025, Fall (2024级重修班级, 2025级计科9~12班)
+* **The Foundation of College Students' Innovation and Entrepreneurship**, Undergraduate, 16'
+  * 2025, Fall (2023级软件1~4)
 * [**Discrete Mathematical Structures**](http://guoshengkang.github.io/teaching/fall-discrete-mathematical-structures), Undergraduate, 72'
   * 2021, Fall (2021级大数据1~3)
   * 2022, Fall (2022级软件1~3)
