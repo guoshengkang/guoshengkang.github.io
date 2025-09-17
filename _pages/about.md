@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2025/09/17, One paper has been accepted by ICSOC 2025, congratulations to **Jiayu Li** and **Xinci Qiu**.
 - 2025/08/21, One paper has been accepted by IEEE TCSS, congratulations to **Hongshuai Ren**.
 - 2025/04/01, One paper has been accepted by IJCNN, congratulations to **Jiayu Li** and **Qingping Li**.
 - 2025/03/28, One paper has been accepted by CCPE, congratulations to **Jiawei Chen** and **Jiayi Zhong**.
