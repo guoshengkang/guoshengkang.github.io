@@ -9,7 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal Papers
 ------
-* **Guosheng Kang**, Yan Li, Xiaokang Zhou, Wanjun Chen, Jianxun Liu*, and Yu Xu. Multi-Task Joint Training for Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. **IEEE Transactions on Consumer Electronics**, 2025, DOI: 10.1109/TCE.2025.3614572
+* **Guosheng Kang**, **Yan Li**, Xiaokang Zhou, Wanjun Chen, Jianxun Liu*, and Yu Xu. Multi-Task Joint Training for Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. **IEEE Transactions on Consumer Electronics**, 2025, DOI: 10.1109/TCE.2025.3614572
 * **Guosheng Kang**, **Hongshuai Ren**, Jianxun Liu, Buqing Cao, Yu Xu, Pei Li*. TCL: Trustworthy Contrastive Learning for Web API Recommendation via Exploring Textual and Structural Semantics. **IEEE Transactions on Computational Social Systems**, 2025, DOI: 10.1109/TCSS.2025.3602629
 * **Guosheng Kang**, **Zhen Wang**, Hangyu Cheng, Jianxun Liu*, Yiping Wen, Jun Peng. Modeling Multilevel Business Process Monitoring via BPMN Extension. **Concurrency and Computation: Practice and Experience**, Vol. 37, No. 12-14, pp. 1-12, 2025. 
 * **Jiawei Chen**, **Jiayi Zhong**, **Guosheng Kang***, Jianxun Liu, Yiping Wen. Variantrank: Business Process Event Log Sampling Based on Importance of Trace Variants. **Concurrency and Computation: Practice and Experience**, Vol. 37, No. 9-11, pp. 1-11, 2025. 
