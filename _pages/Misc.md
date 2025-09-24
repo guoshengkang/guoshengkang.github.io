@@ -38,8 +38,6 @@ About Xiangtan
 
 Xiangtan is located on the lower reaches of Xiang river, which is very close to Changsha (30km), Hengshan (60km) and Zhangjiajie (National Forest Park). It is the hometowns of several founding leaders of the Chinese Communist Party, including Chairman Mao, Shaoqi Liu, and Dehuai Peng, as well as the hometowns of Qing Dynasty painter Baishi Qi and military general Guofan Zeng.
 
-For international tourists, there is a website for you to explore all in Hunan: <http://www.tourhunan.com>.
-
 Hobbies
 ------
 * Play ping-pong
