@@ -58,7 +58,7 @@ Journal Papers
 
 Conference Papers
 ------
-- **Jiayu Li**, Xinci Qiu, **Guosheng Kang***, Yan Li, and Jianxun Liu. TSSGCF: Textual Similarity-Supervised Graph Collaborative Filtering for Web API Recommendation. **International Conference on Service-Oriented Computing**, Springer, 2025, Accept. 
+- **Jiayu Li**, **Xinci Qiu**, **Guosheng Kang***, Yan Li, and Jianxun Liu. TSSGCF: Textual Similarity-Supervised Graph Collaborative Filtering for Web API Recommendation. **International Conference on Service-Oriented Computing**, Springer, 2025, Accept. 
 - **Jiayu Li**, **Qingping Li**, Yan Li, Xin Ai, Jie Chen, Jiayan Xiang, **Guosheng Kang***. CS-LightGCL: Composition-Supervised LightGCL for Interactive Web API Recommendation.  **International Joint Conference on Neural Networks**. IEEE Computer Society, 2025, Accepted.
 - **Jiayi Zhong**, **Yaling Tang**, Jiawei Chen, Xiaokang Zhou, Xiaocong Xiao\*, **Guosheng Kang***. Collaboration-Aware Service Composition Optimization for Production Factors Under Industrial Internet. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, pp. 1894-1899, 2025. [PDF](https://pan.baidu.com/s/1BhtuRwVG4vjk8uIkUyAezg?pwd=kang)
 * **Jiexun Shen**, Dongfan Li, Wanjun Chen, Yong Xiao\*, **Guosheng Kang***, Jianxun Liu, Zhenlian Peng. Multi-view Hypergraph-based Self-supervised Learning Model for Web API Recommendation. **International Symposium on Parallel and Distributed Processing with Applications**. IEEE Computer Society, pp. 637-644, 2024. [PDF](https://pan.baidu.com/s/1IArrvQ_rZJv_eiMVOBVpuw?pwd=kang)
