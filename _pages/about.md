@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2025/11/09, One paper has been accepted by SOCA, congratulations to **Wen Li**.
 - 2025/10/15, Two papers have been accepted by CBPM 2025, congratulations to **Jiawei Chen** and **Jinhui Luo**.
 - 2025/09/23, One paper has been accepted by IEEE TCE, congratulations to **Yan Li**.
 - 2025/09/17, One paper has been accepted by ICSOC 2025, congratulations to **Jiayu Li** and **Xinci Qiu**.
