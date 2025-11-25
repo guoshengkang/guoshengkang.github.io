@@ -39,11 +39,11 @@ Supervised & Co-supervised Students
   - Thesis: 基于异构网络表征学习的Web服务推荐方法研究
 - **Zhuo Chen (陈卓)**, Master Student, <font color='blue'>cz2424895@gmail.com</font>, 2023.09-
   - Thesis: 基于大语言模型的Web服务推荐方法研究
-- **Weike Zhou (周维克)**, Master Student, <font color='blue'>lilvicky.0408@gmail.com</font>, 2022.09-
+- **Weike Zhou (周维克)**, Master Student, <font color='blue'>lilvicky.0408@gmail.com</font>, 2022.09-2025.06
   - Thesis: 面向在线教育的课程推荐方法研究
-- **Yang Wang (王洋)**, Master Student, <font color='blue'>brownyangw@gmail.com</font>, 2022.09-
+- **Yang Wang (王洋)**, Master Student, <font color='blue'>brownyangw@gmail.com</font>, 2022.09-2025.06
   - Thesis: 面向ProgrammableWeb的服务生态系统动态演化分析
-- **Zhen Wang (王祯)**, Master Student, <font color='blue'>luckyzhen19@gmail.com</font>, 2022.09-
+- **Zhen Wang (王祯)**, Master Student, <font color='blue'>luckyzhen19@gmail.com</font>, 2022.09-2025.06
   - Thesis: 基于BPMN扩展的业务流程监控建模及其应用
 - **Wenqiang Zhang (张文强)**, Master Student, <font color='blue'>wqzhang2022@gmail.com</font>, 2022.02-2024.06
   - Thesis: 工业互联网环境下面向生产要素的服务推荐方法
