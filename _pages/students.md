@@ -28,11 +28,11 @@ I’m fortunate to work with the following brilliant students.
 Supervised & Co-supervised Students
 ------
 - **Yan Li (李岩)**, Master Student, <font color='blue'>sgly33@gmail.com</font>, 2024.09-
-  - Thesis: 公平性感知的Web API推荐方法研究
+  - Thesis: 长尾驱动的Web API推荐方法研究
 - **Guotai He (贺国泰)**, Master Student, <font color='blue'>guotaihe3@gmail.com</font>, 2024.09-
-  - Thesis: 带分布式电源的配电网故障智能恢复方法研究
+  - Thesis: 含分布式电源的配电网故障恢复方法研究
 - **Jiawei Chen (谌佳伟)**, Master Student, <font color='blue'>jiaweichen0031@gmail.com</font>, 2024.09-
-  - Thesis: 业务流程预测性监控方法研究
+  - Thesis: 业务流程下一事件预测方法研究
 - **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-
   - Thesis: 基于对比学习的Web服务表征方法研究
 - **Jianhua Feng (封建华)**, Master Student, <font color='blue'>fengjianhua411@gmail.com</font>, 2023.09-
