@@ -227,7 +227,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="53"><b>International Journals</b></td>
+    <td align="center" rowspan="54"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tiis">ACM TIIS</a></td>
     <td align="center">C</td>
     <td align="center">4</td>
@@ -451,6 +451,11 @@ Conferences and Journals
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860">IEEE T-SUSC</a></td>
     <td align="center">C</td>
     <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/information-fusion">IF</a></td>
+    <td align="center">-</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.igi-global.com/journal/international-journal-web-services-research/1079">IJWSR (OA)</a></td>
