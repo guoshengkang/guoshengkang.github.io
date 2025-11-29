@@ -67,6 +67,7 @@ Outline
   * **[IEEE Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)**
   * **[IEEE Conference Templates](https://www.ieee.org/conferences/publishing/templates.html)**
   * **[Citexs](https://www.citexs.com/)**
+  * **[Turnitin](https://biyebang.chachongz.com/turnitin)**
   * EndNote Styles
     * [IEEE Conferences](http://guoshengkang.github.io/resources/IEEE_Conferences.ens)
     * [SpringerBasicNumber](http://guoshengkang.github.io/resources/SpringerBasicNumber.ens)
