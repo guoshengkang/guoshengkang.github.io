@@ -33,12 +33,12 @@ redirect_from:
 * **Software Service Engineering and Software Project Management**+**Service-Oriented Software Engineering**, Postgraduate, 32'
   * [2024, Fall (2024级学硕+2024级博士)](http://guoshengkang.github.io/teaching/2024-fall-service-oriented-software-engineering)
 * **Course Project**, Undergraduate, 20'/40'
-  * Database (2020/2022/2024 Fall)
+  * Database (2020/2022/2024/2025 Fall)
   * C Programming (2021/2022/2023/2024/2025 Spring)
   * Data Structure (2025 Spring)
   * Operating System (2021/2022/2023 Spring)
   * Comprehensive Practical Ability Innovation Training (2021/2024 Fall, 2024 Spring, 2025 Spring)
-  * Production Practice (2023/2024 Fall)
+  * Production Practice (2023/2024/2025 Fall)
 
 - - -
 
