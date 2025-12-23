@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2025/11/20, One paper has been accepted by SOCA, congratulations to **Zhuo Chen**.
 - 2025/11/09, One paper has been accepted by SOCA, congratulations to **Wen Li**.
 - 2025/10/15, Two papers have been accepted by CBPM 2025, congratulations to **Jiawei Chen** and **Jinhui Luo**.
 - 2025/09/23, One paper has been accepted by IEEE TCE, congratulations to **Yan Li**.
@@ -21,18 +22,6 @@ What’s new
 - 2025/03/22, One paper has been accepted by CCPE, congratulations to **Zhen Wang**.
 - 2025/03/13, One paper has been accepted by JIT, congratulations to **Weike Zhou**.
 - 2025/02/05, One paper has been accepted by CSCWD 2025, congratulations to **Jiayi Zhong** and **Yaling Tang**.
-- 2024/12/09, One paper has been accepted by IEEE TNSM, congratulations to **Hongshuai Ren**.
-- 2024/09/28, One paper has been accepted by IEEE TAI, congratulations to **Yang Wang**.
-- 2024/09/05, One paper has been accepted by ACML 2024, congratulations to **Huiyu Zhai**.
-- 2024/08/22, One paper has been accepted by IEEE ISPA 2024, congratulations to **Jiexun Shen**.
-- 2024/07/11, One paper has been accepted by IEEE SMC 2024, congratulations to **Huiyu Zhai**.
-- 2024/06/30, One paper has been accepted by IEEE TNSM, congratulations to **Bowen Liang**.
-- 2024/06/21, One paper has been accepted by IEEE TNSM, congratulations to **Yang Wang**.
-- 2024/06/12, One postgraduate scientific research innovation project of Hunan province is approved, congratulations to **Hongshuai Ren**.
-- 2024/05/14, One paper has been accepted by IEEE ICWS 2024, congratulations to **Qiqi Chen**.
-- 2024/04/15, One paper has been accepted by CCF ICSS 2024, congratulations to **Wen Li**.
-- 2024/01/31, Three papers have been accepted by CSCWD 2024, congratulations to **Weike Zhou**, **Wanjun Chen** and **Lihong Zhang**.
-- 2024/01/11, One paper has been accepted by IEEE TASE, congratulations to **Hangyu Cheng**.
 
 Contact
 ------
