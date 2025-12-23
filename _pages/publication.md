@@ -9,7 +9,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 Journal Papers
 ------
-* **Guosheng Kang**, **Zhuo Chen**, Yang Wang, Jianxun Liu, Yong Xiao,Min Shi. Feature-enhanced web API recommendation via large language model and heterogeneous graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
+* **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao,Min Shi. Feature-enhanced web API recommendation via large language model and heterogeneous graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
 * **Wen Li**, Xin Ai, **Guosheng Kang***, Xinci Qiu, Jianxun Liu. LLM-Based RESTful Web API Service Discovery. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00485-4.
 * **Guosheng Kang**, **Yan Li**, Xiaokang Zhou, Wanjun Chen, Jianxun Liu*, Yu Xu. Multi-Task Joint Training for Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. **IEEE Transactions on Consumer Electronics**, 2025, DOI: 10.1109/TCE.2025.3614572
 * **Guosheng Kang**, **Hongshuai Ren**, Jianxun Liu, Buqing Cao, Yu Xu, Pei Li*. TCL: Trustworthy Contrastive Learning for Web API Recommendation via Exploring Textual and Structural Semantics. **IEEE Transactions on Computational Social Systems**, 2025, DOI: 10.1109/TCSS.2025.3602629
