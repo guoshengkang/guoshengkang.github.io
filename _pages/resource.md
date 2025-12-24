@@ -103,7 +103,8 @@ Outline
 * **Others**
   * **[Paper with Code](https://paperswithcode.com/)** 
   * **[ChatGPT](https://openai.com/blog/chatgpt)**
-  * **[Gemini](https://gemini.google.com/)**
+  * **[DeepSeek](https://chat.deepseek.com/)**
+  * **[Gemini](https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview)**
   * **[Llama](https://llama.meta.com/)**
   * **[学术AI](https://chat.uaskgpt.com/)**
   * **[Distill](https://distill.pub/)**
