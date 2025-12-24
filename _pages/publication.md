@@ -11,7 +11,7 @@ Journal Papers
 ------
 * **Guosheng Kang**, **Jianhua Feng**, Yong Xiao*, JIanxun Liu, Buqing Cao. HITT: Heterogeneous Imbalance-Text Transformer for Web Service
 Representation. **International Journal of Web and Grid Services**, 2025, Accepted.
-* **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao,Min Shi. Feature-Enhanced Web API Recommendation via Large Language Model and Heterogeneous Graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
+* **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao, Min Shi. Feature-Enhanced Web API Recommendation via Large Language Model and Heterogeneous Graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
 * **Wen Li**, Xin Ai, **Guosheng Kang***, Xinci Qiu, Jianxun Liu. LLM-Based RESTful Web API Service Discovery. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00485-4.
 * **Guosheng Kang**, **Yan Li**, Xiaokang Zhou, Wanjun Chen, Jianxun Liu*, Yu Xu. Multi-Task Joint Training for Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. **IEEE Transactions on Consumer Electronics**, 2025, DOI: 10.1109/TCE.2025.3614572
 * **Guosheng Kang**, **Hongshuai Ren**, Jianxun Liu, Buqing Cao, Yu Xu, Pei Li*. TCL: Trustworthy Contrastive Learning for Web API Recommendation via Exploring Textual and Structural Semantics. **IEEE Transactions on Computational Social Systems**, 2025, DOI: 10.1109/TCSS.2025.3602629
