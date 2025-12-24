@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2025/12/12, One paper has been accepted by IJWGS, congratulations to **Jianhua Feng**.
 - 2025/11/20, One paper has been accepted by SOCA, congratulations to **Zhuo Chen**.
 - 2025/11/09, One paper has been accepted by SOCA, congratulations to **Wen Li**.
 - 2025/10/15, Two papers have been accepted by CBPM 2025, congratulations to **Jiawei Chen** and **Jinhui Luo**.
