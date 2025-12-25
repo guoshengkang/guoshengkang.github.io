@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2025/12/24, One paper has been accepted by ESWA, congratulations to **Guotai He**.
 - 2025/12/12, One paper has been accepted by IJWGS, congratulations to **Jianhua Feng**.
 - 2025/11/20, One paper has been accepted by SOCA, congratulations to **Zhuo Chen**.
 - 2025/11/09, One paper has been accepted by SOCA, congratulations to **Wen Li**.
