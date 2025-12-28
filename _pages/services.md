@@ -227,7 +227,12 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="54"><b>International Journals</b></td>
+    <td align="center" rowspan="55"><b>International Journals</b></td>
+    <td align="center"><a href="https://dl.acm.org/journal/tais">ACM TAIS</a></td>
+    <td align="center"> </td>
+    <td align="center"> </td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://dl.acm.org/journal/tiis">ACM TIIS</a></td>
     <td align="center">C</td>
     <td align="center">4</td>
