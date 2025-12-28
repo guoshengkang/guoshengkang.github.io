@@ -423,7 +423,7 @@ Conferences and Journals
     <td align="center">2</td>
   </tr>
   <tr>
-  <td align="center"><a href="https://rs.ieee.org/transactions-on-reliability.html">IEEE TR</a></td>
+  <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24">IEEE TR</a></td>
     <td align="center">C</td>
     <td align="center">2</td>
   </tr>
