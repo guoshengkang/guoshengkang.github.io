@@ -8,11 +8,11 @@ author_profile: true
 - [**Conference Papers**](#Conference Papers)
 - [**Patents**](#Patents)
 - [**Copyrights**](#Copyrights)
-
+- [**Technical Reports**](#Technical Reports)
 ------
 You can also find my papers on my <a href="https://scholar.google.com.hk/citations?user=dGw4VPoAAAAJ&hl=en">Google Scholar profile</a> or <a href="https://dblp.org/pers/hd/k/Kang:Guosheng">DBLP</a>, however, it may not be up to date.
 
-Journal Papers
+##  <span id="Journal Papers">Journal Papers</span> 
 ------
 * **Guosheng Kang**, **Guotai He**, Yaling Tang, Junhua Xu*, Xinyu You, Xiaocong Xiao. Ring Matrix Encoding-Based Global Optimization for Fault Recovery of Distribution Network with Distributed Generation. **Expert Systems With Applications**, 2025, DOI: 10.1016/j.eswa.2025.130998.
 * **Guosheng Kang**, **Jianhua Feng**, Yong Xiao*, JIanxun Liu, Buqing Cao. HITT: Heterogeneous Imbalance-Text Transformer for Web Service
@@ -64,7 +64,8 @@ Representation. **International Journal of Web and Grid Services**, 2025, Accept
 
 [//]: # * 禹蒲阳, **康国胜**. 可信计算的研究与发展. **计算机技术与发展**, Vol. 21, No. 8, pp. 233-236, 2011.
 
-Conference Papers
+
+##  <span id="Conference Papers">Conference Papers</span> 
 ------
 - **Jiayu Li**, **Xinci Qiu**, **Guosheng Kang***, Yan Li, and Jianxun Liu. TSSGCF: Textual Similarity-Supervised Graph Collaborative Filtering for Web API Recommendation. **International Conference on Service-Oriented Computing**, Springer, PP. 102-117, 2025. [PDF]( https://pan.baidu.com/s/1m9thqawF4RNAVul3bB-ubw)
 - **Jiayu Li**, **Qingping Li**, Yan Li, Xin Ai, Jie Chen, Jiayan Xiang, **Guosheng Kang***. CS-LightGCL: Composition-Supervised LightGCL for Interactive Web API Recommendation. **International Joint Conference on Neural Networks**. IEEE Computer Society, pp. 1-8, 2025. [PDF](https://pan.baidu.com/s/1S3pqn5uKJ9xA-RQ6QtJ9Rg?).
@@ -95,7 +96,7 @@ Conference Papers
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Yu Xu. An Effective Dynamic Web Service Selection Strategy with Global Optimal QoS Based on Particle Swarm Optimization Algorithm. **International Parallel and Distributed Processing Symposium Workshops & PhD Forum**. IEEE Computer Society, pp. 2274-2279, 2012. [PDF](https://pan.baidu.com/s/14R4jQKykv8nTVxnm3cja5g)
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Xiaoqing (Frank) Liu, Kenneth K. Fletcher. Web Service Selection for Resolving Conflicting Service Requests. **IEEE International Conference on Web Services**. IEEE Computer Society, pp. 387-394, 2011. [PDF](https://pan.baidu.com/s/1dZnAMm-gtluwozyppFNcVw)
 
-Patents
+##  <span id="Patents">Patents</span> 
 ------
 * **康国胜**, 贺国泰, 徐俊华, 游新宇. 一种基于环矩阵编码的含分布式电源配电网故障恢复全局优化方法, 2025.04.14, 发明专利, 申请号: 2025104611604
 * **康国胜**, 谌佳伟, 刘建勋, 肖小聪. 一种工业互联网下生产要素协同感知服务组合优化方法, 2025.04.08, 发明专利, 申请号: 2025104330140
@@ -111,7 +112,7 @@ Patents
 * **康国胜**, 刘建勋, 丁领航. 一种基于特征深度融合的Web服务多维QoS联合预测方法, 2023.11.17, 发明专利, 专利号: ZL202210126027.X
 * 张亮, 杨丽琴, **康国胜**. 一种适用于多样性环境的业务流程挖掘方法, 2018.04.12, 发明专利, 专利号: ZL201410723646.2
 
-Copyrights
+##  <span id="Copyrights">Copyrights</span> 
 ------
 * **康国胜**, 唐雅玲, 翟惠宇, 王启锐, 刘子豪. 面向高校师生的校园失物招领平台, 2024.10.30, 计算机软件著作权, 登记号: 2024SR1647689, 中华人民共和国国家版权局
 * **康国胜**, 任宏帅, 李文, 于港. Available: 基于微信小程序的云去向系统, 2023.12.28, 计算机软件著作权, 登记号: 2023SR1792249, 中华人民共和国国家版权局
@@ -121,7 +122,7 @@ Copyrights
 * **康国胜**, 梁博文, 肖勇, 程航宇. 面向ProgrammableWeb网站的Web服务爬虫系统, 2022.07.28, 计算机软件著作权, 登记号: 2022SR0974413, 中华人民共和国国家版权局
 * 刘建勋, 谢润彬, **康国胜**. 基于进化算法的Web服务组合推荐系统, 2022.03.10, 计算机软件著作权, 登记号: 2021SR1129456, 中华人民共和国国家版权局
 
-Technical reports
+##  <span id="Technical Reports">Technical Reports</span> 
 ------
 
 * Pending
