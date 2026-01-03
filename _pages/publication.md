@@ -3,8 +3,11 @@ layout: archive
 permalink: /publication/
 author_profile: true
 
----
-
+- [**Journal Papers**](#Journal Papers)
+- [**Conference Papers**](#Conference Papers)
+- [**Patents**](#Patents)
+- [**Copyrights**](#Copyrights)
+------
 You can also find my papers on my <a href="https://scholar.google.com.hk/citations?user=dGw4VPoAAAAJ&hl=en">Google Scholar profile</a> or <a href="https://dblp.org/pers/hd/k/Kang:Guosheng">DBLP</a>, however, it may not be up to date.
 
 Journal Papers
