@@ -9,6 +9,7 @@ author_profile: true
 - [**Patents**](#Patents)
 - [**Copyrights**](#Copyrights)
 - [**Technical Reports**](#Technical Reports)
+
 ------
 You can also find my papers on my <a href="https://scholar.google.com.hk/citations?user=dGw4VPoAAAAJ&hl=en">Google Scholar profile</a> or <a href="https://dblp.org/pers/hd/k/Kang:Guosheng">DBLP</a>, however, it may not be up to date.
 
