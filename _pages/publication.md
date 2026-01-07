@@ -15,7 +15,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 ##  <span id="Journal Papers">Journal Papers</span> 
 ------
-* **Guosheng Kang**, **Guotai He**, Yaling Tang, Junhua Xu*, Xinyu You, Xiaocong Xiao. Ring Matrix Encoding-Based Global Optimization for Fault Recovery of Distribution Network with Distributed Generation. **Expert Systems With Applications**, 2025, DOI: 10.1016/j.eswa.2025.130998.
+* **Guosheng Kang**, **Guotai He**, Yaling Tang, Junhua Xu*, Xinyu You, Xiaocong Xiao. Ring Matrix Encoding-Based Global Optimization for Fault Recovery of Distribution Network with Distributed Generation. **Expert Systems With Applications**, Vol. 307, No. 2026, pp. 130998-131007, 2026. [PDF](https://pan.baidu.com/s/1l2qZI79r0GxJmJDdfsARzQ)
 * **Guosheng Kang**, **Jianhua Feng**, Yong Xiao*, JIanxun Liu, Buqing Cao. HITT: Heterogeneous Imbalance-Text Transformer for Web Service
 Representation. **International Journal of Web and Grid Services**, 2025, Accepted.
 * **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao, Min Shi. Feature-Enhanced Web API Recommendation via Large Language Model and Heterogeneous Graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
