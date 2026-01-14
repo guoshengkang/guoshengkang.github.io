@@ -43,6 +43,7 @@ Working Experience
 
 Awards
 ======
+* Xiangjiang Scholar of Hunan University of Science and Technology, 2025~2030
 * Endeavor Scholar of Hunan University of Science and Technology, 2022
 * First prize of the award for outstanding Ph.D. students at Fudan University, 2014
 * Second prize of the award for outstanding Ph.D. students at Fudan University, 2013
