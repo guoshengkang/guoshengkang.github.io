@@ -125,5 +125,4 @@ Representation. **International Journal of Web and Grid Services**, 2025, Accept
 
 ##  <span id="Technical Reports">Technical Reports</span> 
 ------
-
-* Pending
+* AI for Science： 人工智能如何重塑科学发现. [PDF](https://pan.baidu.com/s/1xgekpMDDkiiK8qbTERHioQ)
