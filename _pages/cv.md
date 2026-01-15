@@ -25,10 +25,16 @@ Education
 
 Working Experience
 ======
-* 2020.2-Now: Lecturer
+* 2025.12-Now: Associate Professor
   * School of Coputer Science and Engineering at Hunan University of Science and Technology
 
-* 2016.9-2018.8: BigData Engineer and Data Mining Engineer
+* 2023.01-2025.11: University-Appointed Associate Professor
+  * School of Coputer Science and Engineering at Hunan University of Science and Technology
+
+* 2020.02-2022.12: Lecturer
+  * School of Coputer Science and Engineering at Hunan University of Science and Technology
+
+* 2016.09-2018.08: BigData Engineer and Data Mining Engineer
   * 3 Startup Companies
   * Duties included: User portrait, SMS click prediction, sales forecast, etc.
 
@@ -37,14 +43,14 @@ Working Experience
   * Duties included: Data analysis on image data
   * Supervisor: [Qian Lin](https://www.linkedin.com/in/qianlinca/)
   
-* 2011.7-2012.8: Research Assistant
+* 2011.07-2012.08: Research Assistant
   * [Hunan University of Science and Technology](http://www.hnust.edu.cn/)
   * Duties included: Research on Service Computing
 
 Awards
 ======
-* Xiangjiang Scholar of Hunan University of Science and Technology, 2025~2030
-* Endeavor Scholar of Hunan University of Science and Technology, 2022
+* Xiangjiang Scholar of Hunan University of Science and Technology, 2025.02.01~2030.01.31
+* Endeavor Scholar of Hunan University of Science and Technology, 2022.02.01~2023.01.31
 * First prize of the award for outstanding Ph.D. students at Fudan University, 2014
 * Second prize of the award for outstanding Ph.D. students at Fudan University, 2013
 * Excellent master's thesis of Hunan province, 2013
