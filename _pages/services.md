@@ -227,7 +227,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="55"><b>International Journals</b></td>
+    <td align="center" rowspan="56"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tais">ACM TAIS</a></td>
     <td align="center"> </td>
     <td align="center"> </td>
@@ -446,6 +446,11 @@ Conferences and Journals
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=61">IEEE TPD</a></td>
     <td align="center">-</td>
     <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63">IEEE TPEL</a></td>
+    <td align="center">-</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165391">IEEE TSTE</a></td>
