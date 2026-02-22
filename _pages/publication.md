@@ -15,6 +15,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 ##  <span id="Journal Papers">Journal Papers</span> 
 ------
+* **Guosheng Kang**, **Qiqi Chen**, Jiawei Chen, Jianxun Liu*, Buqing Cao. CoWAR: A General Complementary Web API Recommendation Framework based on Learning Model. **IEEE Transactions on Reliability**, 2025, DOI: 10.1109/TR.2026.3667714.
 * **Guosheng Kang**, **Jianhua Feng**, Yong Xiao*, JIanxun Liu, Buqing Cao. HITT: Heterogeneous Imbalance-Text Transformer for Web Service
 Representation. **International Journal of Web and Grid Services**, 2025, DOI:10.1504/IJWGS.2026.10076122.
 * **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao, Min Shi. Feature-Enhanced Web API Recommendation via Large Language Model and Heterogeneous Graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
