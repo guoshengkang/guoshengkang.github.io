@@ -227,7 +227,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="56"><b>International Journals</b></td>
+    <td align="center" rowspan="57"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tais">ACM TAIS</a></td>
     <td align="center"> </td>
     <td align="center"> </td>
@@ -276,6 +276,11 @@ Conferences and Journals
     <td align="center"><a href="https://www.springer.com/journal/10489">APIN</a></td>
     <td align="center">C</td>
     <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/applied-soft-computing">ASC</a></td>
+    <td align="center">-</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.mdpi.com/journal/applsci#">Applied Sciences (OA)</a></td>
