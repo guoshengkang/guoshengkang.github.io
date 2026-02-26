@@ -26,6 +26,8 @@ redirect_from:
   * 2021, Fall (2021级大数据1~3)
   * 2022, Fall (2022级软件1~3)
   * 2024, Fall (2024级软件1~4)
+* [**Software Engineering**](), Undergraduate, 40'
+  * 2025, Fall (2023级计算机01~02)
 * **Modern Software Engineering**, Postgraduate, 40'
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
   * [2022, Spring (2021级研究生)](http://guoshengkang.github.io/teaching/2022-spring-advanced-software-engineering)
