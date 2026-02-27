@@ -3,6 +3,7 @@ title: "Software Collection"
 collection: resource
 permalink: /resource/software-collection
 ---
+* [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 * [Clover (WIN)](https://pan.baidu.com/s/1CqVd2JLbECoFH_3UiNyxPw)
 * [CareUEyes](https://pan.baidu.com/s/1io28HDZK8bMtb-KgU7OXAg)  
 * [Draw.io-13.3.9-windows-installer](https://pan.baidu.com/s/1SoGCHMEdU7YHLX13XbG0vA)
