@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2026/02/28, One paper has been accepted by ESWA, congratulations to **Yan Li**.
 - 2026/02/22, One paper has been accepted by IEEE TR, congratulations to **Qiqi Chen**.
 - 2026/02/01, Four papers have been accepted by CSCWD 2026, congratulations to **Mingjie Xie**, **Xinci Qiu**, **Xiaoxiang Liao**, and **Jiayi Long**.
 - 2025/12/24, One paper has been accepted by ESWA, congratulations to **Guotai He**.
