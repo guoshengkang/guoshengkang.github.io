@@ -16,10 +16,10 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 ##  <span id="Journal Papers">Journal Papers</span> 
 ------
 * **Guosheng Kang**, **Qiqi Chen**, Jiawei Chen, Jianxun Liu*, Buqing Cao. CoWAR: A General Complementary Web API Recommendation Framework based on Learning Model. **IEEE Transactions on Reliability**, 2026, DOI: 10.1109/TR.2026.3667714.
-* **Guosheng Kang**, **Jianhua Feng**, Yong Xiao*, JIanxun Liu, Buqing Cao. HITT: Heterogeneous Imbalance-Text Transformer for Web Service
-Representation. **International Journal of Web and Grid Services**, 2025, DOI:10.1504/IJWGS.2026.10076122.
 * **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao, Min Shi. Feature-Enhanced Web API Recommendation via Large Language Model and Heterogeneous Graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
 * **Wen Li**, Xin Ai, **Guosheng Kang***, Xinci Qiu, Jianxun Liu. LLM-Based RESTful Web API Service Discovery. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00485-4.
+* **Guosheng Kang**, **Jianhua Feng**, Yong Xiao*, JIanxun Liu, Buqing Cao. HITT: Heterogeneous Imbalance-Text Transformer for Web Service
+Representation. **International Journal of Web and Grid Services**, Vol. 22, No. 1, pp. 63-89, 2026.
 * **Guosheng Kang**, **Hongshuai Ren**, Jianxun Liu, Buqing Cao, Yu Xu, Pei Li*. TCL: Trustworthy Contrastive Learning for Web API Recommendation via Exploring Textual and Structural Semantics. **IEEE Transactions on Computational Social Systems**, Vol. 13, No. 1, pp. 727-738, 2026. [PDF](https://pan.baidu.com/s/1bnzUGErRNRagKvlOFKiEXg)
 * **Guosheng Kang**, **Guotai He**, Yaling Tang, Junhua Xu*, Xinyu You, Xiaocong Xiao. Ring Matrix Encoding-Based Global Optimization for Fault Recovery of Distribution Network with Distributed Generation. **Expert Systems With Applications**, Vol. 307, No. 2026, pp. 130998-131007, 2026. [PDF](https://pan.baidu.com/s/1l2qZI79r0GxJmJDdfsARzQ)
 * **Guosheng Kang**, **Yan Li**, Xiaokang Zhou, Wanjun Chen, Jianxun Liu*, Yu Xu. Multi-Task Joint Training for Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. **IEEE Transactions on Consumer Electronics**, Vol. 71, No. 4, pp. 10256-10269, 2025. [PDF](https://pan.baidu.com/s/1VeY2KAyuxMdhbJKaOWr7zA)
