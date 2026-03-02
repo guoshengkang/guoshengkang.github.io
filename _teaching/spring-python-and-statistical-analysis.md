@@ -1,8 +1,8 @@
 ---
-title: "C Programming (Spring)"
+title: "Python and Statistical Analysis (Spring)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/spring-c-programming
+permalink: /teaching/spring-python-and-statistical-analysis
 venue: "HNUST"
 ---
 ## Contents
