@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [**C Programming**](http://guoshengkang.github.io/teaching/spring-python-and-statistical-analysis), Undergraduate, 40'
+* [**Python and Statistical Analysis**](http://guoshengkang.github.io/teaching/spring-python-and-statistical-analysis), Undergraduate, 40'
   * 2026, Spring (2024级计科(智能)9班)
 * [**Python Programming**](http://guoshengkang.github.io/teaching/spring-python-programming), Undergraduate, 32'+24'
   * 2026, Spring (2025级采矿1~3)
