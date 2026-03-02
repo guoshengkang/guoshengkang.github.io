@@ -7,7 +7,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+* [**C Programming**](http://guoshengkang.github.io/teaching/spring-python-and-statistical-analysis), Undergraduate, 40'
+  * 2026, Spring (2024级计科(智能)9班)
+* [**Python Programming**](http://guoshengkang.github.io/teaching/spring-python-programming), Undergraduate, 32'+24'
+  * 2026, Spring (2025级采矿1~3)
 * [**C Programming**](http://guoshengkang.github.io/teaching/spring-c-programming), Undergraduate, 32'+24'
   * 2020, Spring (2019级能化1~3&制药1~3)
   * 2021, Spring (2020级建环1~3&环境1~3)
@@ -36,9 +39,9 @@ redirect_from:
   * [2024, Fall (2024级学硕+2024级博士)](http://guoshengkang.github.io/teaching/2024-fall-service-oriented-software-engineering)
 * **Course Project**, Undergraduate, 20'/40'
   * Database (2020/2022/2024/2025 Fall)
-  * C Programming (2021/2022/2023/2024/2025 Spring)
+  * C Programming (2021/2022/2023/2024/2025/2026 Spring)
   * Data Structure (2025 Spring)
-  * Operating System (2021/2022/2023 Spring)
+  * Operating System (2021/2022/2023/2026 Spring)
   * Comprehensive Practical Ability Innovation Training (2021/2024 Fall, 2024 Spring, 2025 Spring)
   * Production Practice (2023/2024/2025 Fall)
 
