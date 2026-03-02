@@ -1,8 +1,8 @@
 ---
-title: "C Programming (Spring)"
+title: "Python Programming (Spring)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/spring-c-programming
+permalink: /teaching/spring-python-programming
 venue: "HNUST"
 ---
 ## Contents
