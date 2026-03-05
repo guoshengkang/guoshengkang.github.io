@@ -8,11 +8,16 @@ conda info --envs
 conda env list
 ```
 
-## 切换不同python版本内核
+## 虚拟环境
 ```
-ctivate python27
-#返回默认版本
-deactivate
+#创建新环境
+conda create -n new_env
+#激活新环境
+conda activate new_env
+#退出当前环境并返回到基础环境
+conda deactivate
+#删除环境(注：请确保在删除环境之前已经退出了该环境)
+conda env remove -n new_env
 ```
 
 ## 更新Conda
