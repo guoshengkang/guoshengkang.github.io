@@ -36,10 +36,16 @@ conda list
 conda search requests
 #安装package
 conda install requests
+#支持*通配模糊查找
+conda list pkgname*
 #更新package
 conda update requests
 #删除package
 conda remove requests
+#安装pip,然后使用pip来安装包
+conda install pip
+#使用pip安装包
+pip install package_name
 ```
 
 ## 镜像源设置
@@ -47,6 +53,7 @@ conda remove requests
 #添加新镜像源
 #清华镜像
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+#设置搜索时显示通道地址
 conda config --set show_channel_urls yes
 #阿里镜像
 conda config --add channels https://mirrors.aliyun.com/pypi/simple/
