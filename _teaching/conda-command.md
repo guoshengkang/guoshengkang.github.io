@@ -62,4 +62,7 @@ conda config --add channels https://mirrors.ustc.edu.cn/pypi/web/simple
 
 #移除镜像源
 conda config --remove channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+
+#查询当前配置中包含哪些channels
+conda config --get channels
 ```
