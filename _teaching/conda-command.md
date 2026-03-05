@@ -2,6 +2,10 @@
 ## 查看已安装的环境
 ```
 conda info -e
+#或者
+conda info --envs
+#或者
+conda env list
 ```
 
 ## 切换不同python版本内核
