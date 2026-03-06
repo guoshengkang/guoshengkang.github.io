@@ -23,6 +23,7 @@ venue: "HNUST"
   - Completion
   - Correction
   - Programming
+- [HUST-OJ](http://acm.hnust.cn)
 
 ## IDE
 - [Visual Studio 2010 Express (online version)](https://pan.baidu.com/s/1jH0P9Gf2ytXe8xYI_USZ0w)  
