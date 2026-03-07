@@ -19,6 +19,7 @@ Outline
 
 <span id="Academic evaluation">Academic evaluation</span>
 ======
+* [CCF Rank for International Journals and Conferences (2026)](http://guoshengkang.github.io/resources/2026_Rank_CCF推荐国际学术会议和期刊目录.pdf)
 * [CCF Rank for International Journals and Conferences (2022)](http://guoshengkang.github.io/resources/2022_Rank_CCF推荐国际学术会议和期刊目录.pdf)
 * [CCF Rank for International Journals and Conferences (2019)](http://guoshengkang.github.io/resources/2019_Rank_CCF推荐国际学术会议和期刊目录.pdf)
 * [CCF Rank for International Journals and Conferences (2015)](http://guoshengkang.github.io/resources/2015_Rank_CCF推荐国际学术会议和期刊目录.pdf)
