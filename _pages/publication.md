@@ -15,9 +15,9 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 ##  <span id="Journal Papers">Journal Papers</span> 
 ------
-* **Guosheng Kang**, **Qiqi Chen**, Jiawei Chen, Jianxun Liu*, Buqing Cao. CoWAR: A General Complementary Web API Recommendation Framework based on Learning Model. **IEEE Transactions on Reliability**, Vol. 75, No. 1, pp. 1160-1174, 2026. [PDF](https://pan.baidu.com/s/1gMMXZUlu4FKHG5xuuMFldw)
 * **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao, Min Shi. Feature-Enhanced Web API Recommendation via Large Language Model and Heterogeneous Graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
 * **Wen Li**, Xin Ai, **Guosheng Kang***, Xinci Qiu, Jianxun Liu. LLM-Based RESTful Web API Service Discovery. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00485-4.
+* **Guosheng Kang**, **Qiqi Chen**, Jiawei Chen, Jianxun Liu*, Buqing Cao. CoWAR: A General Complementary Web API Recommendation Framework based on Learning Model. **IEEE Transactions on Reliability**, Vol. 75, No. 1, pp. 1160-1174, 2026. [PDF](https://pan.baidu.com/s/1gMMXZUlu4FKHG5xuuMFldw)
 * **Guosheng Kang***, **Yan Li**, Xiaokang Zhou, Xiaocong Xiao, Jianxun Liu, Yu Xu. MPGCF: Multi-Objective and Popularity-Smoothing Graph Collaborative Filtering for Long-Tail Web API Recommendation. **Expert Systems With Applications**, Vol. 318, No. 2026, pp. 131920-131924, 2026. [PDF](https://pan.baidu.com/s/1p_eUu8RSCQ66hh-m0TVzqA)
 * **Guosheng Kang**, **Jianhua Feng**, Yong Xiao*, Jianxun Liu, Buqing Cao. HITT: Heterogeneous Imbalance-Text Transformer for Web Service
 Representation. **International Journal of Web and Grid Services**, Vol. 22, No. 1, pp. 63-89, 2026. [PDF](https://www.inderscienceonline.com/doi/abs/10.1504/IJWGS.2026.151907)
