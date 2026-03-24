@@ -11,7 +11,7 @@ redirect_from:
 
 What’s new
 ------
-- 2026/03/24, One paper has been accepted by CCPE, congratulations to **Zhuo Cheng**.
+- 2026/03/24, One paper has been accepted by CCPE, congratulations to **Zhuo Chen**.
 - 2026/03/21, Two papers have been accepted by IJCNN 2026, congratulations to **Jinhui Luo** and **Yuxiang Kuang**.
 - 2026/02/28, One paper has been accepted by ESWA, congratulations to **Yan Li**.
 - 2026/02/22, One paper has been accepted by IEEE TR, congratulations to **Qiqi Chen**.
