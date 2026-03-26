@@ -15,6 +15,8 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 ##  <span id="Journal Papers">Journal Papers</span> 
 ------
+* **谌佳伟**，**钟佳怡**，**康国胜***，刘建勋．业务过程事件日志采样方法综述及其在过程发现中的性能评估, **计算机集成制造系统**, 2026, DOI:10.13196/j.cims.2026.BPM24. 
+* **谌佳伟**，**罗锦辉**，**康国胜***，刘英博，刘建勋．融合事件序列语义与属性关联语义的业务流程下一事件预测, **计算机集成制造系统**, 2026, DOI:10.13196/j.cims.2026.BPM02. 
 * **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao, Min Shi. Feature-Enhanced Web API Recommendation via Large Language Model and Heterogeneous Graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
 * **Wen Li**, Xin Ai, **Guosheng Kang***, Xinci Qiu, Jianxun Liu. LLM-Based RESTful Web API Service Discovery. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00485-4.
 * **Guosheng Kang**, **Qiqi Chen**, Jiawei Chen, Jianxun Liu*, Buqing Cao. CoWAR: A General Complementary Web API Recommendation Framework based on Learning Model. **IEEE Transactions on Reliability**, Vol. 75, No. 1, pp. 1160-1174, 2026. [PDF](https://pan.baidu.com/s/1gMMXZUlu4FKHG5xuuMFldw)
