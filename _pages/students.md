@@ -36,11 +36,11 @@ Supervised & Co-supervised Students
   - Thesis: 含分布式电源的配电网故障恢复方法研究
 - **Jiawei Chen (谌佳伟)**, Master Student, <font color='blue'>jiaweichen0031@gmail.com</font>, 2024.09-
   - Thesis: 业务流程下一事件预测方法研究
-- **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-
+- **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-2026.06
   - Thesis: 基于对比学习的Web服务表征方法研究
-- **Jianhua Feng (封建华)**, Master Student, <font color='blue'>fengjianhua411@gmail.com</font>, 2023.09-
+- **Jianhua Feng (封建华)**, Master Student, <font color='blue'>fengjianhua411@gmail.com</font>, 2023.09-2026.06
   - Thesis: 基于异构网络表征学习的Web服务推荐方法研究
-- **Zhuo Chen (陈卓)**, Master Student, <font color='blue'>cz2424895@gmail.com</font>, 2023.09-
+- **Zhuo Chen (陈卓)**, Master Student, <font color='blue'>cz2424895@gmail.com</font>, 2023.09-2026.06
   - Thesis: 基于大语言模型的Web服务推荐方法研究
 - **Weike Zhou (周维克)**, Master Student, <font color='blue'>lilvicky.0408@gmail.com</font>, 2022.09-2025.06
   - Thesis: 面向在线教育的课程推荐方法研究
