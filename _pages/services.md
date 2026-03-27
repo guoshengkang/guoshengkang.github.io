@@ -405,7 +405,7 @@ Conferences and Journals
   <tr>
     <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">IEEE TCSS</a></td>
     <td align="center">C</td>
-    <td align="center">-</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td align="center"><a href="https://cis.ieee.org/publications/t-emerging-topics-in-ci">IEEE TETCI</a></td>
