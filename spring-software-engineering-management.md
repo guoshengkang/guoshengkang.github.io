@@ -2,7 +2,7 @@
 title: "Modern Software Engineering (Spring)"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/spring_software_engineering_management
+permalink: /teaching/spring-software-engineering-management
 venue: "HNUST"
 ---
 * Lecture 1: Introduction to Software Engineering
