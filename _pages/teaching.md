@@ -35,6 +35,7 @@ redirect_from:
   * [2021, Spring (2020级研究生)](http://guoshengkang.github.io/teaching/2021-spring-advanced-software-engineering)
   * [2022, Spring (2021级研究生)](http://guoshengkang.github.io/teaching/2022-spring-advanced-software-engineering)
   * [2025, Spring (2024级研究生)](http://guoshengkang.github.io/teaching/2025-spring-modern-software-engineering)
+  * [2026, Spring (2025级研究生)](http://guoshengkang.github.io/teaching/spring-software_engineering_management)
 * **Software Service Engineering and Software Project Management**+**Service-Oriented Software Engineering**, Postgraduate, 32'
   * [2024, Fall (2024级学硕+2024级博士)](http://guoshengkang.github.io/teaching/2024-fall-service-oriented-software-engineering)
 * **Course Project**, Undergraduate, 20'/40'
