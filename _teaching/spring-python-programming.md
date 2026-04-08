@@ -23,7 +23,7 @@ venue: "HNUST"
 - [python-3.10.10-amd64](https://pan.baidu.com/s/1K0zxdvx5b84V5bude7_6yA?pwd=kang) 
 - [conda command](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/conda-command.md)
 
-## IDE
+## 模拟题
 - [PY程序设计实验-模拟题1](https://www.notion.so/PY-1-33c47877ad23801b90c0f8e688abac7a?source=copy_link)
 
 ## Textbook
