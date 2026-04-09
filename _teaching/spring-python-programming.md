@@ -33,6 +33,7 @@ venue: "HNUST"
 - [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/)
 - [ OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 - [OneCompiler](https://onecompiler.com/python)
+- [CodeChef](https://www.codechef.com/python-online-compiler)
 ## Textbook
 - [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 - 赵璐. Python语言程序设计教程[M]. 上海交通大学出版社, 2019. [Slides](https://pan.baidu.com/s/1_YxZCaNON1jMBdwWRqRx7g) 
