@@ -26,6 +26,13 @@ venue: "HNUST"
 ## 模拟题
 - [PY程序设计实验-模拟题1](https://www.notion.so/PY-1-33c47877ad23801b90c0f8e688abac7a?source=copy_link)
 
+## Python在线编程
+- [Python3 在线工具 | 菜鸟工具](https://www.jyshare.com/compile/9/)
+- [python3 在线编译IDE_w3cschool](https://www.w3cschool.cn/tryrun/runcode?lang=python3)
+- [Online Python Compiler (Interpreter)](https://www.programiz.com/python-programming/online-compiler/)
+- [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/)
+- [ OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
+- [OneCompiler](https://onecompiler.com/python)
 ## Textbook
 - [Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
 - 赵璐. Python语言程序设计教程[M]. 上海交通大学出版社, 2019. [Slides](https://pan.baidu.com/s/1_YxZCaNON1jMBdwWRqRx7g) 
