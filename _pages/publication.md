@@ -73,6 +73,8 @@ Representation. **International Journal of Web and Grid Services**, Vol. 22, No.
 
 ##  <span id="Conference Papers">Conference Papers</span> 
 ------
+- **Jinhui Luo**, **Jiayi Long**, Ziyi Niu, **Guosheng Kang***, Yingbo Liu, Yiping Wen, Jianxun Liu. Frequency-Based Heterogeneous Graph-Sequence Fusion Network for Next Activity Prediction. **International Joint Conference on Neural Networks**. IEEE Computer Society, 2026, Accepted.
+- **Yuxiang Kuang**, **Xiaoxiang Liao**, **Guosheng Kang***, Ye Cao, Xiao Cui, Rong Hu, Jiayan Xiang. Multi-View Denoised Graph Collaborative Filtering for Third-Party Library Recommendation. **International Joint Conference on Neural Networks**. IEEE Computer Society, 2026, Accepted.
 - **Mingjie Xie**, **Xinyao Yan**, Ye Cao, **Guosheng Kang***, Xiaoqing Chen, Guotai He. A Hybrid TCN-Mamba Model for Power Load Forecasting. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, 2026, Accepted.
 - **Jiayi Long**, **Jinhui Luo**, Jiawei Chen, **Guosheng Kang***, Lifeng Yang, Wen Li and Jiayan Xiang. Aligning Graphs and Sequences: A Contrastive Learning Approach for Next Event Prediction. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, 2026, Accepted.
 - **Xinci Qiu**, **Xiaoqing Chen**, Jiahao Ma, **Guosheng Kang***, Wen Li and Jiayan Xiang. Multi-Modal Complementary Web API Recommendation with Attentive Context Modeling. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, 2026, Accepted.
