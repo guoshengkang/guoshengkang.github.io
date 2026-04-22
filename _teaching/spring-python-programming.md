@@ -24,7 +24,11 @@ venue: "HNUST"
 - [conda command](https://github.com/guoshengkang/guoshengkang.github.io/blob/master/_teaching/conda-command.md)
 
 ## 模拟题
-- [PY程序设计实验-模拟题1](https://www.notion.so/PY-1-33c47877ad23801b90c0f8e688abac7a?source=copy_link)
+- [PY程序设计实验-模拟题1](https://www.notion.so/PY-1-34347877ad238072aeaffa735a168196?source=copy_link)
+- [PY程序设计实验-模拟题2](https://www.notion.so/PY-2-34347877ad238033a470ef184e4066e4?source=copy_link)
+- [PY程序设计实验-模拟题3](https://www.notion.so/PY-3-34a47877ad2380299f89e2882acec0d0?source=copy_link)
+- [PY程序设计实验-模拟题4](https://www.notion.so/PY-4-34a47877ad23809ea6b0c80e4f1729c6?source=copy_link)
+- [PY程序设计实验-模拟题5](https://www.notion.so/PY-5-34a47877ad2380978352f2fc137cfecb?source=copy_link)
 
 ## Python在线编程
 - [Python3 在线工具-菜鸟工具](https://www.jyshare.com/compile/9/)
