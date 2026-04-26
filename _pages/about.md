@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2026/04/26, One paper has been accepted by CCF ICSS 2026, congratulations to **Xinyao Yan**.
 - 2026/04/16, One paper has been accepted by CCPE, congratulations to **Jiayan Xiang**.
 - 2026/03/24, One paper has been accepted by CCPE, congratulations to **Zhuo Chen**.
 - 2026/03/21, Two papers have been accepted by IJCNN 2026, congratulations to **Jinhui Luo** and **Yuxiang Kuang**.
