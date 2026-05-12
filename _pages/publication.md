@@ -74,7 +74,7 @@ Representation. **International Journal of Web and Grid Services**, Vol. 22, No.
 
 ##  <span id="Conference Papers">Conference Papers</span> 
 ------
-- **Xinyao Yan**, Jinhui Luo, Jiayi Long, **Guosheng Kang***, Jianxun Liu, Yiping Wen, and Xiaocong Xiao.. Semantic Stories for Next Activity Prediction with Retrieval-Augmented Generation and Fine-Tuning. **CCF International Conference on Service Science**. Singapore: Springer Nature Singapore, 2026, Accepted.
+- **Xinyao Yan**, Jinhui Luo, Jiayi Long, **Guosheng Kang***, Jianxun Liu, Yiping Wen, and Xiaocong Xiao. Semantic Stories for Next Activity Prediction with Retrieval-Augmented Generation and Fine-Tuning. **CCF International Conference on Service Science**. Singapore: Springer Nature Singapore, 2026, Accepted.
 - **Jinhui Luo**, **Jiayi Long**, Ziyi Niu, **Guosheng Kang***, Yingbo Liu, Yiping Wen, Jianxun Liu. Frequency-Based Heterogeneous Graph-Sequence Fusion Network for Next Activity Prediction. **International Joint Conference on Neural Networks**. IEEE Computer Society, 2026, Accepted.
 - **Yuxiang Kuang**, **Xiaoxiang Liao**, **Guosheng Kang***, Ye Cao, Xiao Cui, Rong Hu, Jiayan Xiang. Multi-View Denoised Graph Collaborative Filtering for Third-Party Library Recommendation. **International Joint Conference on Neural Networks**. IEEE Computer Society, 2026, Accepted.
 - **Mingjie Xie**, **Xinyao Yan**, Ye Cao, **Guosheng Kang***, Xiaoqing Chen, Guotai He. A Hybrid TCN-Mamba Model for Power Load Forecasting. **International Conference on Computer Supported Cooperative Work in Design**. IEEE Computer Society, 2026, Accepted.
