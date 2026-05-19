@@ -23,6 +23,7 @@ Research projects (in Chinese)
 
 Engineering projects
 ------
+* [iMashup](https://github.com/IntelligentServiceLab/iMashup): 基于大语言模型的智能化Mashup开发工具
 * [CollaborateBPM](https://github.com/IntelligentServiceLab/CollaborateBPM): An open collaboration platform for cross-organizational business processes
 * [BPMN++](https://github.com/IntelligentServiceLab/BPMN-Plus-Plus): An extended BPMN modeling tool for Industrial Internet applications
 * [WeChat Helper](https://github.com/guoshengkang/wechat-helper): Group to send messages to the selected members of a certain WeChat group
