@@ -566,6 +566,7 @@ Conferences and Journals
 </table>
 
 [Acceptance Rate for Conferences](https://www.openresearch.org/wiki/ICSOC)
+
 [<<中科院文献情报中心期刊分区表>>](https://www.fenqubiao.com/)
 
 Call For Papers
