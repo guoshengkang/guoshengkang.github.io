@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2026/06/16, One paper has been accepted by SMC 2026, congratulations to **Mingjie Xie**.
 - 2026/04/26, One paper has been accepted by CCF ICSS 2026, congratulations to **Xinyao Yan**.
 - 2026/04/16, One paper has been accepted by CCPE, congratulations to **Jiayan Xiang**.
 - 2026/03/24, One paper has been accepted by CCPE, congratulations to **Zhuo Chen**.
