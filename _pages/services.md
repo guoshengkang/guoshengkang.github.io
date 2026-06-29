@@ -70,7 +70,7 @@ Conferences and Journals
     <td align="center"><b>CAS Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="28"><b>International Conferences</b></td>
+    <td align="center" rowspan="31"><b>International Conferences</b></td>
     <td align="center">IJCAI - Jan 14</td>
     <td align="center">A*</td>
     <td align="center">-</td>
@@ -101,8 +101,13 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">ICSS - Mar 15</td>
+    <td align="center">ICIC - Mar 20</td>
+    <td align="center">C</td>
     <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">ICSS - Mar 15</td>
+    <td align="center">C</td>
     <td align="center">-</td>
   </tr>
   <tr>
@@ -151,7 +156,17 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
+    <td align="center">ICA3PP - Jul 10</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">CoopIS - Jul 15</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">ADMA - July 17</td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
