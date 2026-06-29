@@ -70,7 +70,7 @@ Conferences and Journals
     <td align="center"><b>CAS Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="31"><b>International Conferences</b></td>
+    <td align="center" rowspan="30"><b>International Conferences</b></td>
     <td align="center">IJCAI - Jan 14</td>
     <td align="center">A*</td>
     <td align="center">-</td>
@@ -152,11 +152,6 @@ Conferences and Journals
   </tr>
   <tr>
     <td align="center">CollaborateCom - Jun 15</td>
-    <td align="center">C</td>
-    <td align="center">-</td>
-  </tr>
-  <tr>
-    <td align="center">ICA3PP - Jul 10</td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
