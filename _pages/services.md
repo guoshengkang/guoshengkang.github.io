@@ -237,7 +237,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="57"><b>International Journals</b></td>
+    <td align="center" rowspan="59"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tais">ACM TAIS</a></td>
     <td align="center"> </td>
     <td align="center"> </td>
@@ -319,6 +319,11 @@ Conferences and Journals
   </tr>
   <tr>
     <td align="center"><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a></td>
+    <td align="center">C</td>
+    <td align="center">1</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">EAAI</a></td>
     <td align="center">C</td>
     <td align="center">1</td>
   </tr>
@@ -496,6 +501,11 @@ Conferences and Journals
     <td align="center"><a href="https://www.sciencedirect.com/journal/information-systems">INFOSYS</a></td>
     <td align="center">B</td>
     <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a></td>
+    <td align="center">B</td>
+    <td align="center">2</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a></td>
