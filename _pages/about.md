@@ -19,19 +19,6 @@ What’s new
 - 2026/02/28, One paper has been accepted by ESWA, congratulations to **Yan Li**.
 - 2026/02/22, One paper has been accepted by IEEE TR, congratulations to **Qiqi Chen**.
 - 2026/02/01, Four papers have been accepted by CSCWD 2026, congratulations to **Mingjie Xie**, **Xinci Qiu**, **Xiaoxiang Liao**, and **Jiayi Long**.
-- 2025/12/24, One paper has been accepted by ESWA, congratulations to **Guotai He**.
-- 2025/12/12, One paper has been accepted by IJWGS, congratulations to **Jianhua Feng**.
-- 2025/11/20, One paper has been accepted by SOCA, congratulations to **Zhuo Chen**.
-- 2025/11/09, One paper has been accepted by SOCA, congratulations to **Wen Li**.
-- 2025/10/15, Two papers have been accepted by CBPM 2025, congratulations to **Jiawei Chen** and **Jinhui Luo**.
-- 2025/09/23, One paper has been accepted by IEEE TCE, congratulations to **Yan Li**.
-- 2025/09/17, One paper has been accepted by ICSOC 2025, congratulations to **Jiayu Li** and **Xinci Qiu**.
-- 2025/08/21, One paper has been accepted by IEEE TCSS, congratulations to **Hongshuai Ren**.
-- 2025/04/01, One paper has been accepted by IJCNN, congratulations to **Jiayu Li** and **Qingping Li**.
-- 2025/03/28, One paper has been accepted by CCPE, congratulations to **Jiawei Chen** and **Jiayi Zhong**.
-- 2025/03/22, One paper has been accepted by CCPE, congratulations to **Zhen Wang**.
-- 2025/03/13, One paper has been accepted by JIT, congratulations to **Weike Zhou**.
-- 2025/02/05, One paper has been accepted by CSCWD 2025, congratulations to **Jiayi Zhong** and **Yaling Tang**.
 
 Contact
 ------
