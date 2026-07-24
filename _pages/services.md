@@ -70,7 +70,7 @@ Conferences and Journals
     <td align="center"><b>CAS Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="30"><b>International Conferences</b></td>
+    <td align="center" rowspan="31"><b>International Conferences</b></td>
     <td align="center">IJCAI - Jan 14</td>
     <td align="center">A*</td>
     <td align="center">-</td>
@@ -112,6 +112,11 @@ Conferences and Journals
   </tr>
   <tr>
     <td align="center">ER - Apr 4</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">IEEE SMC - Apr 19</td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
