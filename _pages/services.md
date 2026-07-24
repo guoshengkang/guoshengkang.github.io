@@ -116,7 +116,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center">IEEE SMC - Apr 19</td>
+    <td align="center"><a href="https://www.ieeesmc2026.org/">IEEE SMC</a>- Apr 19</td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
