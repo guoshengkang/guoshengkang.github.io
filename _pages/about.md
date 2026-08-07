@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2026/08/07, Four papers have been accepted by WISE 2026, congratulations to **Xiaoxiang Liao**, **Jinhui Luo**, **Xinci Qiu** and **Xiaoqing Chen**.
 - 2026/06/16, One paper has been accepted by SMC 2026, congratulations to **Mingjie Xie**.
 - 2026/04/26, One paper has been accepted by CCF ICSS 2026, congratulations to **Xinyao Yan**.
 - 2026/04/16, One paper has been accepted by CCPE, congratulations to **Jiayan Xiang**.
