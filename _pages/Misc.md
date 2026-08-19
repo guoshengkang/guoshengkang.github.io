@@ -43,7 +43,7 @@ Hobbies
 * Play ping-pong
 * Random bike or walk
 * Read and write poems
-  * You can read a collection of my poems <a href="http://guoshengkang.github.io/files/MyPoems.pdf" title="MyPoems">here</a>, while most of them are written in Chinese.
+<!-- You can read a collection of my poems <a href="http://guoshengkang.github.io/files/MyPoems.pdf" title="MyPoems">here</a>, while most of them are written in Chinese.-->
 
 <!-- 以下效果一样的 -->
 <!-- [here](http://guoshengkang.github.io/files/MyPoems.pdf "MyPoems") -->
