@@ -70,7 +70,7 @@ Conferences and Journals
     <td align="center"><b>CAS Rank</b></td>
   </tr>
   <tr>
-    <td align="center" rowspan="31"><b>International Conferences</b></td>
+    <td align="center" rowspan="32"><b>International Conferences</b></td>
     <td align="center">IJCAI - Jan 14</td>
     <td align="center">A*</td>
     <td align="center">-</td>
@@ -117,6 +117,11 @@ Conferences and Journals
   </tr>
   <tr>
     <td align="center"><a href="https://www.ieeesmc2026.org/">IEEE SMC</a>- Apr 19</td>
+    <td align="center">C</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://ccf.org.cn/WISA2026">WISA</a>- Apr 21</td>
     <td align="center">C</td>
     <td align="center">-</td>
   </tr>
