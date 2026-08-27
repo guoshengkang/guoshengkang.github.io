@@ -107,6 +107,7 @@ Outline
   * **[DeepSeek](https://chat.deepseek.com/)**
   * **[Gemini](https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview)**
   * **[Llama](https://llama.meta.com/)**
+  * **[CSPaper](https://cspaper.org/)**
   * **[学术AI](https://chat.uaskgpt.com/)**
   * **[Distill](https://distill.pub/)**
     * Machine learning research should be clear, dynamic and vivid. Distill is here to help.
