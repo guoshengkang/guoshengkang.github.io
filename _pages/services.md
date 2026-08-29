@@ -132,7 +132,7 @@ Conferences and Journals
   </tr>
   <tr>
     <td align="center">WISE - May 7</td>
-    <td align="center">C</td>
+    <td align="center">B</td>
     <td align="center">-</td>
   </tr>
   <tr>
