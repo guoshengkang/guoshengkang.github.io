@@ -74,6 +74,7 @@ Representation. **International Journal of Web and Grid Services**, Vol. 22, No.
 
 ##  <span id="Conference Papers">Conference Papers</span> 
 ------
+* **Ye Cao**, Jihe Shen, Fan Lin, **Guosheng Kang***, Yang Xiong, Ruyan Tan, Dan Huang. Preserving Core Semantics via Attribute-Guided Diffusion for Sequential Recommendation. **International Conference on Advanced Data Mining and Applications**. Springer, 2026, Accepted.
 * **Xinci Qiu**, Ye Cao, Jiayan Xiang, **Guosheng Kang**, Xin Ai, Jiahao Ma. Complementarity-Aware Web API Recommendation via Explicit and Implicit Requirement Modeling. **International Conference on Web Information Systems Engineering**. Springer, 2026, Accepted.
 * **Jinhui Luo**, Jiayi Long, Jiawei Chen, **Guosheng Kang**, Jianxun Liu, Yipin Wen. LLM4PPM: Learning Transferable Process Semantics for Predictive Process Monitoring. **International Conference on Web Information Systems Engineering**. Springer, 2026, Accepted.
 * **Xiaoxiang Liao**, Qingping Li, **Guosheng Kang**, Xiaoqing Chen, Yingchao Huo. Tail-Aware Edge Reconstruction and Semantic Prototype Supervision for Graph-Based Third-Party Library Recommendation. **International Conference on Web Information Systems Engineering**. Springer, 2026, Accepted.
