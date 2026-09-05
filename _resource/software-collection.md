@@ -19,6 +19,7 @@ permalink: /resource/software-collection
 * [MicroKMS_v20.09.12.exe (Office Activator)](https://pan.baidu.com/s/1BX82BN0loIEf9fCnmcgrbQ)
 * [Microsoft .NET Framework 4.6.exe](https://pan.baidu.com/s/1ULsqVNvmLhQ4WtaGbGMPdw)
 * [Notepad++ 8.4.4](https://pan.baidu.com/s/1wZislAvf1Hi86ZqwpIhjLA)
+* [Notepad++](https://notepad-plus-plus.org/)
 * [Office 2016](https://pan.baidu.com/s/1oK1jzLB4Ys6Gq2Z3YXTJXA)
 * [PDF Toolkit—PDF Shaper](https://pan.baidu.com/s/1UxSqZxELRwywmggs6XlPzw)
 * [SciHub 9](https://pan.baidu.com/s/1GHd03ovdOd2HiXm6_Y9yfw?pwd=kang)
