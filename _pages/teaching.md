@@ -7,6 +7,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [**Foundations and Artificial Intelligence**](http://guoshengkang.github.io/teaching/fall-foundations-of-artificial-intelligence), Undergraduate, 24'
+  * 2026, Fall (2025级信计1~4班, 2025级统计1~4班,)
 * [**Python and Statistical Analysis**](http://guoshengkang.github.io/teaching/spring-python-and-statistical-analysis), Undergraduate, 40'
   * 2026, Spring (2024级计科(智能)9班)
 * [**Python Programming**](http://guoshengkang.github.io/teaching/spring-python-programming), Undergraduate, 32'+24'
@@ -41,7 +43,7 @@ redirect_from:
 * **Course Project**, Undergraduate, 20'/40'
   * Database (2020/2022/2024/2025 Fall)
   * C Programming (2021/2022/2023/2024/2025/2026 Spring)
-  * Data Structure (2025 Spring)
+  * Data Structure (2025 Spring /2026 Fall)
   * Operating System (2021/2022/2023/2026 Spring)
   * Comprehensive Practical Ability Innovation Training (2021/2024 Fall, 2024 Spring, 2025 Spring)
   * Production Practice (2023/2024/2025 Fall)
