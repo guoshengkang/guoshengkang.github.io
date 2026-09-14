@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 * [**Foundations and Artificial Intelligence**](http://guoshengkang.github.io/teaching/fall-foundations-of-artificial-intelligence), Undergraduate, 24'
-  * 2026, Fall (2025级信计1~4班, 2025级统计1~4班,)
+  * 2026, Fall (2025级信计1~4班, 2025级统计1~4班)
 * [**Python and Statistical Analysis**](http://guoshengkang.github.io/teaching/spring-python-and-statistical-analysis), Undergraduate, 40'
   * 2026, Spring (2024级计科(智能)9班)
 * [**Python Programming**](http://guoshengkang.github.io/teaching/spring-python-programming), Undergraduate, 32'+24'
