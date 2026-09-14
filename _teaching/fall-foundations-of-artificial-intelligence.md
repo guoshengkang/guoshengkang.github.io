@@ -2,7 +2,7 @@
 title: "Foundations of Artificial Intelligence (Fall)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /fall-foundations-of-artificial-intelligence
+permalink: /teaching/fall-foundations-of-artificial-intelligence
 venue: "HNUST"
 ---
 ## Contents
