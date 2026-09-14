@@ -6,14 +6,14 @@ permalink: /fall-foundations-of-artificial-intelligence
 venue: "HNUST"
 ---
 ## Contents
-* Chapter 1: Overview of Artificial Intelligence
-* Chapter 2: Knowledge Representation and Problem Solving
-* Chapter 3: Machine Learning
-* Chapter 4: Artificial Neural Networks and Deep Learning
-* Chapter 5: Computer Vision
-* Chapter 6: Natural Language Processing
-* Chapter 7: Intelligent Speech Processing*
-* Chapter 8: Artificial Intelligence Ethics and Frontier Technologies*
+* Chapter 1: Overview of Artificial Intelligence [Slide](http://guoshengkang.github.io/files/AI_Slide1.pdf)
+* Chapter 2: Knowledge Representation and Problem Solving [Slide](http://guoshengkang.github.io/files/AI_Slide2.pdf)
+* Chapter 3: Machine Learning [Slide](http://guoshengkang.github.io/files/AI_Slide3.pdf)
+* Chapter 4: Artificial Neural Networks and Deep Learning [Slide](http://guoshengkang.github.io/files/AI_Slide4.pdf)
+* Chapter 5: Computer Vision [Slide](http://guoshengkang.github.io/files/AI_Slide5.pdf)
+* Chapter 6: Natural Language Processing [Slide](http://guoshengkang.github.io/files/AI_Slide6.pdf)
+* Chapter 7: Intelligent Speech Processing* [Slide](http://guoshengkang.github.io/files/AI_Slide7.pdf)
+* Chapter 8: Artificial Intelligence Ethics and Frontier Technologies* [Slide](http://guoshengkang.github.io/files/AI_Slide8.pdf)
 
 
 ## Textbook
