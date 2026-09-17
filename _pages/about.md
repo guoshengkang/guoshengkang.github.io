@@ -11,6 +11,7 @@ redirect_from:
 
 What’s new
 ------
+- 2026/09/17, One paper has been accepted by IEEE TSC, congratulations to **Jiayan Xiang**.
 - 2026/09/03, One paper has been accepted by ADMA 2026, congratulations to **Ye Cao**.
 - 2026/08/07, Four papers have been accepted by WISE 2026, congratulations to **Xiaoxiang Liao**, **Jinhui Luo**, **Xinci Qiu** and **Xiaoqing Chen**.
 - 2026/06/16, One paper has been accepted by SMC 2026, congratulations to **Mingjie Xie**.
