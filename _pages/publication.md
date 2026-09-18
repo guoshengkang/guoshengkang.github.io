@@ -15,7 +15,7 @@ You can also find my papers on my <a href="https://scholar.google.com.hk/citatio
 
 ##  <span id="Journal Papers">Journal Papers</span> 
 ------
-* **Jiayan Xiang**, **Guosheng Kang***, Jianxun Liu, Yu Xu, Buqing Cao. Dual-Objective Graph Contrastive Learning for Accurate and Diversified Service Recommendation. **IEEE Transactions on Services Computing**, 2026, Accepted. 
+* **Jiayan Xiang**, **Guosheng Kang***, Jianxun Liu, Yu Xu, Buqing Cao. Dual-Objective Graph Contrastive Learning for Accurate and Diversified Service Recommendation. **IEEE Transactions on Services Computing**, 2026, DOI: 10.1109/TSC.2026.3735995. 
 * **谌佳伟**，**钟佳怡**，**康国胜***，刘建勋．业务过程事件日志采样方法综述及其在过程发现中的性能评估. **计算机集成制造系统**, 2026, DOI:10.13196/j.cims.2026.BPM24. 
 * **谌佳伟**，**罗锦辉**，**康国胜***，刘英博，刘建勋．融合事件序列语义与属性关联语义的业务流程下一事件预测. **计算机集成制造系统**, 2026, DOI:10.13196/j.cims.2026.BPM02. 
 * **Guosheng Kang**, **Zhuo Chen***, Yang Wang, Jianxun Liu, Yong Xiao, Min Shi. Feature-Enhanced Web API Recommendation via Large Language Model and Heterogeneous Graph. **Service Oriented Computing and Applications**, 2025, DOI: 10.1007/s11761-025-00482-7.
