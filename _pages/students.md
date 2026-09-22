@@ -12,6 +12,7 @@ redirect_from:
 <font color='red'>Welcome hardworking students (MS students, undergraduate students) to join our team——<a href="https://intelligentservicelab.github.io"><b>iServiceLab</b></a>. Please <a href="mailto:guoshengkang@gmail.com">email me</a> if you are interested.</font>
 
 My recent research interests include (but not limited to)  the following topics:  
+- Agentic Service
 - Service Network Representation
 - Service Discovery/Recommendation (Web Service, IoT Service, Manufacturing Service, etc.)
 - Self-Adaptive Service Composition
