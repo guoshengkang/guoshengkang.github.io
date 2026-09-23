@@ -33,7 +33,7 @@ Supervised & Co-supervised Students
   - Thesis: 
 - **Xiang Liu (刘翔)**, Master Student, <font color='blue'>xtxiaot@gmail.com</font>, 2026.09-2029.06
   - Thesis:
-- **Yi Meng Xiang (孟毅)**, Master Student, <font color='blue'>m3318691309@gmail.com</font>, 2026.09-2029.06
+- **Yi Meng (孟毅)**, Master Student, <font color='blue'>m3318691309@gmail.com</font>, 2026.09-2029.06
   - Thesis:
 - **Yi Ling (凌艺)**, Master Student, <font color='blue'>1986532807@qq.com</font>, 2026.09-2029.06
   - Thesis: 
