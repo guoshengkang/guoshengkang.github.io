@@ -29,6 +29,14 @@ I’m fortunate to work with the following brilliant students.
 
 Supervised & Co-supervised Students
 ------
+- **Jiahao Ma (马嘉浩)**, Master Student, <font color='blue'>jiahaoma2627@gmail.com</font>, 2026.09-2029.06
+  - Thesis: 
+- **Xiang Liu (刘翔)**, Master Student, <font color='blue'>xtxiaot@gmail.com</font>, 2026.09-2029.06
+  - Thesis:
+- **Yi Meng Xiang (孟毅)**, Master Student, <font color='blue'>m3318691309@gmail.com</font>, 2026.09-2029.06
+  - Thesis:
+- **Yi Ling (凌艺)**, Master Student, <font color='blue'>1986532807@qq.com</font>, 2026.09-2029.06
+  - Thesis: 
 - **Jiayan Xiang (项佳艳)**, Master Student, <font color='blue'>jiayanxiang02@gmail.com</font>, 2025.09-2028.06
   - Thesis: 基于图神经网络的多样化服务推荐方法研究
 - **Yan Li (李岩)**, Master Student, <font color='blue'>sgly33@gmail.com</font>, 2024.09-2027.06
