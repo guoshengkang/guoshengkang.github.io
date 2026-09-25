@@ -35,7 +35,7 @@ Supervised & Co-supervised Students
   - Thesis:
 - **Yi Meng (孟毅)**, Master Student, <font color='blue'>m3318691309@gmail.com</font>, 2026.09-2029.06
   - Thesis:
-- **Yi Ling (凌艺)**, Master Student, <font color='blue'>1986532807@qq.com</font>, 2026.09-2029.06
+- **Yi Ling (凌艺)**, Master Student, <font color='blue'>yl727392@gmail.com</font>, 2026.09-2029.06
   - Thesis: 
 - **Jiayan Xiang (项佳艳)**, Master Student, <font color='blue'>jiayanxiang02@gmail.com</font>, 2025.09-2028.06
   - Thesis: 基于图神经网络的多样化服务推荐方法研究
