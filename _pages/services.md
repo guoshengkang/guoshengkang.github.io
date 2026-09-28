@@ -247,7 +247,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="59"><b>International Journals</b></td>
+    <td align="center" rowspan="60"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tais">ACM TAIS</a></td>
     <td align="center"> </td>
     <td align="center"> </td>
@@ -291,6 +291,11 @@ Conferences and Journals
     <td align="center"><a href="https://dl.acm.org/journal/tweb">ACM TWEB</a></td>
     <td align="center">B*</td>
     <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics">AEI</a></td>
+    <td align="center">B</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.springer.com/journal/10489">APIN</a></td>
