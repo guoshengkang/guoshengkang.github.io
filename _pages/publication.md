@@ -63,13 +63,13 @@ Representation. **International Journal of Web and Grid Services**, Vol. 22, No.
 * Mingdong Tang, Zibin Zheng, **Guosheng Kang**, Jianxun Liu, Yatao Yang, and Tingting Zhang. Collaborative Web Service Quality Prediction Via Exploiting Matrix Factorization and Network Map. **IEEE Transactions on Network Service Management**, Vol. 13, No. 1, pp. 126-137, 2016. [PDF](https://pan.baidu.com/s/10ITp3cyvXOwjG_eDcg88fA?)  [Link](https://ieeexplore.ieee.org/document/7378981)
 * **Guosheng Kang**, Mingdong Tang, Jianxun Liu, Xiaoqing (Frank) Liu, Buqing Cao. Diversifying Web Service Recommendation Results via Exploring Service Usage History. **IEEE Transactions on Services Computing**, Vol. 9, No. 4, pp. 566-579, 2015. [PDF](https://pan.baidu.com/s/1p7Oz9i97wQX-Bxifh-zKtQ?) [Link](https://ieeexplore.ieee.org/document/7065242)
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Buqing Cao, Yu Xu. An Effective Web Service Ranking Method via Exploring User Behavior. **IEEE Transactions on Network and Service Management**, Vol. 12, No. 4, pp. 554-564, 2015. [PDF](https://pan.baidu.com/s/1OzbDH8d1w1utzs6awQ10uA?) [Link](https://ieeexplore.ieee.org/document/7322284)
-* 杨丽琴, **康国胜**, 郭立鹏, 田朝阳, 张亮, 张笑楠, 高翔. 一种适用于多样性环境的业务流程挖掘方法. **软件学报**, Vol. 26, No. 3, pp. 550-561, 2015. [PDF](https://pan.baidu.com/s/117DuFVPGhP6AE0SDaX2FnA?) 
-* **康国胜**, 刘建勋, 唐明董, 曹步清. 考虑QoS属性相关性的Web服务选择. **小型微型计算机系统**, Vol. 35, No. 4, pp. 786-790, 2014. [PDF](https://pan.baidu.com/s/1UOX8eIkNxK_cH0TfYzfvXw?)
-* **康国胜**, 刘建勋, 唐明董, 刘小青. 面向多服务请求的Web服务全局优化选择模型研究. **计算机研究与发展**, Vol. 50, No. 7, pp. 1524-1533, 2013. [PDF](https://pan.baidu.com/s/1zVYncUy8_qCbeLiOY4zmlw?)
-* **康国胜**, 刘建勋, 唐明董, 徐宇. Qos全局最优动态Web服务选择算法. **小型微型计算机系统**, Vol. 34, No. 1, pp. 73-77, 2013. [PDF](https://pan.baidu.com/s/1zHo3Fekf7BPjemRUakRayw?)
+* 杨丽琴, **康国胜**, 郭立鹏, 田朝阳, 张亮, 张笑楠, 高翔. 一种适用于多样性环境的业务流程挖掘方法. **软件学报**, Vol. 26, No. 3, pp. 550-561, 2015. [PDF](https://pan.baidu.com/s/117DuFVPGhP6AE0SDaX2FnA?) [Link](https://www.jos.org.cn/jos/article/abstract/4770)
+* **康国胜**, 刘建勋, 唐明董, 曹步清. 考虑QoS属性相关性的Web服务选择. **小型微型计算机系统**, Vol. 35, No. 4, pp. 786-790, 2014. [PDF](https://pan.baidu.com/s/1UOX8eIkNxK_cH0TfYzfvXw?) [Link](http://xwxt.sict.ac.cn/CN/Y2014/V35/I4/786)
+* **康国胜**, 刘建勋, 唐明董, 刘小青. 面向多服务请求的Web服务全局优化选择模型研究. **计算机研究与发展**, Vol. 50, No. 7, pp. 1524-1533, 2013. [PDF](https://pan.baidu.com/s/1zVYncUy8_qCbeLiOY4zmlw?) [Link](https://crad.ict.ac.cn/article/id/1267)
+* **康国胜**, 刘建勋, 唐明董, 徐宇. Qos全局最优动态Web服务选择算法. **小型微型计算机系统**, Vol. 34, No. 1, pp. 73-77, 2013. [PDF](https://pan.baidu.com/s/1zHo3Fekf7BPjemRUakRayw?) [Link](http://xwxt.sict.ac.cn/CN/Y2013/V34/I1/73)
 * **Guosheng Kang**, Jianxun Liu, Mingdong Tang, Buqing Cao. Web Service Selection Algorithm Based on Principal Component Analysis. **Journal of Electronics (China)**, Vol. 30, No. 2, pp. 1-9, 2012. [PDF](https://pan.baidu.com/s/1nN9EBB5OE_5zJg8_1gqQYw?) [Link](https://link.springer.com/article/10.1007/s11767-013-2135-1)
-* **康国胜**, 刘建勋, 胡蓉. 网格服务环境下的全局最优服务选择模型研究. **小型微型计算机系统**, Vol. 32, No. 9, pp. 1800-1803, 2011. [PDF](https://pan.baidu.com/s/1DrzM-PBroOuqL8kBOh0KQA?)
-* **康国胜**, 刘建勋, 唐明董，徐宇. 基于差异演化算法的QoS全局最优动态Web服务选择. **电信科学**, Vol. No. 12, pp. 67-71, 2011. [PDF](https://pan.baidu.com/s/1V90yo5Uy5iAv24FhZ9FOGQ?)
+* **康国胜**, 刘建勋, 胡蓉. 网格服务环境下的全局最优服务选择模型研究. **小型微型计算机系统**, Vol. 32, No. 9, pp. 1800-1803, 2011. [PDF](https://pan.baidu.com/s/1DrzM-PBroOuqL8kBOh0KQA?) [Link](http://xwxt.sict.ac.cn/CN/Y2011/V32/I9/1800)
+* **康国胜**, 刘建勋, 唐明董，徐宇. 基于差异演化算法的QoS全局最优动态Web服务选择. **电信科学**, Vol. No. 12, pp. 67-71, 2011. [PDF](https://pan.baidu.com/s/1V90yo5Uy5iAv24FhZ9FOGQ?) 
 
 [//]: # * 禹蒲阳, **康国胜**. 可信计算的研究与发展. **计算机技术与发展**, Vol. 21, No. 8, pp. 233-236, 2011.
 
