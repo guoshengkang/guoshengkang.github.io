@@ -11,7 +11,7 @@ author_profile: true
 - [**Technical Reports**](#Technical Reports)
 
 ------
-You can also find my papers on my <a href="https://scholar.google.com.hk/citations?user=dGw4VPoAAAAJ&hl=en">Google Scholar Profile</a> [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DdGw4VPoAAAAJ&hl)](https://scholar.google.com/citations?user=dGw4VPoAAAAJ&hl) or <a href="https://dblp.org/pers/hd/k/Kang:Guosheng">DBLP</a>, however, it may not be up to date.
+You can also find my papers on my <a href="https://scholar.google.com.hk/citations?user=dGw4VPoAAAAJ&hl=en">Google Scholar Profile</a> or <a href="https://dblp.org/pers/hd/k/Kang:Guosheng">DBLP</a>, however, it may not be up to date.
 
 ##  <span id="Journal Papers">Journal Papers</span> 
 ------
