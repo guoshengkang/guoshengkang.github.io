@@ -95,6 +95,7 @@ Outline
   * **[BPMN.IO](https://bpmn.io/)**
     * Web-based tooling for BPMN, DMN and Forms.
   * **[RemoveBG](https://www.remove.bg/)**
+  * **[Practical Web Tools](https://practicalwebtools.com/)**
     * Remove image background.
 * **Downloading**
   * **[Y2mate](https://www.y2mate.com)**
