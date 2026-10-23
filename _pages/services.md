@@ -608,3 +608,4 @@ Call For Papers
 --------
 - [Upcoming Conferences](http://www.conferencelist.info/upcoming.html)
 - [Conference Partner](https://www.myhuiban.com/)
+- [CCF Conference Submission Calendar](https://velvety-lebkuchen-a4e632.netlify.app/)
