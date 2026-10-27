@@ -247,7 +247,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="60"><b>International Journals</b></td>
+    <td align="center" rowspan="62"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tais">ACM TAIS</a></td>
     <td align="center"> </td>
     <td align="center"> </td>
@@ -422,6 +422,11 @@ Conferences and Journals
     <td align="center">-</td>
     <td align="center">1*</td>
   </tr>
+<tr>
+    <td align="center"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046">IEEE TMM</a></td>
+    <td align="center">A</td>
+    <td align="center">1</td>
+  </tr>
   <tr>
     <td align="center"><a href="https://www.comsoc.org/publications/journals/ieee-tnse">IEEE TNSE</a></td>
     <td align="center">-</td>
@@ -516,6 +521,11 @@ Conferences and Journals
     <td align="center"><a href="https://www.sciencedirect.com/journal/information-systems">INFOSYS</a></td>
     <td align="center">B</td>
     <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/information-processing-and-management">IPM</a></td>
+    <td align="center">B</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a></td>
