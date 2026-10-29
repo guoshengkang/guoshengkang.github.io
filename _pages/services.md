@@ -247,7 +247,7 @@ Conferences and Journals
     <td align="center">-</td>
   </tr>
   <tr>
-    <td align="center" rowspan="62"><b>International Journals</b></td>
+    <td align="center" rowspan="63"><b>International Journals</b></td>
     <td align="center"><a href="https://dl.acm.org/journal/tais">ACM TAIS</a></td>
     <td align="center"> </td>
     <td align="center"> </td>
@@ -530,7 +530,12 @@ Conferences and Journals
   <tr>
     <td align="center"><a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a></td>
     <td align="center">B</td>
-    <td align="center">2</td>
+    <td align="center">1</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/information-sciences">IS</a></td>
+    <td align="center">B</td>
+    <td align="center">1</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a></td>
