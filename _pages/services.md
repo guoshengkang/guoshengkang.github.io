@@ -523,17 +523,17 @@ Conferences and Journals
     <td align="center">3</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://www.sciencedirect.com/journal/information-sciences">INS</a></td>
+    <td align="center">B</td>
+    <td align="center">1</td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.sciencedirect.com/journal/information-processing-and-management">IPM</a></td>
     <td align="center">B</td>
     <td align="center">1</td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.sciencedirect.com/journal/information-and-software-technology">IST</a></td>
-    <td align="center">B</td>
-    <td align="center">1</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.sciencedirect.com/journal/information-sciences">IS</a></td>
     <td align="center">B</td>
     <td align="center">1</td>
   </tr>
