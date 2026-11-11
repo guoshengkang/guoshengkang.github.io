@@ -4,6 +4,7 @@ collection: resource
 permalink: /resource/software-collection
 ---
 * [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+* [打印机驱动网](https://www.dyjqd.com/)
 * [Clash](https://clash.guide/en/clash-for-windows.html)
 * [Clover (WIN)](https://pan.baidu.com/s/1CqVd2JLbECoFH_3UiNyxPw)
 * [CareUEyes](https://pan.baidu.com/s/1io28HDZK8bMtb-KgU7OXAg)  
