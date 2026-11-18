@@ -38,11 +38,11 @@ Supervised & Co-supervised Students
 - **Yi Ling (凌艺)**, Master Student, <font color='blue'>yl727392@gmail.com</font>, 2026.09-2029.06
   - Thesis: 
 - **Jiayan Xiang (项佳艳)**, Master Student, <font color='blue'>jiayanxiang02@gmail.com</font>, 2025.09-2028.06
-  - Thesis: 基于图神经网络的多样化服务推荐方法研究
+  - Thesis: 面向长尾分布的Web API语义表征与推荐方法研究
 - **Yan Li (李岩)**, Master Student, <font color='blue'>sgly33@gmail.com</font>, 2024.09-2027.06
-  - Thesis: 公平性感知的Web API推荐方法研究
+  - Thesis: 多视图语义融合与多监督学习提升的Web API推荐方法研究
 - **Guotai He (贺国泰)**, Master Student, <font color='blue'>guotaihe3@gmail.com</font>, 2024.09-2027.06
-  - Thesis: 含分布式电源的配电网故障恢复方法研究
+  - Thesis: 含分布式电源的配电网智能故障恢复方法研究
 - **Jiawei Chen (谌佳伟)**, Master Student, <font color='blue'>jiaweichen0031@gmail.com</font>, 2024.09-2027.06
   - Thesis: 业务流程下一事件预测方法研究
 - **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-2026.06
