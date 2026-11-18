@@ -44,7 +44,7 @@ Supervised & Co-supervised Students
 - **Guotai He (贺国泰)**, Master Student, <font color='blue'>guotaihe3@gmail.com</font>, 2024.09-2027.06
   - Thesis: 含分布式电源的配电网智能故障恢复方法研究
 - **Jiawei Chen (谌佳伟)**, Master Student, <font color='blue'>jiaweichen0031@gmail.com</font>, 2024.09-2027.06
-  - Thesis: 业务流程下一事件预测方法研究
+  - Thesis: 融合多视图语义与多任务学习的预测性业务流程监控方法研究
 - **Hongshuai Ren (任宏帅)**, Master Student, <font color='blue'>hongshuairen01@gmail.com</font>, 2023.09-2026.06
   - Thesis: 基于对比学习的Web服务表征方法研究
 - **Jianhua Feng (封建华)**, Master Student, <font color='blue'>fengjianhua411@gmail.com</font>, 2023.09-2026.06
